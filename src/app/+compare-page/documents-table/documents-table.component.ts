@@ -154,7 +154,6 @@ export class DocumentsTableComponent {
 
     effect(() => {
       const searches = this.selectedSearches();
-      console.log(searches);
       this.activateRouteService.addQueryParams({
         search: searches.join(','),
       });

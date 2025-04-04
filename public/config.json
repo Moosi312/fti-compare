@@ -30,6 +30,21 @@
       "searchName": "Fifth Search",
       "description": "",
       "fileLocation": "/search-test/docs-by-indicator.json"
+    },
+    {
+      "searchName": "Sixth Search",
+      "description": "",
+      "fileLocation": "/search-test/docs-by-indicator.json"
+    },
+    {
+      "searchName": "Seventh Search",
+      "description": "",
+      "fileLocation": "/search-test/docs-by-indicator.json"
+    },
+    {
+      "searchName": "Eight Search",
+      "description": "",
+      "fileLocation": "/search-test/docs-by-indicator.json"
     }
   ]
 }
