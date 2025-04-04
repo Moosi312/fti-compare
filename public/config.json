@@ -1,0 +1,30 @@
+{
+  "files": {
+    "documents": "/data/docs.json",
+    "topicConfig": "/data/str.json",
+    "labels": "/data/labels.json"
+  },
+  "documentsFolder": "/docs/",
+  "searches": [
+    {
+      "searchName": "Text Search",
+      "fileLocation": "/search-test/docs-by-indicator.json"
+    },
+    {
+      "searchName": "LLM Search",
+      "fileLocation": "/llm-search/docs-by-indicator.json"
+    },
+    {
+      "searchName": "Third Search",
+      "fileLocation": "/search-test/docs-by-indicator.json"
+    },
+    {
+      "searchName": "Forth Search",
+      "fileLocation": "/search-test/docs-by-indicator.json"
+    },
+    {
+      "searchName": "Fifth Search",
+      "fileLocation": "/search-test/docs-by-indicator.json"
+    }
+  ]
+}

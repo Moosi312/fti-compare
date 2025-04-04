@@ -1,0 +1,4785 @@
+[
+    {
+        "file": "R000004.pdf",
+        "type": "r",
+        "name": "Empfehlung für die Schaffung von Rahmenbedingungen zur optimalen Entwicklung und Nutzung von Technologien der Künstlichen Intelligenz",
+        "year": "2024",
+        "topicIds": [
+            "A1",
+            "B3",
+            "C1",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung, Wissenschaft, Innovation und Technologieentwicklung",
+                "short": "FORWIT",
+                "city": "Wien",
+                "country": "Österreich"
+            },
+            {
+                "name": "Beirat für Künstliche Intelligenz",
+                "short": "KI-Beirat",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R000003.pdf",
+        "type": "r",
+        "name": "Empfehlungen für die FTI- und Wissenschaftspolitik einer Bundesregierung in der XXVIII. Legislaturperiode ",
+        "year": "2024",
+        "topicIds": [
+            "A1",
+            "B2",
+            "C4",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung, Wissenschaft, Innovation und Technologieentwicklung",
+                "short": "FORWIT",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "L100010.pdf",
+        "type": "l",
+        "name": "Report on Austria’s Scientific and Technological Capability 2022",
+        "year": "2022",
+        "topicIds": [],
+        "authors": [
+            {
+                "name": "Austrian Council for Research and Technology",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R000002EN.pdf",
+        "type": "r",
+        "name": "Recommendation on the Design of the 10th Framework Programme for Research and Innovation (FP10) of the European Union",
+        "year": "2024",
+        "topicIds": [
+            "A3",
+            "B2",
+            "B3",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Austrian Council for Sciences, Technology, and Innovation",
+                "short": "FORWIT",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R000002.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Gestaltung des 10. Forschungsrahmenprogramms (FP 10) der Europäischen Union",
+        "year": "2024",
+        "topicIds": [
+            "A3",
+            "B2",
+            "B3",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung, Wissenschaft, Innovation und Technologieentwicklung",
+                "short": "FORWIT",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C000001.pdf",
+        "type": "c",
+        "name": "Gestaltung und Dotation des Fonds Zukunft Österreich",
+        "year": "2024",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung, Wissenschaft, Innovation und Technologieentwicklung",
+                "short": "FORWIT",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R000001.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel des Fonds Zukunft Österreich für 2024",
+        "year": "2024",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung, Wissenschaft, Innovation und Technologieentwicklung",
+                "short": "FORWIT",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240001.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Schwerpunkten für die Vergabe der Mittel der Nationalstiftung 2013",
+        "year": "2012",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240002.pdf",
+        "type": "r",
+        "name": "Empfehlung zur langfristigen Finanzierung des österreichischen Bildungs- und FTI-Systems",
+        "year": "2012",
+        "topicIds": [
+            "B1",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240003.pdf",
+        "type": "r",
+        "name": "Empfehlung zu EFRE (Strukturfonds)",
+        "year": "2012",
+        "topicIds": [
+            "A1",
+            "A3",
+            "B5",
+            "C4",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240004.pdf",
+        "type": "r",
+        "name": "Empfehlung zum FTI-bezogenen Gründungsgeschehen",
+        "year": "2012",
+        "topicIds": [
+            "B4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240005.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der Nationalstiftung FTE 2013",
+        "year": "2012",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240006.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Alleinstellungsmerkmalen und Profilbildung im Hochschulraum",
+        "year": "2013",
+        "topicIds": [
+            "B1",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240007.pdf",
+        "type": "r",
+        "name": "Empfehlung zu ausgewählten Themenfeldern der Geistes-, Sozial- und Kulturwissenschaften",
+        "year": "2013",
+        "topicIds": [
+            "A2",
+            "B1",
+            "B2",
+            "D1",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240008.pdf",
+        "type": "r",
+        "name": "Empfehlung zu EFRE (Strukturfonds - Europäischen Fonds für regionale Entwicklung)",
+        "year": "2013",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240009.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der Zusatzfinanzierung der Nationalstiftung FTE 2013",
+        "year": "2013",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240010.pdf",
+        "type": "r",
+        "name": "Empfehlung zu einer nationalen Strategie zum geistigen Eigentum",
+        "year": "2013",
+        "topicIds": [
+            "A1",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240011.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Schwerpunkten für die Vergabe der Mittel der Nationalstiftung FTE 2014",
+        "year": "2013",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240012.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der letzten Tranche der Nationalstiftung FTE 2013",
+        "year": "2013",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240013.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Entwicklung des Hochschul- und Wissenschaftssystems in Österreich",
+        "year": "2013",
+        "topicIds": [
+            "B1",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240014.pdf",
+        "type": "r",
+        "name": "Empfehlung zu administrativen Vereinfachungen bei der Forschungsförderung - insbesondere EFRE",
+        "year": "2013",
+        "topicIds": [
+            "B5",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240015.pdf",
+        "type": "r",
+        "name": "Empfehlung zu einer optimierten Proof of Concept-Unterstützung im Wissenstransfer",
+        "year": "2013",
+        "topicIds": [
+            "B1",
+            "B4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240016.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der Nationalstiftung FTE für 2014",
+        "year": "2013",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240017.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Finanzierung der Universitäten und der Forschung bis zum Jahr 2020",
+        "year": "2014",
+        "topicIds": [
+            "B1",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240018.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Prioritäten für FTI",
+        "year": "2014",
+        "topicIds": [
+            "B2",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240019.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Schwerpunkten für die Vergabe der Mittel der Nationalstiftung FTE 2015",
+        "year": "2014",
+        "topicIds": [
+            "B5",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240020.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Novellierung des Alternativen Investmentfonds Manager-Gesetzes (AIFMG)",
+        "year": "2014",
+        "topicIds": [
+            "A1",
+            "B4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240021.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Internationalisierungsstrategie in Österreich in FTI",
+        "year": "2014",
+        "topicIds": [
+            "A3",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240022.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Zusammenarbeit der Medizinischen Universitäten und Universitätskliniken in Österreich",
+        "year": "2014",
+        "topicIds": [
+            "B2",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240023.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der Nationalstiftung FTE für 2015",
+        "year": "2014",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240024.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Schwerpunkten für die Vergabe der Mittel der Nationalstiftung FTE 2016",
+        "year": "2015",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240025.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Management- und Governancestrukturen an Universitäten",
+        "year": "2015",
+        "topicIds": [
+            "A1",
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240026.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Unterstützung einer verbesserten Crowdfunding-Kultur in Österreich",
+        "year": "2015",
+        "topicIds": [
+            "B4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240027.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Social Business in Österreich",
+        "year": "2015",
+        "topicIds": [
+            "B4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240028.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Finanzierung von Unis und öffentlicher F&E in Österreich im Bundesfinanzrahmen 2017-2020",
+        "year": "2015",
+        "topicIds": [
+            "B2",
+            "B5",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240029.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der Sondertranche der Nationalstiftung FTE 2015",
+        "year": "2015",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240030.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der Nationalstiftung FTE für 2016",
+        "year": "2015",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240031.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Finanzierung von Unis und F&E in Österreich im Bundesfinanzrahmen 2017-2020",
+        "year": "2016",
+        "topicIds": [
+            "B2",
+            "B5",
+            "C5",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240032.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der Nationalstiftung FTE für 2016",
+        "year": "2016",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240033.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Schwerpunkten für die Vergabe der Mittel der Nationalstiftung FTE 2017",
+        "year": "2016",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240034.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Finanzierung von Forschung und Entwicklung in Oesterreich",
+        "year": "2016",
+        "topicIds": [
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240035.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus dem Österreichfonds 2016",
+        "year": "2016",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240036.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der Sondertranche der Nationalstiftung FTE 2016",
+        "year": "2016",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240037.pdf",
+        "type": "r",
+        "name": "Empfehlung zur innovationsfördernden öffentlichen Beschaffung in Österreich",
+        "year": "2016",
+        "topicIds": [
+            "B3",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240038.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Finanzierung von Bildung, F&I in Österreich",
+        "year": "2016",
+        "topicIds": [
+            "A1",
+            "A2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240039.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der Nationalstiftung FTE für 2017",
+        "year": "2016",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240040.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Einrichtung eines Instruments zur Forcierung von Blue Sky Research",
+        "year": "2016",
+        "topicIds": [
+            "A3",
+            "B5",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240041.pdf",
+        "type": "r",
+        "name": "Empfehlung zur budgetären Prioritätensetzung in Österreich",
+        "year": "2016",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240042.pdf",
+        "type": "r",
+        "name": "Empfehlung für mehr Risiko in der Forschungsförderung",
+        "year": "2017",
+        "topicIds": [
+            "B4",
+            "D1",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240043.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Schwerpunkten für die Vergabe der Mittel der Nationalstiftung FTE 2018",
+        "year": "2017",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240044.pdf",
+        "type": "r",
+        "name": "Empfehlung Nationalstiftung FTE2017",
+        "year": "2017",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240045.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus dem Österreichfonds 2017",
+        "year": "2017",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240046.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Weiterentwicklung des Fachhochschulsektors im österreichischen Bildungs- und Wissenschaftssystem",
+        "year": "2017",
+        "topicIds": [
+            "A1",
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240047.pdf",
+        "type": "r",
+        "name": "Empfehlung zur politischen Schwerpunktsetzung für den tertiären Bildungssektor",
+        "year": "2017",
+        "topicIds": [
+            "A1",
+            "B1",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240048.pdf",
+        "type": "r",
+        "name": "Empfehlung für den Weg zur Innovationsspitze",
+        "year": "2017",
+        "topicIds": [
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240049.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der Nationalstiftung FTE für 2018",
+        "year": "2017",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240050.pdf",
+        "type": "r",
+        "name": "Empfehlung zum Doppelbudget 2018-19",
+        "year": "2018",
+        "topicIds": [
+            "B5",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240051.pdf",
+        "type": "r",
+        "name": "Empfehlung für die künftige Gestaltung der Hochschulen - 'create your UNIverse'",
+        "year": "2018",
+        "topicIds": [
+            "B1",
+            "C1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240052.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Schwerpunkten für die Vergabe der Mittel der Nationalstiftung FTE 2019",
+        "year": "2018",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240053.pdf",
+        "type": "r",
+        "name": "Empfehlung zu einem Exzellenzprogramm zur Förderung der Wissenschaft",
+        "year": "2018",
+        "topicIds": [
+            "A3",
+            "B2",
+            "B3",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240054.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Einrichtung einer österreichweiten Datenbank zur Darstellung des Forschungsinputs und -outputs",
+        "year": "2018",
+        "topicIds": [
+            "C1",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240055.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verbesserung der Rahmenbedingungen für die Gründung innovativer Unternehmen in Österreich",
+        "year": "2018",
+        "topicIds": [
+            "B4",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240056.pdf",
+        "type": "r",
+        "name": "Empfehlung zum mehrjährigen europäischen Finanzrahmen und dem 9 EU-Forschungsrahmenprogramms",
+        "year": "2018",
+        "topicIds": [
+            "B3",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240057.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Ausrichtung des EU Forschungs-Rahmenprogramms und nationalen Rahmenbedingungen",
+        "year": "2018",
+        "topicIds": [
+            "A3",
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240058.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Steigerung der Exzellenz in Wissenschaft und Forschung",
+        "year": "2018",
+        "topicIds": [
+            "A3",
+            "B2",
+            "B5",
+            "C4",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240059.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Relevanz und Potenziale frugaler Innovationen für Österreich",
+        "year": "2018",
+        "topicIds": [
+            "A3",
+            "B3",
+            "C2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240060.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der NSFTE für 2019 und dem Österreichfonds für 2018",
+        "year": "2018",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240061.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Förderung von Forschungsinfrastruktur und nachhaltiger Finanzierungssicherheit",
+        "year": "2018",
+        "topicIds": [
+            "A3",
+            "B2",
+            "B5",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240062.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Schwerpunkten für die Vergabe der Mittel der Nationalstiftung FTE 2020",
+        "year": "2019",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240063.pdf",
+        "type": "r",
+        "name": "Empfehlung zur effizienten Einbindung Österreichs in die europäische Industriepolitik",
+        "year": "2019",
+        "topicIds": [
+            "A3",
+            "B2",
+            "B3",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240064.pdf",
+        "type": "r",
+        "name": "Empfehlung zu einer Industrie- und technologiepolitischen Strategie für Plattformökonomie in Österreich",
+        "year": "2019",
+        "topicIds": [
+            "A1",
+            "C1",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240065.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Weiterführung der prioritären Projekte in den Bereichen Wissenschaft, F&I",
+        "year": "2019",
+        "topicIds": [
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240066.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Etablierung eines Zukunftsfonds für Wissenschaft, F&I",
+        "year": "2019",
+        "topicIds": [
+            "B5",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240067.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel aus der NSFTE für 2020 und dem Österreichfonds für 2019",
+        "year": "2019",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240068.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Mobilisierung von Wagniskapital zur Innovations- und Wachstumsfinanzierung",
+        "year": "2019",
+        "topicIds": [
+            "B4",
+            "B5",
+            "C6",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240069.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Steigerung von Schutz und Verwertung geistiger Eigentumsrechte",
+        "year": "2019",
+        "topicIds": [
+            "A1",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240070.pdf",
+        "type": "r",
+        "name": "Empfehlung für die FTI-Politik in der XXVII Gesetzgebungsperiode",
+        "year": "2019",
+        "topicIds": [
+            "A1",
+            "A2",
+            "A3",
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "C1",
+            "D1",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240071.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Etablierung von Entrepreneurship Education im österreichischen Bildungssystem",
+        "year": "2019",
+        "topicIds": [
+            "A2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240072.pdf",
+        "type": "r",
+        "name": "Empfehlung zu Schwerpunkten für die Vergabe der Mittel der Nationalstiftung FTE 2021",
+        "year": "2020",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240073.pdf",
+        "type": "r",
+        "name": "Empfehlung für die FTI-Politik in und nach der Corona-Krise",
+        "year": "2020",
+        "topicIds": [
+            "B4",
+            "C2",
+            "D1",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240074.pdf",
+        "type": "r",
+        "name": "Empfehlung zum Forschungsfinanzierungsgesetz",
+        "year": "2020",
+        "topicIds": [
+            "A1",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240075.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Implementierung eines 'Fonds Zukunft Österreich für F&E&I'",
+        "year": "2020",
+        "topicIds": [
+            "A1",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240076.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel des Österreichfonds für 2020",
+        "year": "2020",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240077.pdf",
+        "type": "r",
+        "name": "Empfehlung zum AMDC sowie zur Weiterentwicklung einer nationalen Forschungsdatenstrategie",
+        "year": "2021",
+        "topicIds": [
+            "A1",
+            "C1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240078.pdf",
+        "type": "r",
+        "name": "Empfehlung für die Neuausrichtung der österreichischen Industriepolitik",
+        "year": "2021",
+        "topicIds": [
+            "A3",
+            "B4",
+            "C1",
+            "C2",
+            "C3",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240079.pdf",
+        "type": "r",
+        "name": "Empfehlung zu einem 'Sense of Urgency in der FTI-Politik'",
+        "year": "2021",
+        "topicIds": [
+            "C6",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280001.pdf",
+        "type": "c",
+        "name": "Stellungnahme zu Planungssicherheit in Wissenschaft und Forschung",
+        "year": "2012",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280003.pdf",
+        "type": "c",
+        "name": "Stellungnahme zur Auswirkung der aktuellen LV-Verhandlungen auf Universitäten mit MINT-Fächern",
+        "year": "2012",
+        "topicIds": [
+            "B1",
+            "B5",
+            "C5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280004.pdf",
+        "type": "c",
+        "name": "Stellungnahme zur Änderung des Universitätsgesetzes 2002",
+        "year": "2012",
+        "topicIds": [
+            "B1",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280005.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum EU-Budget 2014-2020",
+        "year": "2013",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280006.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Entwurf der Verordnung zur Änderung der Hochschulraum-Strukturmittelverordnung",
+        "year": "2015",
+        "topicIds": [
+            "B1",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280007.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Konsultationspapier Prototyp für einen gesamtösterreichischen Universitätsentwicklungsplan",
+        "year": "2015",
+        "topicIds": [
+            "A3",
+            "B1",
+            "B2",
+            "B4",
+            "C4",
+            "C5",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280008.pdf",
+        "type": "c",
+        "name": "Stellungnahme zur Novelle des Universitätsgesetzes 2002 und des Forschungsorganisationsgesetzes",
+        "year": "2015",
+        "topicIds": [
+            "A3",
+            "B1",
+            "B2",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280009.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Entwurf der Verordnung zum Tierversuch-Kriterienkatalog",
+        "year": "2015",
+        "topicIds": [
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280010.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Entwurf der österreichischen ERA Roadmap von 151127",
+        "year": "2015",
+        "topicIds": [
+            "A3",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280011.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Entwurf Nationale Strategie zur sozialen Dimension in der Hochschulbildung",
+        "year": "2016",
+        "topicIds": [
+            "A1",
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280012.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Maßnahmenpaket der Arbeitsgruppe 5-Forschung, Technologie, Startups",
+        "year": "2016",
+        "topicIds": [
+            "A3",
+            "B4",
+            "C1",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280013.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Arbeitsprogramm der Bundesregierung 2017-2018",
+        "year": "2017",
+        "topicIds": [
+            "B1",
+            "B2",
+            "B4",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280014.pdf",
+        "type": "c",
+        "name": "Stellungnahme zur Regierungsvorlage zum Datenschutz-Anpassungsgesetz 2018",
+        "year": "2017",
+        "topicIds": [
+            "C1",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280015.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Entwurf eines Bundesgesetzes zur Änderung des Universitätsgesetzes 2002",
+        "year": "2017",
+        "topicIds": [
+            "B5",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280016.pdf",
+        "type": "c",
+        "name": "Stellungnahme zur Verordnung zu kapazitätsorientierter und studienbezogener Universitätsfinanzierung",
+        "year": "2018",
+        "topicIds": [
+            "B1",
+            "B2",
+            "B5",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280017.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Entwurf des Fachhochschulentwicklungs- und Finanzierungsplans 2018,19-2022,23",
+        "year": "2018",
+        "topicIds": [
+            "B1",
+            "B2",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280018.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Entwurf für ein Forschungsrahmengesetz 2019",
+        "year": "2019",
+        "topicIds": [
+            "A1",
+            "B2",
+            "B5",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280019.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Gesamtösterreichischen Universitätenentwicklungsplan 2022-2027",
+        "year": "2019",
+        "topicIds": [
+            "B1",
+            "B2",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280020.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Konzeptpapier der EK zu Tackling Foreign Interference in Higher Education",
+        "year": "2020",
+        "topicIds": [
+            "A1",
+            "A3"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280021.pdf",
+        "type": "c",
+        "name": "Stellungnahme zu (Abänderungen an) einem Hochschul-Bundesgesetz",
+        "year": "2020",
+        "topicIds": [
+            "B1",
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280022.pdf",
+        "type": "c",
+        "name": "Stellungnahme zu (Abänderungen an) einem Hochschul-Bundesgesetz",
+        "year": "2021",
+        "topicIds": [
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280023.pdf",
+        "type": "c",
+        "name": "Stellungnahme zur Änderung des Bundesstatistikgesetzes2000 & des Forschungsorganisationsgesetzes",
+        "year": "2021",
+        "topicIds": [
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280024.pdf",
+        "type": "c",
+        "name": "Stellungnahme zur geplanten Gesellschaftsform FlexCo-FlexKapG",
+        "year": "2022",
+        "topicIds": [
+            "B4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260001.pdf",
+        "type": "s",
+        "name": "Analyse des österreichischen Patentamtes (ÖPA) im europäischen Vergleich",
+        "year": "2011",
+        "topicIds": [
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Oxfirst Ltd.",
+                "short": "Oxfirst",
+                "city": "Oxford",
+                "country": "Vereinigtes Königreich"
+            }
+        ]
+    },
+    {
+        "file": "S260002.pdf",
+        "type": "s",
+        "name": "Strategien zur Erhöhung der privaten F&E-Ausgaben",
+        "year": "2012",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Hannes Leo",
+                "short": "Hannes Leo",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260003.pdf",
+        "type": "s",
+        "name": "Der nachhaltige Aufbau von ausseruniversitären Forschungseinrichtungen",
+        "year": "2012",
+        "topicIds": [
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "FAS.research GmbH",
+                "short": "FAS.research",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260004.pdf",
+        "type": "s",
+        "name": "Drittmittelfinanzierung universitärer Forschung in Österreich",
+        "year": "2012",
+        "topicIds": [
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Pöchhacker Innovation Consulting GmbH",
+                "short": "Pöchhacker Innovation Consulting",
+                "city": "Linz",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260005.pdf",
+        "type": "s",
+        "name": "Monitoring der Optimierung des Gründungsgeschehens",
+        "year": "2012",
+        "topicIds": [
+            "B4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260006.pdf",
+        "type": "s",
+        "name": "Alleinstellungsmerkmale und Profilbildung im österreichischen Hochschulraum",
+        "year": "2012",
+        "topicIds": [
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "AUSTIN Pock + Partners GmbH",
+                "short": "AUSTIN Pock + Partners",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260007.pdf",
+        "type": "s",
+        "name": "Patentindikatoren zur Bewertung der erfinderischen Leistung in Österreich",
+        "year": "2013",
+        "topicIds": [
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260008.pdf",
+        "type": "s",
+        "name": "Forschungsquotenziele2020",
+        "year": "2013",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260009.pdf",
+        "type": "s",
+        "name": "Vision Österreich 2050",
+        "year": "2013",
+        "topicIds": [
+            "A2",
+            "A3",
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "C1",
+            "C2",
+            "C4",
+            "C6",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Institut für höhere Studien",
+                "short": "IHS",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260010.pdf",
+        "type": "s",
+        "name": "Strukturen für die Internationalisierung österreichischer Forschung",
+        "year": "2014",
+        "topicIds": [
+            "A3",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Internationale Politik",
+                "short": "oiip",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260011.pdf",
+        "type": "s",
+        "name": "Befunde und Handlungsansätze zur Weiterentwicklung der Universitätsmedizin in Österreich",
+        "year": "2014",
+        "topicIds": [
+            "B1",
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "AUSTIN Pock + Partners GmbH",
+                "short": "AUSTIN Pock + Partners",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260012.pdf",
+        "type": "s",
+        "name": "Draw a scientist-Wer macht Wissenschaft-Ein Science-Awareness-Projekt für Kinder",
+        "year": "2014",
+        "topicIds": [
+            "A2"
+        ],
+        "authors": [
+            {
+                "name": "Verein ZOOM Kindermuseum",
+                "short": "ZOOM Kindermuseum",
+                "city": "Wien",
+                "country": "Österreich"
+            },
+            {
+                "name": "Çocuk İstanbul",
+                "short": "Çocuk İstanbul",
+                "city": "Istanbul",
+                "country": "Türkei"
+            },
+            {
+                "name": "Mag.a Sonja Gruber",
+                "short": "Sonja Gruber",
+                "city": "Wilfleinsdorf",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260013.pdf",
+        "type": "s",
+        "name": "Forschungsquotenziele 2020-Aktualisierung 2014",
+        "year": "2014",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260014.pdf",
+        "type": "s",
+        "name": "Analyse der Governance- & Managementstrukturen an österreichischen Universitäten",
+        "year": "2014",
+        "topicIds": [
+            "A1"
+        ],
+        "authors": [
+            {
+                "name": "Pöchhacker Innovation Consulting GmbH",
+                "short": "Pöchhacker Innovation Consulting",
+                "city": "Linz",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260015.pdf",
+        "type": "s",
+        "name": "Wertschöpfungsökologie der Biotech in Österreich",
+        "year": "2014",
+        "topicIds": [
+            "B2",
+            "B3",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Industriewissenschaftliches Institut",
+                "short": "IWI",
+                "city": "Wien",
+                "country": "Österreich"
+            },
+            {
+                "name": "FAS.research GmbH",
+                "short": "FAS.research",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260016.pdf",
+        "type": "s",
+        "name": "Bedarfserhebung von Qualifizierungsmassnahmen für interaktive Wissenschaftskommunikation",
+        "year": "2014",
+        "topicIds": [
+            "A2"
+        ],
+        "authors": [
+            {
+                "name": "Verein Science Center Netzwerk",
+                "short": "Science Center Netzwerk",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260017.pdf",
+        "type": "s",
+        "name": "Forschungsinfrastrukturfinanzierung-(inter-)nationaleFTI-politische Steuerung & Förderung",
+        "year": "2015",
+        "topicIds": [
+            "A3",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Austrian Institute of Technology",
+                "short": "AIT",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260018.pdf",
+        "type": "s",
+        "name": "Open Access-Fragestellungen für den Österreichischen Kontext",
+        "year": "2015",
+        "topicIds": [
+            "A1"
+        ],
+        "authors": [
+            {
+                "name": "Roya Ghafele",
+                "short": "Roya Ghafele",
+                "city": "Oxford",
+                "country": "Vereinigtes Königreich"
+            }
+        ]
+    },
+    {
+        "file": "S260019.pdf",
+        "type": "s",
+        "name": "Innovationseffizienz in den EU-Ländern-Ein Data-Envelopment-Analysis-Ansatz (DEA)",
+        "year": "2015",
+        "topicIds": [
+            "A3",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260020.pdf",
+        "type": "s",
+        "name": "Innovationsfördernde öffentliche Beschaffung in Österreich",
+        "year": "2015",
+        "topicIds": [
+            "A1",
+            "B5",
+            "C4",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "spe-consulting GmbH",
+                "short": "spe-consulting",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260021.pdf",
+        "type": "s",
+        "name": "Landkarten der Wissenschaftskommunikation-gesellschaftliche Vermittlung v Wissenschaft, F&I",
+        "year": "2015",
+        "topicIds": [
+            "A2"
+        ],
+        "authors": [
+            {
+                "name": "JOANNEUM RESEARCH Forschung GmbH",
+                "short": "JOANNEUM RESEARCH",
+                "city": "Graz",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260022.pdf",
+        "type": "s",
+        "name": "Aufgaben und Anforderungen an Forschung Innovation und Bildung bei Wachstumsschwäche",
+        "year": "2015",
+        "topicIds": [
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Sustainable Europe Research Institute, Nachhaltigkeitsforschungs- und kommunikations GmbH",
+                "short": "SERI",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260023.pdf",
+        "type": "s",
+        "name": "Mozart 4 0-Innovation based on cultural tradition",
+        "year": "2015",
+        "topicIds": [
+            "B4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            },
+            {
+                "name": "Marina Ranga",
+                "short": "Marina Ranga",
+                "city": "Palo Alto",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "file": "S260024.pdf",
+        "type": "s",
+        "name": "Das Potenzial von Social Business in Österreich",
+        "year": "2015",
+        "topicIds": [
+            "B4",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Wirtschaftsuniversität Wien",
+                "short": "WU Wien",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260025.pdf",
+        "type": "s",
+        "name": "Forschungsquotenziele2020-Aktualisierung2015",
+        "year": "2015",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260026.pdf",
+        "type": "s",
+        "name": "Metaevaluation der FTI-Programmevaluationen 2003-2014",
+        "year": "2015",
+        "topicIds": [
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "MMag. Günther Landsteiner",
+                "short": "Günther Landsteiner",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260027.pdf",
+        "type": "s",
+        "name": "Crowdfunding und Crowdsourcing - Potential für den österreichischen Innovationsstandort",
+        "year": "2015",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Innovationsschmiede ISN - Innovation Service Network GmbH",
+                "short": "Innovation Service Network",
+                "city": "Graz",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260028.pdf",
+        "type": "s",
+        "name": "Auswirkungen von TTIP auf den Bildungs- und Forschungsstandort Österreich-eine Einschätzung",
+        "year": "2016",
+        "topicIds": [
+            "A1",
+            "A3",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Institut für höhere Studien",
+                "short": "IHS",
+                "city": "Wien",
+                "country": "Österreich"
+            },
+            {
+                "name": "Österreichische Forschungsstiftung für Internationale Entwicklung",
+                "short": "ÖFSE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260029.pdf",
+        "type": "s",
+        "name": "Radikale Innovationen - Mehr Freiraum für innovative und risikobehaftete Forschung",
+        "year": "2016",
+        "topicIds": [
+            "C6",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "techopolis group Wien",
+                "short": "technopolis",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260030.pdf",
+        "type": "s",
+        "name": "Qualitative Untersuchung von Angeboten der Wissensvermittlung für Kinder und Jugendliche",
+        "year": "2016",
+        "topicIds": [
+            "A2"
+        ],
+        "authors": [
+            {
+                "name": "Jasmin Engelhart",
+                "short": "Jasmin Engelhart",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260031.pdf",
+        "type": "s",
+        "name": "Forschungsquotenziele 2020-Aktualisierung 2017",
+        "year": "2017",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260032.pdf",
+        "type": "s",
+        "name": "Der Beitrag österreichischer Erfindungen zur Entwicklung von Schlüsseltechnologien",
+        "year": "2017",
+        "topicIds": [
+            "B2",
+            "B3",
+            "C1",
+            "C6",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260033.pdf",
+        "type": "s",
+        "name": "Innovationsland Österreich - F&E, Unternehmensentwicklung und Standortattraktivität",
+        "year": "2017",
+        "topicIds": [
+            "A1",
+            "A3",
+            "B2",
+            "B3",
+            "B5",
+            "C1",
+            "C4",
+            "C6",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Wirtschaftspolitisches Zentrum - St. Gallen",
+                "short": "Wirtschaftspolitisches Zentrum",
+                "city": "St. Gallen",
+                "country": "Schweiz"
+            }
+        ]
+    },
+    {
+        "file": "S260034.pdf",
+        "type": "s",
+        "name": "Additive Fertigung-Potentiale für den Standort Österreich",
+        "year": "2017",
+        "topicIds": [
+            "C1"
+        ],
+        "authors": [
+            {
+                "name": "Institut für Innovationsmanagement",
+                "short": "IFI",
+                "city": "Linz",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260035.pdf",
+        "type": "s",
+        "name": "Soziale Inklusion durch und in Wissenschaftskommunikation",
+        "year": "2017",
+        "topicIds": [
+            "A2",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Zentrum für soziale Innovation",
+                "short": "ZSI",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260036.pdf",
+        "type": "s",
+        "name": "Einrichtung einer österreichweiten Forschungsförderungsdatenbank",
+        "year": "2017",
+        "topicIds": [
+            "C1"
+        ],
+        "authors": [
+            {
+                "name": "rütter soceco AG",
+                "short": "rütter soceco",
+                "city": "Rüschlikon",
+                "country": "Schweiz"
+            },
+            {
+                "name": "senarclens, leu+partner AG",
+                "short": "senarclens, leu+partner",
+                "city": "Zürich",
+                "country": "Schweiz"
+            },
+            {
+                "name": "Quantum Business Intelligence Service AG",
+                "short": "Quantum",
+                "city": "Zürich",
+                "country": "Schweiz"
+            }
+        ]
+    },
+    {
+        "file": "S260037.pdf",
+        "type": "s",
+        "name": "Vielfältige Exzellenz-Fallstudien exzellenter Universitaeten",
+        "year": "2017",
+        "topicIds": [
+            "B1",
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Institut für höhere Studien",
+                "short": "IHS",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260038.pdf",
+        "type": "s",
+        "name": "Commons als Denkweise und Innovationsstrategie im Design-Anhang",
+        "year": "2017",
+        "topicIds": [
+            "B3"
+        ],
+        "authors": [
+            {
+                "name": "Institute of Design Research Vienna",
+                "short": "IDRV",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260039.pdf",
+        "type": "s",
+        "name": "Commons als Denkweise und Innovationsstrategie im Design",
+        "year": "2017",
+        "topicIds": [
+            "B3"
+        ],
+        "authors": [
+            {
+                "name": "Institute of Design Research Vienna",
+                "short": "IDRV",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260040.pdf",
+        "type": "s",
+        "name": "Strategische öffentliche Beschaffung in Österreich-Eine Bestandsaufnahme",
+        "year": "2017",
+        "topicIds": [
+            "A1",
+            "B5",
+            "C4",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Austrian Institute of Technology",
+                "short": "AIT",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260041.pdf",
+        "type": "s",
+        "name": "Forschungsquotenziele2020-Aktualisierung 2018",
+        "year": "2018",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260042.pdf",
+        "type": "s",
+        "name": "Innovationseffizienz-Österreich im internationalen Vergleich",
+        "year": "2018",
+        "topicIds": [
+            "C6",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260043.pdf",
+        "type": "s",
+        "name": "Analyse der Rahmenbedingungen, Hemnisse und Hindernisse für innovative Gründungen in Österreich",
+        "year": "2018",
+        "topicIds": [
+            "B4",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "KMU Forschung Austria – Austrian Institute for SME Research",
+                "short": "KMU Forschung Austria",
+                "city": "Wien",
+                "country": "Österreich"
+            },
+            {
+                "name": "RPCK Rastegar Panchal",
+                "short": "Rastegar Panchal",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260044.pdf",
+        "type": "s",
+        "name": "Relevanz und Potentiale frugaler Innovationen für Österreich",
+        "year": "2018",
+        "topicIds": [
+            "B3"
+        ],
+        "authors": [
+            {
+                "name": "Technische Universität Hamburg",
+                "short": "TU Hamburg",
+                "city": "Hamburg",
+                "country": "Deutschland"
+            }
+        ]
+    },
+    {
+        "file": "S260045.pdf",
+        "type": "s",
+        "name": "Der gesellschaftliche Impact sozialwissenschaftlichen Wissens in Österreich",
+        "year": "2018",
+        "topicIds": [
+            "A2",
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "Universität Wien",
+                "short": "Universität Wien",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260046.pdf",
+        "type": "s",
+        "name": "Global Entrepreneurship Monitor-Lage des Unternehmertums in Österreich",
+        "year": "2018",
+        "topicIds": [
+            "B4"
+        ],
+        "authors": [
+            {
+                "name": "FH Joanneum GmbH",
+                "short": "FH Joanneum",
+                "city": "Graz",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260047.pdf",
+        "type": "s",
+        "name": "Wagniskapital zur Finanzierung von Innovation und Wachstum",
+        "year": "2019",
+        "topicIds": [
+            "B4",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Wirtschaftspolitisches Zentrum - St. Gallen",
+                "short": "Wirtschaftspolitisches Zentrum",
+                "city": "St. Gallen",
+                "country": "Schweiz"
+            }
+        ]
+    },
+    {
+        "file": "S260048.pdf",
+        "type": "s",
+        "name": "Entrepreneurship-fördernde Kompetenzen im österreichischen Bildungssystem",
+        "year": "2019",
+        "topicIds": [
+            "A2",
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "BDO Consulting GmbH",
+                "short": "BDO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260049.pdf",
+        "type": "s",
+        "name": "Radikale Innovation und Firmenalter",
+        "year": "2020",
+        "topicIds": [
+            "B3",
+            "B4"
+        ],
+        "authors": [
+            {
+                "name": "Austrian Institute of Technology",
+                "short": "AIT",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260050.pdf",
+        "type": "s",
+        "name": "Additive Fertigung am Standort Österreich-Potentialanalyse und Handlungsfelder",
+        "year": "2020",
+        "topicIds": [
+            "C1"
+        ],
+        "authors": [
+            {
+                "name": "Institut für Innovationsmanagement",
+                "short": "IFI",
+                "city": "Linz",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260051.pdf",
+        "type": "s",
+        "name": "Die digitale Transformation in österreichischen Wertschöpfungsnetzwerken",
+        "year": "2020",
+        "topicIds": [
+            "C1"
+        ],
+        "authors": [
+            {
+                "name": "Industriewissenschaftliches Institut",
+                "short": "IWI",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260052.pdf",
+        "type": "s",
+        "name": "Potentiale und Dynamiken privater Angebote und Beteiligungen im österreichischen Bildungswesen",
+        "year": "2020",
+        "topicIds": [
+            "A2",
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "Institut für höhere Studien",
+                "short": "IHS",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260053.pdf",
+        "type": "s",
+        "name": "Big Data, Algorithmen und AI-Datengetriebene Forschung in der Wissenschaft 2030",
+        "year": "2020",
+        "topicIds": [
+            "C1"
+        ],
+        "authors": [
+            {
+                "name": "winnovation consulting GmbH",
+                "short": "winnovation",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260054.pdf",
+        "type": "s",
+        "name": "Analyse der Leistungsfähigkeit des österreichischen Innovationssystems",
+        "year": "2020",
+        "topicIds": [
+            "C6",
+            "D1",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260056.pdf",
+        "type": "s",
+        "name": "Aufstrebende Technologiezentren 1980-2020",
+        "year": "2020",
+        "topicIds": [
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "TechMeter GmbH",
+                "short": "TechMeter",
+                "city": "Hagenberg",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260057.pdf",
+        "type": "s",
+        "name": "Neue europäische Industrie-, Innovations- und Technologiepolitik",
+        "year": "2021",
+        "topicIds": [
+            "A1",
+            "A3",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            },
+            {
+                "name": "JOANNEUM RESEARCH Forschung GmbH",
+                "short": "JOANNEUM RESEARCH",
+                "city": "Graz",
+                "country": "Österreich"
+            },
+            {
+                "name": "eutema GmbH",
+                "short": "eutema",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260058.pdf",
+        "type": "s",
+        "name": "Strategische Foresight-Prozesse-Übersicht und Handlungsoptionen",
+        "year": "2021",
+        "topicIds": [
+            "A1",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "EBP Schweiz AG",
+                "short": "EBP",
+                "city": "Zürich",
+                "country": "Schweiz"
+            }
+        ]
+    },
+    {
+        "file": "S260059.pdf",
+        "type": "s",
+        "name": "National recovery packages, innovation and transformation",
+        "year": "2022",
+        "topicIds": [
+            "A1",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Austrian Institute of Technology",
+                "short": "AIT",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "M300001.pdf",
+        "type": "m",
+        "name": "Präsentation FTI-Governance",
+        "year": "2013",
+        "topicIds": [],
+        "authors": []
+    },
+    {
+        "file": "M300002.pdf",
+        "type": "m",
+        "name": "Potentialanalyse Lange Nacht der Forschung Geschichte, Analyse und Potenziale-2008 bis 2014",
+        "year": "2015",
+        "topicIds": [],
+        "authors": []
+    },
+    {
+        "file": "M300003.pdf",
+        "type": "m",
+        "name": "Buch Die Gestaltung der Zukunft",
+        "year": "2015",
+        "topicIds": [],
+        "authors": []
+    },
+    {
+        "file": "M300004.pdf",
+        "type": "m",
+        "name": "Zeitschrift Europäische Rundschau-Europa-Wie geht es weiter",
+        "year": "2016",
+        "topicIds": [],
+        "authors": []
+    },
+    {
+        "file": "M300005.pdf",
+        "type": "m",
+        "name": "Executive Summary Strategien der aktiven Marktbearbeitung in der Forschung",
+        "year": "2017",
+        "topicIds": [],
+        "authors": []
+    },
+    {
+        "file": "M300006.pdf",
+        "type": "m",
+        "name": "Präsentation Strategien der aktiven Marktbearbeitung in der Forschung",
+        "year": "2017",
+        "topicIds": [],
+        "authors": []
+    },
+    {
+        "file": "M300007.pdf",
+        "type": "m",
+        "name": "Bericht Migration Integration und Bildung",
+        "year": "2017",
+        "topicIds": [
+            "A2",
+            "D2"
+        ],
+        "authors": []
+    },
+    {
+        "file": "M300008.pdf",
+        "type": "m",
+        "name": "Präsentation Create your UNIverse-Erwartungen Studierender an die Hochschulen der Zukunft",
+        "year": "2017",
+        "topicIds": [
+            "B1"
+        ],
+        "authors": []
+    },
+    {
+        "file": "M300009.pdf",
+        "type": "m",
+        "name": "Buch Zukunft und Aufgaben der Hochschulen",
+        "year": "2017",
+        "topicIds": [
+            "B1",
+            "B2"
+        ],
+        "authors": []
+    },
+    {
+        "file": "M300010.pdf",
+        "type": "m",
+        "name": "Inputpapier Österreich 2030-50 Fragen für den Weg zu Innovationsspitze",
+        "year": "2019",
+        "topicIds": [],
+        "authors": []
+    },
+    {
+        "file": "M300011.pdf",
+        "type": "m",
+        "name": "Broschüre Digitaler Wandel und Ethik",
+        "year": "2019",
+        "topicIds": [
+            "A1",
+            "C1"
+        ],
+        "authors": []
+    },
+    {
+        "file": "M300012.pdf",
+        "type": "m",
+        "name": "Inputpapier Wie geht es weiter-Vorschläge für die Gestaltung der Forschungsdekade 2020-2030",
+        "year": "2020",
+        "topicIds": [],
+        "authors": []
+    },
+    {
+        "file": "M300013.pdf",
+        "type": "m",
+        "name": "Buch Innovation Policy at the Intersection",
+        "year": "2020",
+        "topicIds": [
+            "D1",
+            "D2"
+        ],
+        "authors": []
+    },
+    {
+        "file": "M300014.pdf",
+        "type": "m",
+        "name": "Buch Austrian Startup Monitor",
+        "year": "2020",
+        "topicIds": [
+            "B4"
+        ],
+        "authors": []
+    },
+    {
+        "file": "M300015.pdf",
+        "type": "m",
+        "name": "Inputpapier Neujahrsempfang 2021-10 Thesen zur Technologiesouverenität",
+        "year": "2021",
+        "topicIds": [
+            "A3",
+            "C4"
+        ],
+        "authors": []
+    },
+    {
+        "file": "M300016.pdf",
+        "type": "m",
+        "name": "Fact Sheet Registerdatenforschung und Implementierung eines Austrian Micro-Data Centers",
+        "year": "2021",
+        "topicIds": [],
+        "authors": []
+    },
+    {
+        "file": "S260060.pdf",
+        "type": "s",
+        "name": "Auswirkungen der COVID-19-Pandemie auf die Innovationsfähigkeit von Unternehmen in Österreich",
+        "year": "2022",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "M300017.pdf",
+        "type": "m",
+        "name": "Beitrag Prometheus 4.0",
+        "year": "2016",
+        "topicIds": [],
+        "authors": []
+    },
+    {
+        "file": "D320032.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "A2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320031.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "A1"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320033.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2032",
+        "topicIds": [
+            "A3"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320034.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320035.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320036.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "B3"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320037.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "B4"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320038.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320039.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "C1"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320040.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "C2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320042.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320043.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "C5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320045.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320044.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320041.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2023",
+        "year": "2023",
+        "topicIds": [
+            "C3"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "D320000.pdf",
+        "type": "d",
+        "name": "Stärken-Schwächen-Analyse 2022 Gesamt",
+        "year": "2022",
+        "topicIds": [],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260061.pdf",
+        "type": "s",
+        "name": "Transformation zur Kreislaufwirtschaft – Leistungsfähigkeit, Industrie- und FTI-politische Förderung",
+        "year": "2022",
+        "topicIds": [
+            "C3"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "M300018.pdf",
+        "type": "m",
+        "name": "FTI-Pakt 2021-2023",
+        "year": "2020",
+        "topicIds": [],
+        "authors": [
+            {
+                "name": "Bundesregierung der Republik Österreich",
+                "short": "Bundesregierung",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "M300019.pdf",
+        "type": "m",
+        "name": "FTI-Strategie 2030 – Strategie der Bundesregierung für Forschung, Technologie und Innovation",
+        "year": "2020",
+        "topicIds": [],
+        "authors": [
+            {
+                "name": "Bundesregierung der Republik Österreich",
+                "short": "Bundesregierung",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "M300020.pdf",
+        "type": "m",
+        "name": "Österreichischer Forschungs- und Technologiebericht 2021",
+        "year": "2021",
+        "topicIds": [],
+        "authors": [
+            {
+                "name": "Bundesministerium für Bildung, Wissenschaft und Forschung",
+                "short": "BMF",
+                "city": "Wien",
+                "country": "Österreich"
+            },
+            {
+                "name": "Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+                "short": "BMK",
+                "city": "Wien",
+                "country": "Österreich"
+            },
+            {
+                "name": "Bundesministerium für Digitalisierung und Wirtschaftsstandort",
+                "short": "BMDW",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "L100011.pdf",
+        "type": "m",
+        "name": "Bericht zur wissenschaftlichen und technologischen Leistungsfähigkeit Österreichs 2022",
+        "year": "2022",
+        "topicIds": [],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240082.pdf",
+        "type": "r",
+        "name": "Empfehlung für eine nationale Datenstrategie zur Optimierung einer gemeinwohlorientierten Datennutzung und evidenzbasierten Politikberatung",
+        "year": "2022",
+        "topicIds": [
+            "A1",
+            "A2",
+            "B2",
+            "C1",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240081.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel des Fonds Zukunft Österreich für 2022: Förderschwerpunkt „Disruptive/Radikale Innovation“",
+        "year": "2022",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240080.pdf",
+        "type": "r",
+        "name": "Empfehlung zur Verwendung der Mittel des Fonds Zukunft Österreich für 2022",
+        "year": "2022",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "M300021.pdf",
+        "type": "s",
+        "name": "Datenexzellenz: Strategien für Österreich“",
+        "year": "2022",
+        "topicIds": [
+            "A1",
+            "A2",
+            "B2",
+            "C1",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Zentrum für soziale Innovation",
+                "short": "ZSI",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260062.pdf",
+        "type": "s",
+        "name": "Systematisches Zusammenwirken von Dekarbonisierung und Kreislaufwirtschaft am Beispiel der österreichischen Industrie",
+        "year": "2022",
+        "topicIds": [
+            "C2",
+            "C3"
+        ],
+        "authors": [
+            {
+                "name": "Montanuniversität Leoben",
+                "short": "MUL",
+                "city": "Leoben",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260063.pdf",
+        "type": "s",
+        "name": "Transformation Opportunities for Austria in the “Tech for Green” Sector",
+        "year": "2022",
+        "topicIds": [
+            "A3",
+            "B3",
+            "B4",
+            "C2",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Complexity Science Hub Vienna",
+                "short": "CSH",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280026.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Bundesgesetz über die Förderung des qualitätsvollen Journalismus in Medien des Print- und Online-Bereichs",
+        "year": "2022",
+        "topicIds": [
+            "A2",
+            "C1",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280027.pdf",
+        "type": "c",
+        "name": "Stellungnahme zum Entwurf des Fachhochschulentwicklungs- und Finanzierungsplans 2023/24-2025/26",
+        "year": "2023",
+        "topicIds": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280025.pdf",
+        "type": "c",
+        "name": "Stellungahme zum Entwurf des gesamtösterreichischen Universitätsentwicklungsplans 2025-2030",
+        "year": "2022",
+        "topicIds": [
+            "B1",
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "R240083.pdf",
+        "type": "r",
+        "name": "Recommendation for Immediate Need for Action to Secure the Research and Innovation Capacity of Ukraine",
+        "year": "2022",
+        "topicIds": [
+            "A3"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "C280028.pdf",
+        "type": "c",
+        "name": "Stellungnahme zur Dringlichkeit der nationalen Umsetzung der Verordnung (EU) 2022/868 (Data Governance Act)",
+        "year": "2023",
+        "topicIds": [
+            "B2",
+            "C1",
+            "C4",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260064.pdf",
+        "type": "s",
+        "name": "Technologische Souveränität – Empirische Bestimmung und FTI-politische Implikationen",
+        "year": "2023",
+        "topicIds": [
+            "B3",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Österreichisches Institut für Wirtschaftsforschung",
+                "short": "WIFO",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "file": "S260065.pdf",
+        "type": "s",
+        "name": "Expected Workforce Requirements for the Green Transition",
+        "year": "2023",
+        "topicIds": [
+            "A3",
+            "A2",
+            "B1",
+            "B3",
+            "B4",
+            "C2",
+            "C3",
+            "C4",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Complexity Science Hub Vienna",
+                "short": "CSH",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400001.pdf",
+        "name": "Internationalisierung an Österreichs Hochschulen: Stellungnahme und Empfehlungen",
+        "year": "2021",
+        "doc_date": "2021-12-01",
+        "topicIds": [
+            "A3",
+            "B1",
+            "B2",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400002.pdf",
+        "name": "Informatik in Österreich: Stellungnahme und Empfehlungen",
+        "year": "2021",
+        "doc_date": "2021-12-01",
+        "topicIds": [
+            "A3",
+            "B1",
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400003.pdf",
+        "name": "Vom Messen und gemessen werden: Potentiale & Grenzen bibliometrischer Methoden",
+        "year": "2020",
+        "doc_date": "2020-09-01",
+        "topicIds": [
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400004.pdf",
+        "name": "Analyse der Leistungsvereinbarungen 2019 – 2021 und Empfehlungen",
+        "year": "2020",
+        "doc_date": "2020-01-01",
+        "topicIds": [
+            "B1",
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "l",
+        "file": "WR400005.pdf",
+        "name": "\"Tagungsbericht zur Veranstaltung \"\"Qualitätsstandard oder leeres Ritual? Begutachtungen in der Diskussion\"\" - am 8. und 9. November 2018 in Wien\"",
+        "year": "2018",
+        "doc_date": "2018-11-09",
+        "topicIds": [
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400006.pdf",
+        "name": "Reflexionen zur Weiterentwicklung der Kunstuniversitäten",
+        "year": "2018",
+        "doc_date": "2018-09-01",
+        "topicIds": [
+            "B1",
+            "B2",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400007.pdf",
+        "name": "Ein Exzellenzprogramm für Österreich: Stellungnahme und Empfehlungen",
+        "year": "2018",
+        "doc_date": "2018-03-01",
+        "topicIds": [
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "c",
+        "file": "WR400008.pdf",
+        "name": "Stellungnahme zur österreichischen Forschungsförderungslandschaft",
+        "year": "2018",
+        "doc_date": "2018-01-01",
+        "topicIds": [
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400009.pdf",
+        "name": "Zur österreichischen Universitäts- und Wissenschaftspolitik: Schwerpunktsetzungen in der XXVI. Legislaturperiode",
+        "year": "2017",
+        "doc_date": "2017-11-01",
+        "topicIds": [
+            "A3",
+            "B1",
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400010.pdf",
+        "name": "Privatuniversitäten in Österreich: Stellungnahme und Empfehlungen",
+        "year": "2016",
+        "doc_date": "2016-12-01",
+        "topicIds": [
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400011.pdf",
+        "name": "Analyse der Leistungsvereinbarungen 2016 – 2018 und Empfehlungen",
+        "year": "2016",
+        "doc_date": "2016-11-01",
+        "topicIds": [
+            "B1",
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400012.pdf",
+        "name": "Klinische Forschung in Österreich Stellungnahme und Empfehlungen",
+        "year": "2016",
+        "doc_date": "2016-10-01",
+        "topicIds": [
+            "B2, B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "l",
+        "file": "WR400013.pdf",
+        "name": "Forschung – Idee und Wirklichkeit. Tagungsband 2015",
+        "year": "2016",
+        "doc_date": "2016-05-01",
+        "topicIds": [
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "c",
+        "file": "WR400014.pdf",
+        "name": "Kurze Stellungnahme zum „Konsultationsdokument Validierung nicht-formalen und informellen Lernens“",
+        "year": "2015",
+        "doc_date": "2015-10-01",
+        "topicIds": [
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400015.pdf",
+        "name": "Das österreichische Hochschul- und Wissenschaftssystem: Ein Weißbuch und eine konkrete Utopie",
+        "year": "2015",
+        "doc_date": "2015-10-01",
+        "topicIds": [
+            "B1",
+            "B2",
+            "B5",
+            "C4"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400016.pdf",
+        "name": "Stellungnahme zum Entwurf eines Bundesgesetzes, mit dem das Universitätsgesetz 2002 und das Forschungsorganisationsgesetz geändert werden (139/ME XXV. GP)",
+        "year": "2015",
+        "doc_date": "2015-08-10",
+        "topicIds": [
+            "B1",
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "l",
+        "file": "WR400017.pdf",
+        "name": "Wohin geht die Universität? Quo vadis, universitas? Tagungsband 2014",
+        "year": "2015",
+        "doc_date": "2015-05-01",
+        "topicIds": [
+            "B1",
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400018.pdf",
+        "name": "Zur Studieneingangs- und Orientierungsphase (StEOP) an Österreichs Universitäten Stellungnahme und Empfehlungen",
+        "year": "2014",
+        "doc_date": "2014-11-01",
+        "topicIds": [
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400019.pdf",
+        "name": "Zur universitären Gerichtsmedizin in Österreich: Status quo, Stellungnahme und Empfehlungen",
+        "year": "2014",
+        "doc_date": "2014-11-01",
+        "topicIds": [
+            "B1",
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400020.pdf",
+        "name": "Bildgebung: Forschung, Lehre und Ausstattung an den Medizinischen Universitäten Graz, Innsbruck und Wien. Bestandsaufnahme und Empfehlungen",
+        "year": "2014",
+        "doc_date": "2014-11-01",
+        "topicIds": [
+            "B1",
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400021.pdf",
+        "name": "Die Vermessung der Wissenschaft: Messung und Beurteilung von Qualität in der Forschung",
+        "year": "2014",
+        "doc_date": "2014-07-01",
+        "topicIds": [
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "l",
+        "file": "WR400022.pdf",
+        "name": "Exzellenz in der Wissenschaft: Österreich im internationalen Vergleich. Tagungsband 2013",
+        "year": "2014",
+        "doc_date": "2014-06-01",
+        "topicIds": [
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400023.pdf",
+        "name": "Empfehlung zum Promotionsrecht in einem differenzierten Hochschulsystem",
+        "year": "2014",
+        "doc_date": "2014-02-01",
+        "topicIds": [
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400024.pdf",
+        "name": "Governance und Partizipation: Empfehlung zur Fortentwicklung der österreichischen Universität",
+        "year": "2013",
+        "doc_date": "2013-11-01",
+        "topicIds": [
+            "B1",
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400025.pdf",
+        "name": "Analyse der Leistungsvereinbarungen 2013 – 2015 und Stellungnahme",
+        "year": "2013",
+        "doc_date": "2013-12-01",
+        "topicIds": [
+            "B2",
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400026.pdf",
+        "name": "10 Eckpunkte zur österreichischen Universitäts- und Wissenschaftspolitik in der XXV. Legislaturperiode",
+        "year": "2013",
+        "doc_date": "2013-10-01",
+        "topicIds": [
+            "A2",
+            "A3",
+            "B1",
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400027.pdf",
+        "name": "Herz- und Kreislauferkrankungen Forschung, Lehre und Krankenversorgung an den Medizinischen Universitäten Graz, Innsbruck und Wien: Status Quo und Empfehlungen",
+        "year": "2013",
+        "doc_date": "2013-09-01",
+        "topicIds": [
+            "B1",
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "l",
+        "file": "WR400028.pdf",
+        "name": "Lehren lernen – die Zukunft der Lehrerbildung. Tagungsband 2012",
+        "year": "2013",
+        "doc_date": "2013-05-01",
+        "topicIds": [
+            "A2",
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "c",
+        "file": "WR400029.pdf",
+        "name": "Stellungnahme zu den Gesetzentwürfen zur Umsetzung des Konzepts einer Pädagoginnen- und Pädagogenbildung NEU (503/ME XXIV. GP – Novelle zum HG; 506/ME XXIV. GP – Novellen zum UG 2002 und zum HS-QSG)",
+        "year": "2013",
+        "doc_date": "2013-05-02",
+        "topicIds": [
+            "A2",
+            "B1"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "c",
+        "file": "WR400030.pdf",
+        "name": "Stellungnahme zum Konzept einer Medizinischen Fakultät an der Johannes Kepler Universität Linz",
+        "year": "2013",
+        "doc_date": "2013-04-01",
+        "topicIds": [
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400031.pdf",
+        "name": "Stellungnahme und Empfehlung zum klinischen Mehraufwand",
+        "year": "2012",
+        "doc_date": "2012-06-01",
+        "topicIds": [
+            "B1",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "l",
+        "file": "WR400032.pdf",
+        "name": "Wissenschaftliche Karriere und Partizipation: Wege und Irrwege. Tagungsband 2011",
+        "year": "2012",
+        "doc_date": "2012-10-01",
+        "topicIds": [
+            "B1",
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400033.pdf",
+        "name": "Klinische Neurowissenschaften an den Medizinischen Universitäten Graz, Innsbruck und Wien: Bestandsaufnahme und Empfehlung",
+        "year": "2012",
+        "doc_date": "2012-06-01",
+        "topicIds": [
+            "B1",
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400034.pdf",
+        "name": "Grundlagenforschung in Österreich: Bedeutung, Status quo und Empfehlungen",
+        "year": "2012",
+        "doc_date": "2012-06-01",
+        "topicIds": [
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400035.pdf",
+        "name": "Analyse, Stellungnahme und Empfehlungen zur Forschungsinfrastruktur in den außeruniversitären Geistes- und Sozialwissenschaften",
+        "year": "2012",
+        "doc_date": "2012-06-01",
+        "topicIds": [
+            "B2",
+            "B5",
+            "C1"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400036.pdf",
+        "name": "Fachhochschulen im österreichischen Hochschulsystem: Analysen, Perspektiven, Empfehlungen",
+        "year": "2012",
+        "doc_date": "2012-06-01",
+        "topicIds": [
+            "B1",
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "c",
+        "file": "WR400037.pdf",
+        "name": "Wissenschaftsrat warnt vor einer Stagnation der Universitätsentwicklung",
+        "year": "2011",
+        "doc_date": "2011-04-01",
+        "topicIds": [
+            "B1",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "l",
+        "file": "WR400038.pdf",
+        "name": "Kooperation und/oder Wettbewerb? Zum Verhältnis von universitärer und außeruniversitärer Forschung. Tagungsband 2010",
+        "year": "2011",
+        "doc_date": "2011-03-01",
+        "topicIds": [
+            "B2",
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "WR400039.pdf",
+        "name": "Tertiäre Bildung und Ausbildung im Österreichischen Bundesheer: Analysen und Empfehlungen",
+        "year": "2011",
+        "doc_date": "2011-02-01",
+        "topicIds": [
+            "B1",
+            "B2"
+        ],
+        "authors": [
+            {
+                "name": "Österreichischer Wissenschaftsrat",
+                "short": "ÖWR",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "r",
+        "file": "R240084.pdf",
+        "name": "Empfehlung zur Verwendung der Mittel des Fonds Zukunft Österreich für 2023",
+        "year": "2023",
+        "doc_date": "2023-06-14",
+        "topicIds": [
+            "B5"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "c",
+        "file": "C280029.pdf",
+        "name": "Stellungnahme zum Entwurf eines Start-Up-Förderungsgesetzes",
+        "year": "2023",
+        "doc_date": "2023-06-16",
+        "topicIds": [
+            "A1",
+            "B4",
+            "C4",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "l",
+        "file": "L100013.pdf",
+        "name": "Report on Austria’s Scientific and Technological Capability 2023 ",
+        "year": "2023",
+        "doc_date": "2023-06-16",
+        "topicIds": [],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "l",
+        "file": "L100014.pdf",
+        "name": "Annual Report 2022",
+        "year": "2022",
+        "doc_date": "2023-06-16",
+        "topicIds": [],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "l",
+        "file": "L100015.pdf",
+        "name": "Tätigkeitsbericht 2022",
+        "year": "2022",
+        "doc_date": "2023-06-16",
+        "topicIds": [],
+        "authors": [
+            {
+                "name": "Rat für Forschung und Technologieentwicklung",
+                "short": "RFTE",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "s",
+        "file": "S260066.pdf",
+        "name": "Resilienz des österreichischen FTI-Systems",
+        "year": "2023",
+        "doc_date": "2023-06-28",
+        "topicIds": [
+            "B3",
+            "B5",
+            "C2",
+            "C4",
+            "C6"
+        ],
+        "authors": [
+            {
+                "name": "Technopolis",
+                "short": "Technopolis",
+                "city": "Wien",
+                "country": "Österreich"
+            },
+            {
+                "name": "Austrian Institute of Technology",
+                "short": "AIT",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "s",
+        "file": "S260067.pdf",
+        "name": "Implementierungsfragen betreffend den Daten-Governance-Rechtsakt der EU",
+        "year": "2023",
+        "doc_date": "2023-09-04",
+        "topicIds": [
+            "A1",
+            "C1",
+            "C4",
+            "D2"
+        ],
+        "authors": [
+            {
+                "name": "Technische Universität Wien",
+                "short": "TU Wien",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    },
+    {
+        "type": "s",
+        "file": "S260068.pdf",
+        "name": "Zukunft der Bildung im Kontext von Digitalisierung und Chancengerechtigkeit",
+        "year": "2023",
+        "doc_date": "2023-10-15",
+        "topicIds": [
+            "A2",
+            "C1",
+            "C5",
+            "D1"
+        ],
+        "authors": [
+            {
+                "name": "Universität Wien",
+                "short": "Universität Wien",
+                "city": "Wien",
+                "country": "Österreich"
+            }
+        ]
+    }
+]

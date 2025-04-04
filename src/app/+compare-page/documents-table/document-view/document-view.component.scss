@@ -1,0 +1,30 @@
+.document {
+  min-height: 60px;
+  max-width: 500px;
+  display: flex;
+
+  img {
+    height: 60px;
+    border: 1px solid #888;
+    border-radius: var(--border-radius);
+    margin-right: 10px;
+  }
+
+  &__content {
+    line-height: 16px;
+    font-size: 14px;
+    word-wrap: break-word;
+
+    &__title {
+      font-weight: bolder;
+    }
+
+    &__author {
+      font-style: italic;
+    }
+
+    > :not(:first-child):before {
+      content: ', ';
+    }
+  }
+}

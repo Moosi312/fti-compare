@@ -1,0 +1,153 @@
+{
+  "A1": {
+    "i": ["EP_indiv_dismiss", "EP_coll_dismiss", "EP_temp_emp", "PMR2018", "IPP_Reg", "Kapitalmarktgroesse", "VC_x_bank_gvt", "VC", "Steuer_UNT", "Steuer_Loehne", "Abgabenquote"],
+    "wt": {
+      "TB_Reg": ["EP_indiv_dismiss", "EP_coll_dismiss", "EP_temp_emp", "PMR2018", "IPP_Reg"],
+      "TB_Finanz": ["Kapitalmarktgroesse", "VC_x_bank_gvt", "VC"],
+      "TB_Steuer": ["Steuer_UNT", "Steuer_Loehne", "Abgabenquote"]
+    }
+  },
+  "A2": {
+    "i": ["Ausgaben_prim_sek_BIP", "Ausgaben_prim_sek_studi", "Schüler_hohe_Komp", "Schüler_niedrige_Komp", "Betreuung_frühkindlich_pct", "Betr_Verhältnis_früh", "Ausgaben_Primar_KKS", "Ausgaben_VS_BIP", "Betr_Verhältnis_Primar", "VS_hohe_Komp", "VS_niedrige_Komp", "Ausgaben_Sekundar_KKS", "Ausgaben_Sekundar_BIP", "Sekundar_hohe_Komp", "Sekundar_niedrige_Komp", "gender_diff_Lesen", "migrant_diff_Lesen", "gender_diff_mathe", "BV_MW", "frühe_Schulabgänger", "grad_rate", "vocational_graduates", "Weiterbildung", "Interesse_Wiss", "Vertrauen_Wiss"],
+    "wt": {
+      "Ausgaben_prim_sek_BIP": [],
+      "Ausgaben_prim_sek_studi": [],
+      "Schüler_hohe_Komp": [],
+      "Schüler_niedrige_Komp": [],
+      "TB_frühkind": ["Betreuung_frühkindlich_pct", "Betr_Verhältnis_früh"],
+      "TB_Primar": ["Ausgaben_Primar_KKS", "Ausgaben_VS_BIP", "Betr_Verhältnis_Primar", "VS_hohe_Komp", "VS_niedrige_Komp"],
+      "TB_Sekundar": ["Ausgaben_Sekundar_KKS", "Ausgaben_Sekundar_BIP", "Sekundar_hohe_Komp", "Sekundar_niedrige_Komp", "gender_diff_Lesen", "migrant_diff_Lesen", "gender_diff_mathe", "BV_MW", "frühe_Schulabgänger", "grad_rate"],
+      "vocational_graduates": [],
+      "Weiterbildung": [],
+      "TB_sci_att": ["Interesse_Wiss", "Vertrauen_Wiss"]
+    }
+  },
+  "A3": {
+    "i": ["Immigr_Hochqual", "Kopublikationen", "ausl_Doktor", "bewilligung", "Patente_auslandsbesitz", "ausl_Patente_Inlandsbesitz", "Patente_Kooperation", "G_XFA", "Offenheit", "domestic_VA_final_demand", "Interm_export", "Interm_import"],
+    "wt": {
+      "Immigr_Hochqual": [],
+      "TB_Vfl_Uni": ["Kopublikationen", "ausl_Doktor", "bewilligung"],
+      "TB_Vfl_Inno": ["Patente_auslandsbesitz", "ausl_Patente_Inlandsbesitz", "Patente_Kooperation", "G_XFA"],
+      "TB_Vfl_Wirt": ["Offenheit", "domestic_VA_final_demand", "Interm_export", "Interm_import"]
+    }
+  },
+  "B1": {
+    "i": ["Uniausgaben_Studi", "Betreuungsverh_Univ", "Uniabs_isced5_8", "Uniabs_isced6_8", "MINT_Absolv_58", "MINT_Absolv_68", "MINT_doktorat", "ausl_Doktor"],
+    "wt": {
+      "TB_Input": ["Uniausgaben_Studi", "Betreuungsverh_Univ"],
+      "TB_Output": ["Uniabs_isced5_8", "Uniabs_isced6_8", "MINT_Absolv_58", "MINT_Absolv_68", "MINT_doktorat", "ausl_Doktor"]
+    }
+  },
+  "B2": {
+    "i": ["HEI_gvt_researchers_bev", "HERD_GOVERD_bev", "HERD_GOVERD_BIP", "G_BRXGDP", "Finanz_komp", "Leidenranking_bev", "citabledocuments_bev", "publications_10pct", "ERC_grants", "Kopublikationen", "erfolgsquote_hs"],
+    "wt": {
+      "TB_Input_forsch": ["HEI_gvt_researchers_bev", "HERD_GOVERD_bev", "HERD_GOVERD_BIP", "G_BRXGDP", "Finanz_komp"],
+      "TB_Output_forsch": ["Leidenranking_bev", "citabledocuments_bev", "publications_10pct", "ERC_grants", "Kopublikationen", "erfolgsquote_hs"]
+    }
+  },
+  "B3": {
+    "i": ["SME_innovation_pct", "Innovationsumsatz", "KMU_Inno_koop", "BERD_bev", "Innov_UNT", "industry_researchers_FTE_bev", "FuE_Intens", "Kooperation_UNT_Uni", "Leiden_industry_collab", "HERD_industry", "erfolgsquote_unt", "patentanmeldungen_bev", "triadischepatente_bev", "pagerank", "export_quality_pct", "sophistication", "wissensintensitaet_export", "comb_IThigh_med_high", "emp_wiss", "wissens_DL"],
+    "wt": {
+      "TB_KMU": ["SME_innovation_pct", "Innovationsumsatz", "KMU_Inno_koop"],
+      "TB_FTI": ["BERD_bev", "Innov_UNT", "industry_researchers_FTE_bev", "FuE_Intens"],
+      "TB_Koop": ["Kooperation_UNT_Uni", "Leiden_industry_collab", "HERD_industry", "erfolgsquote_unt"],
+      "TB_patent": ["patentanmeldungen_bev", "triadischepatente_bev", "pagerank"],
+      "TB_upgrade": ["export_quality_pct", "sophistication"],
+      "TB_struktur": ["wissensintensitaet_export", "comb_IThigh_med_high", "emp_wiss", "wissens_DL"]
+    }
+  },
+  "B4": {
+    "i": ["VC", "VC_x_bank_gvt", "entrepreneur", "schnellwachsende_UNT", "Gazellen", "Unicorns"],
+    "wt": {
+      "VC": [],
+      "VC_x_bank_gvt": [],
+      "entrepreneur": [],
+      "schnellwachsende_UNT": [],
+      "Gazellen": [],
+      "Unicorns": []
+    }
+  },
+  "B5": {
+    "i": ["G_XGDP", "private_FuE", "öffentliche_Finanz_FuE", "öff_Finanz_HS_BIP", "öff_Finanz_HS_HERD", "Finanz_komp", "UNT_förderung", "Gvt_financed_BERD_GDP", "Indirect_Gvt_support_GDP", "B_XFA"],
+    "wt": {
+      "TB_Fin_ges": ["G_XGDP", "private_FuE", "öffentliche_Finanz_FuE"],
+      "TB_GF": ["öff_Finanz_HS_BIP", "öff_Finanz_HS_HERD", "Finanz_komp"],
+      "TB_UF": ["UNT_förderung", "Gvt_financed_BERD_GDP", "Indirect_Gvt_support_GDP", "B_XFA"]
+    }
+  },
+  "C1": {
+    "i": ["IKT_inv", "Breitband_pct", "Glasfaser", "digital_skills", "ICT_specialists", "IKT_Abs_Bev", "IKT_Patente_eng", "IKT_Patente_breit", "egovernment", "AI", "IOT", "Big_Data", "Cloud_Dienste", "KMU_int_Onlinehandel", "robot_ind_ser", "vaShareIctTypeComb_High", "empShareIctTypeComb_High", "vaShareIctTypeComb_Producer", "KMU_Onlinehandel_Umsatz"],
+    "wt": {
+      "TB_Inv_Infr": ["IKT_inv", "Breitband_pct", "Glasfaser"],
+      "TB_IKT_Fkt": ["digital_skills", "ICT_specialists", "IKT_Abs_Bev"],
+      "TB_IKT_erf": ["IKT_Patente_eng", "IKT_Patente_breit"],
+      "egovernment": [],
+      "TB_IKT_nutz": ["AI", "IOT", "Big_Data", "Cloud_Dienste", "KMU_int_Onlinehandel", "robot_ind_ser"],
+      "TB_IKT_wirk": ["vaShareIctTypeComb_High", "empShareIctTypeComb_High", "vaShareIctTypeComb_Producer", "KMU_Onlinehandel_Umsatz"]
+    }
+  },
+  "C2": {
+    "i": ["Envir_pc_GDP", "Envir_pc_GBOARD", "Energy_pc_GDP", "Energy_pc_GBOARD", "Umweltpatente", "Solarkapazität", "ISO_environment", "clean_energ", "e_cars", "Treibhausgase", "Exporte_Umwelt", "Ressourcenproduktivität"],
+    "wt": {
+      "TB_FuE_Klima": ["Envir_pc_GDP", "Envir_pc_GBOARD", "Energy_pc_GDP", "Energy_pc_GBOARD"],
+      "Umweltpatente": [],
+      "TB_Umwelt_Nutzung": ["Solarkapazität", "ISO_environment", "clean_energ", "e_cars"],
+      "TB_Umwelt_Wirkung": ["Treibhausgase", "Exporte_Umwelt", "Ressourcenproduktivität"]
+    }
+  },
+  "C3": {
+    "i": ["zit_fam_tc_ceCore_rta", "zit_fam_tc_ceEnabling_rta", "pr_Core", "pr_Enabling", "gross_inv", "emp_ce", "gross_va", "export_CEshare", "recyl", "Circular_Rate", "waste_weee", "bat_recycle"],
+    "wt": {
+      "TB_inno_ce": ["zit_fam_tc_ceCore_rta", "zit_fam_tc_ceEnabling_rta", "pr_Core", "pr_Enabling"],
+      "TB_ökon_ce": ["gross_inv", "emp_ce", "gross_va", "export_CEshare"],
+      "TB_stand_ce": ["recyl", "Circular_Rate", "waste_weee", "bat_recycle"]
+    }
+  },
+  "C4": {
+    "i": ["UNT_förderung", "Steuer_UNT", "clean_elec", "IPP_Reg", "publications_10pct", "MINT_Absolv_58", "MINT_Absolv_68", "pve", "gee", "rqe", "rle"],
+    "wt": {
+      "UNT_förderung": [],
+      "Steuer_UNT": [],
+      "clean_elec": [],
+      "IPP_Reg": [],
+      "publications_10pct": [],
+      "MINT_Absolv_58": [],
+      "MINT_Absolv_68": [],
+      "pve": [],
+      "gee": [],
+      "rqe": [],
+      "rle": []
+    }
+  },
+  "C5": {
+    "i": ["gender_diff_mathe", "MINT_Abs_fem", "Frauen_Nawi", "Frauen_Technik", "IKT_Abs_Bev_fem", "ICT_specialists_fem", "res_fem_bus", "res_fem_govhes", "Glasdeckenindex"],
+    "wt": {
+      "TB_gend_HS": ["gender_diff_mathe", "MINT_Abs_fem", "Frauen_Nawi", "Frauen_Technik", "IKT_Abs_Bev_fem"],
+      "TB_gend_Beruf": ["ICT_specialists_fem", "res_fem_bus", "res_fem_govhes", "Glasdeckenindex"]
+    }
+  },
+  "C6": {
+    "i": ["anteil_meanep_I2_at13_spz", "anteil_meanep_I2_at14_spz", "anteil_meanep_I2_at15_spz", "anteil_meanep_I2_at16_spz", "meanep_I2_bev_at13_spz", "meanep_I2_bev_at14_spz", "meanep_I2_bev_at15_spz", "meanep_I2_bev_at16_spz", "imports_share_at13_spz", "imports_share_at14_spz", "imports_share_at15_spz", "imports_share_at16_spz", "RCA_exports_value_at13_spz", "RCA_exports_value_at14_spz", "RCA_exports_value_at15_spz", "RCA_exports_value_at16_spz"],
+    "wt": {
+      "TB_souv_pat": ["anteil_meanep_I2_at13_spz", "anteil_meanep_I2_at14_spz", "anteil_meanep_I2_at15_spz", "anteil_meanep_I2_at16_spz", "meanep_I2_bev_at13_spz", "meanep_I2_bev_at14_spz", "meanep_I2_bev_at15_spz", "meanep_I2_bev_at16_spz"],
+      "TB_souv_ah": ["imports_share_at13_spz", "imports_share_at14_spz", "imports_share_at15_spz", "imports_share_at16_spz", "RCA_exports_value_at13_spz", "RCA_exports_value_at14_spz", "RCA_exports_value_at15_spz", "RCA_exports_value_at16_spz"]
+    }
+  },
+  "D1": {
+    "i": ["EIS_Index", "BIP_Kopf", "Erwerbstätigenquote", "Arbeitslosenquote", "Better_Life", "Jugendarbeitslosigkeit", "Gesunde_Lebensjahre_Frauen", "Gesunde_Lebensjahre_Männer", "Treibhausgase", "Energieintensität", "Ressourcenproduktivität"],
+    "wt": {
+      "EIS_Index": [],
+      "TB_WS": ["BIP_Kopf", "Erwerbstätigenquote", "Arbeitslosenquote", "Better_Life", "Jugendarbeitslosigkeit"],
+      "TB_Gesund": ["Gesunde_Lebensjahre_Frauen", "Gesunde_Lebensjahre_Männer"],
+      "TB_Umwelt": ["Treibhausgase", "Energieintensität", "Ressourcenproduktivität"]
+    }
+  },
+  "D2": {
+    "i": ["HERD_GOVERD_bev", "HEI_gvt_researchers_bev", "Leidenranking_bev", "publications_10pct", "citabledocuments_bev", "BERD_bev", "researchers_FTE_bev", "patentanmeldungen_bev", "triadischepatente_bev", "industry_researchers_FTE_bev", "GERD_bev", "Uniabs_isced5_8", "Innovationsumsatz", "comb_IThigh_med_high", "wissensintensitaet_export", "sophistication", "export_quality_pct", "Unicorns"],
+    "wt": {
+      "TB_Eff_Wiss": ["HERD_GOVERD_bev", "HEI_gvt_researchers_bev", "Leidenranking_bev", "publications_10pct", "citabledocuments_bev"],
+      "TB_Eff_Tech": ["BERD_bev", "researchers_FTE_bev", "patentanmeldungen_bev", "triadischepatente_bev"],
+      "TB_Eff_Inno": ["industry_researchers_FTE_bev", "GERD_bev", "Uniabs_isced5_8", "Innovationsumsatz", "comb_IThigh_med_high", "wissensintensitaet_export", "sophistication", "export_quality_pct", "Unicorns"]
+    }
+  }
+}

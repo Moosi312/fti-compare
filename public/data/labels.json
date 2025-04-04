@@ -1,0 +1,2171 @@
+{
+    "A1": {
+        "short": "Regulierung, Finanz- und Steuersystem",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Regulierung, Finanz- und Steuersystem",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "A2": {
+        "short": "Bildung",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Bildung",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "A3": {
+        "short": "Internationale Verflechtung",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Internationale Verflechtung",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "AI": {
+        "short": "Nutzung künstlicher Intelligenz",
+        "source": "Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_AI_TANY)",
+        "text": "Anteil der Unternehmen, die künstliche Intelligenz verwenden (in % der Unternehmen)",
+        "io": "i",
+        "unit": "In % der Unternehmen",
+        "unit_short": "In %",
+        "name_a": "Nutzung künstlicher Intelligenz in Unternehmen"
+    },
+    "Abgabenquote": {
+        "short": "Steuer- und Abgabenquote",
+        "source": "OECD Revenue Statistics",
+        "text": "Steuer- und Abgabenquote (in % des BIP)",
+        "io": "i",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "Steuer- und Abgabenquote (in % des BIP)"
+    },
+    "Arbeitslosenquote": {
+        "short": "Arbeitslosenquote",
+        "source": "Eurostat (lfsa_urgan)",
+        "text": "Die Arbeitslosenquote ergänzt das BIP pro Kopf als Maß für die wirtschaftliche Entwicklung eines Landes. Die Arbeitslosenquote ist definiert als der prozentuale Anteil der Arbeitslosen an den Erwerbspersonen. Die Erwerbspersonen umfassen die Erwerbstätigen und die Arbeitslosen. Die Daten sind saisonbereinigt. (In %)",
+        "io": "o",
+        "unit": "In % der Erwerbspersonen",
+        "unit_short": "In %",
+        "name_a": "Arbeitslosenquote"
+    },
+    "Ausgaben_Primar_KKS": {
+        "short": "Ausgaben pro Schüler:in (Primarbereich)",
+        "source": "Eurostat (educ_uoe_fine09)",
+        "text": "Bildungsausgaben in der Primarstufe (in Euro pro Schüler:in zu Vollzeitäquivalenten)",
+        "io": "i",
+        "unit": "In € je Schüler:in (VZÄ)",
+        "unit_short": "In €",
+        "name_a": "Ausgaben pro Schüler:in (Primarbereich)"
+    },
+    "Ausgaben_Sekundar_BIP": {
+        "short": "Ausgaben relativ zum BIP - Sekundarstufe",
+        "source": "Eurostat (educ_uoe_fine06)",
+        "text": "Bildungsausgaben in der Sekundarstufe (in % des BIP)",
+        "io": "i",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "Ausgaben relativ zum BIP (Sekundarbereich)"
+    },
+    "Ausgaben_Sekundar_KKS": {
+        "short": "Ausgaben pro Schüler:in (Sekundarbereich)",
+        "source": "Eurostat (educ_uoe_fine09)",
+        "text": "Bildungsausgaben in der Sekundarstufe (in Euro pro Schüler:in zu Vollzeitäquivalenten)",
+        "io": "i",
+        "unit": "In € je Schüler:in (VZÄ)",
+        "unit_short": "In €",
+        "name_a": "Ausgaben pro Schüler:in (Sekundarbereich)"
+    },
+    "Ausgaben_VS_BIP": {
+        "short": "Ausgaben relativ zum BIP - Primarstufe",
+        "source": "Eurostat (educ_uoe_fine06)",
+        "text": "Bildungsausgaben in der Primarstufe (in % des BIP)",
+        "io": "i",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "Ausgaben relativ zum BIP (Primarbereich)"
+    },
+    "Ausgaben_prim_sek_BIP": {
+        "short": "Bildungsausgaben in % des BIP",
+        "source": "OECD Education at a Glance",
+        "text": "Bildungsausgaben im vortertiären Bereich (in % des BIP)",
+        "io": "i",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "Bildungsausgaben im vortertiären Bereich (in % des BIP)"
+    },
+    "Ausgaben_prim_sek_studi": {
+        "short": "Bildungsausgaben pro Schüler:in",
+        "source": "OECD Education at a Glance",
+        "text": "Bildungsausgaben im vortertiären Bereich (in US-Dollar zu Kaufkraftparitäten pro Schüler:in)",
+        "io": "i",
+        "unit": "In US$ zu KKP je Schüler:in",
+        "unit_short": "In $",
+        "name_a": "Bildungsausgaben im vortertiären Bereich (pro Schüler:in)"
+    },
+    "B1": {
+        "short": "Tertiäre Bildung",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Tertiäre Bildung",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "B2": {
+        "short": "Forschung Hochschule & außeruniversitär",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Forschung an Hochschulen und außeruniversitär",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "B3": {
+        "short": "Unternehmens-FTI",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Unternehmens-FTI",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "B4": {
+        "short": "Gründungen",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Gründungen",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "B5": {
+        "short": "Finanzierung",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Finanzierung",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "BERD_bev": {
+        "short": "F&E-Ausgaben (Unternehmenssektor)",
+        "source": "OECD MSTI, Eurostat (rd_e_berdindr2), WIFO-Berechnungen",
+        "text": "F&E-Ausgaben im Unternehmenssektor (in US-Dollar und Kaufkraftparitäten, pro 1.000 der Bevölkerung)",
+        "io": "i",
+        "unit": "In US$ zu KKP je 1.000 EW",
+        "unit_short": "In $",
+        "name_a": "F&E-Ausgaben im Unternehmenssektor"
+    },
+    "BIP_Kopf": {
+        "short": "BIP/Kopf",
+        "source": "Weltbank",
+        "text": "Das Bruttoinlandsprodukt (BIP) pro Kopf ist ein Maß für die wirtschaftliche Leistungskraft einer Volkswirtschaft. Es ist definiert als Wert aller neu geschaffenen Waren und Dienstleistungen, abzüglich des Wertes aller dabei als Vorleistungen verbrauchten Güter und Dienstleistungen. Die zugrunde liegenden Zahlen sind in KKS ausgedrückt, einer einheitlichen Währung, die Preisniveauunterschiede zwischen Ländern ausgleicht und damit aussagekräftige BIP-Volumenvergleiche erlaubt.",
+        "io": "o",
+        "unit": "In US$ zu KKP je EW, real",
+        "unit_short": "In $",
+        "name_a": "BIP pro Kopf"
+    },
+    "BV_MW": {
+        "short": "Bildungsvererbung",
+        "source": "PISA",
+        "text": "Der durchschnittliche Unterschied bei den Schulleistungen in Lesekompetenz, der mit einem Anstieg um eine Einheit auf dem PISA-Index des wirtschaftlichen, sozialen und kulturellen Status einhergeht, wird als Steigung der sozioökonomischen Gradiente bezeichnet. Je höher der durchschnittliche Unterschied, desto höher der Einfluss des sozioökonomischen Hintergrunds der Schüler:innen auf ihre Lesekompetenz. Der sozioökonomische Hintergrund wird durch den PISA-Index des wirtschaftlichen, sozialen und kulturellen Status gemessen und beruht auf Angaben der Schüler:innen zu Bildungsstand und Beruf der Eltern und be-stimmten Gegenständen im Elternhaus, zum Beispiel einem Schreibtisch zum Lernen und der Zahl der Bücher. In der Beurteilung wird auf statistische Schwan-kungsbreiten Rücksicht genommen. Die Stärke des Zusammenhangs zwischen Leseleistung und sozioökonomischem Hintergrund wird durch den Prozentsatz der Varianz der Schulleistungen gemessen, die sich aus Unterschieden beim sozioökonomischen Hintergrund der Schüler:innen erklären lässt. Je höher der An-teil der erklärten Varianz, desto höher der Einfluss des sozioökonomischen Hintergrunds. Der Indikator bildet den Durchschnitt dieser beiden Ausprägungen, Anstieg und Stärke. ",
+        "io": "o",
+        "unit": "Mittelwert aus marginalem Effekt und Varianz",
+        "unit_short": "Indexwert",
+        "name_a": "Einfluss des sozioökonomischen Hintergrunds auf die Lesekompetenz"
+    },
+    "B_XFA": {
+        "short": "Auslandsfinanzierung von Unternehmens-F&E",
+        "source": "OECD MSTI (B_XFA)",
+        "text": "Anteil BERD finanziert durch das Ausland (In %)",
+        "io": "i",
+        "unit": "In % von BERD",
+        "unit_short": "In %",
+        "name_a": "Finanzierung von BERD aus dem Ausland"
+    },
+    "Betr_Verhältnis_Primar": {
+        "short": "Betreuungsverhältnis Volksschule",
+        "source": "Eurostat (educ_uoe_perp04)",
+        "text": "Die Schüler-Lehrkräfte-Relation ergibt sich, wenn man (gemessen in Vollzeitäquivalenten) die Zahl der Schüler:innen eines bestimmten Bildungsbereichs durch die Zahl der Lehrkräfte des gleichen Bildungsbereichs und ähnlicher Bildungseinrichtungen dividiert. (Anzahl Kinder/Lehrklärte in ISCED ED1)",
+        "io": "i",
+        "unit": "Verhältnis von Schüler:innen zu Lehrkräften",
+        "unit_short": "Quote",
+        "name_a": "Schüler-Lehrkräfte-Relation (Primarbereich)"
+    },
+    "Betr_Verhältnis_früh": {
+        "short": "Betreuungsverhältnis frühkindlich",
+        "source": "OECD Education at a Glance",
+        "text": "Die Schüler-Lehrkräfte-Relation bzw. Relation zwischen Kindern  und Betreuungspersonen ergibt sich, wenn man (gemessen in Vollzeitäquivalenten) die Zahl der Schüler:innen eines bestimmten Bildungsbereichs durch die Zahl der Lehrkräfte (nicht Hilfskräfte) des gleichen Bildungsbereichs und ähnlicher Bildungseinrichtungen dividiert. (Anzahl Kinder/Betreuungspersonen in ISCED 02)",
+        "io": "i",
+        "unit": "Verhältnis von Schüler:innen zu Lehrkräften",
+        "unit_short": "Quote",
+        "name_a": "Betreuungsverhältnis frühkindlich"
+    },
+    "Betreuung_frühkindlich_pct": {
+        "short": "Betreuung frühkindlich",
+        "source": "Eurostat (educ_uoe_enra10)",
+        "text": "Der Anteil der Bevölkerung im Alter von 4 Jahren bis zum Beginn des schulpflichtigen Alters, der an frühkindlicher Erziehung teilnimmt. (In %)",
+        "io": "i",
+        "unit": "In % der Alterskohorte",
+        "unit_short": "In %",
+        "name_a": "Betreuung frühkindlich (Schüler:innen zwischen 4 Jahren und dem Schulpflichtalter)"
+    },
+    "Betreuungsverh_Univ": {
+        "short": "Betreuungsverhältnis Universitäten",
+        "source": "Eurostat (educ_uoe_perp04)",
+        "text": "Der Indikator zeigt die Betreuungsverhältnisse an Hochschulen. Er wird – wo möglich – auf der Basis von Vollzeitäquivalenten berechnet. (Anzahl Studierende/Professoren in ISCED 6-8)",
+        "io": "i",
+        "unit": "Verhältnis von Studierenden zu Lehrkräften",
+        "unit_short": "Quote",
+        "name_a": "Betreuungsverhältnis Universitäten"
+    },
+    "Better_Life": {
+        "short": "Lebensqualität",
+        "source": "OECD Better Life Index",
+        "text": "Der Indikator misst Wohlstand und Lebensqualität in einer breiten Definition. Er setzt sich aus mehreren Bereichen zusammen, wobei Einkommen, Bildung und Gesundheit aufgrund der Überlappungen mit anderen Bereichen nicht abgebildet werden. Die restlichen Bereiche sind Ausgewogenheit Arbeitswelt-Privatsphäre, Integration in soziale Netzwerke, Teilhaben am sozialen/politischen Geschehen, persönliche Sicherheit, Umweltqualität, Wohnqualität und Lebenszufriedenheit.",
+        "io": "o",
+        "unit": "Indexwert",
+        "unit_short": "Indexwert",
+        "name_a": "Better Life"
+    },
+    "Big_Data": {
+        "short": "Big Data-Analysen",
+        "source": "Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_BD)",
+        "text": "Unternehmen, die Big Data einsetzen (In % der Unternehmen)",
+        "io": "i",
+        "unit": "In % der Unternehmen",
+        "unit_short": "In %",
+        "name_a": "Unternehmen, die Big Data einsetzen"
+    },
+    "Breitband_pct": {
+        "short": "Breitband",
+        "source": "Eurostat (isoc_ci_it_en2), OECD ICT Access and Usage by Businesses",
+        "text": "Anteil der Unternehmen, deren vertraglich vereinbarte Download-Geschwindigkeit der schnellsten Internetverbindung größer als 100 Mb/s ist (EIS Indikator 1.3.1). (In % aller Unternehmen)",
+        "io": "i",
+        "unit": "In % der Unternehmen",
+        "unit_short": "In %",
+        "name_a": "Breitbanddurchdringung"
+    },
+    "C1": {
+        "short": "Digitalisierung",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Digitalisierung",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "C2": {
+        "short": "Umwelt & Klima",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Umwelt & Klima",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "C3": {
+        "short": "Kreislaufwirtschaft",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Kreislaufwirtschaft",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "C4": {
+        "short": "Standortattraktivität",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Standortattraktivität",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "C5": {
+        "short": "Geschlechtergerechtigkeit",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Geschlechtergerechtigkeit",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "C6": {
+        "short": "Technologiesouveränität",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Souveränität",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "Circular_Rate": {
+        "short": "Nutzungsrate wiederverwendbarer Stoffe",
+        "source": "Eurostat (env_ac_cur)",
+        "text": "Anteil des recycelten und wieder in die Wirtschaft eingespeisten Materials im gesamten Materialeinsatz",
+        "io": "o",
+        "unit": "In % der gesamten Materialnutzung",
+        "unit_short": "In %",
+        "name_a": "Nutzungsrate wiederverwendbarer Stoffe"
+    },
+    "Cloud_Dienste": {
+        "short": "Cloud Computing",
+        "source": "Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_CC_GE_ME)",
+        "text": "Cloud Computing-Dienste (Datenspeicherung, Finanzsoftware, etc.) (In % der Unternehmen)",
+        "io": "i",
+        "unit": "In % der Unternehmen",
+        "unit_short": "In %",
+        "name_a": "Nutzung von Cloud-Diensten"
+    },
+    "D1": {
+        "short": "Effektivität von FTI-Aktivitäten",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Effektivität von FTI-Aktivitäten",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "D2": {
+        "short": "Effizienz",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Bereich Effizienz",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "EIS_Index": {
+        "short": "EIS Index",
+        "source": "European Innovation Scoreboard",
+        "text": "Der Innovationsindex des EIS soll die Innovationsleistung der Mitgliedsländer der EU vergleichbar machen. Er setzt sich aus 27 ungewichteten Einzelindikatoren zusammen, die mehrere innovationsrelevante Bereiche betreffen (z. B. Humanressourcen, Forschungsausgaben, Patente, Strukturwandel).",
+        "io": null,
+        "unit": null,
+        "unit_short": "Indexwert",
+        "name_a": "EIS Index"
+    },
+    "EP_coll_dismiss": {
+        "short": "Regulierung Arbeitsmarkt - mehrfach",
+        "source": "OECD Employment Protection Database",
+        "text": "Dieser Indikator ist ein Summary-Indikator und besteht aus vier Indikatoren betreffend Massenentlassungen.",
+        "io": "i",
+        "unit": "Indexwert",
+        "unit_short": "Indexwert",
+        "name_a": "Strenge der Arbeitsmarktregulierung – Mehrfachkündigung"
+    },
+    "EP_indiv_dismiss": {
+        "short": "Regulierung Arbeitsmarkt - individuell",
+        "source": "OECD Employment Protection Database",
+        "text": "Dieser Indikator ist ein Summary-Indikator bestehend aus acht Indikatoren betreffend individuelle Kündigungen (je höher der Wert, desto strenger die Regulierung)",
+        "io": "i",
+        "unit": "Indexwert",
+        "unit_short": "Indexwert",
+        "name_a": "Strenge der Arbeitsmarktregulierung - individuelle Kündigungen regulärer Dienstverträge"
+    },
+    "EP_temp_emp": {
+        "short": "Regulierung Arbeitsmarkt - befristet",
+        "source": "OECD Employment Protection Database",
+        "text": "Dieser Indikator ist ein Summary-Indikator und besteht aus vier Indikatoren betreffend Massenentlassungen.",
+        "io": "i",
+        "unit": "Indexwert",
+        "unit_short": "Indexwert",
+        "name_a": "Strenge der Arbeitsmarktregulierung – befristete Verträge"
+    },
+    "ERC_grants": {
+        "short": "ERC Grants",
+        "source": "European Research Council",
+        "text": "Der Indikator spiegelt den Erfolg beim Einwerben von ERC-Mitteln wider, die mit einer strikten Qualitätsbeurteilung einhergehen und nur für internationale Spitzenforschung vergeben werden. Es werden die drei ERC-Programmschienen Starting, Consolidator und Advanced erfasst. Der Indikator wird aufgrund der jährlich vom ERC veröffentlichten Daten berechnet (je Mio. Einwohner & 3-Jahres-Glättung). Anm.: Die Daten zu den ERC Grants werden direkt vom ERC bezogen. Sie weichen von den Daten des FFG EU-Monitoring ab, da die FFG die ERC-Mittel kumulativ, über alle Jahre des laufenden Horizon Europe Programms (2021-2027), erfasst und nicht zur Bevölkerung in Bezug setzt.",
+        "io": "o",
+        "unit": "Anzahl je Mio. EW",
+        "unit_short": "Anzahl",
+        "name_a": "ERC Grants"
+    },
+    "Energieintensität": {
+        "short": "Energieintensität",
+        "source": "Eurostat (nrg_bal_s), WIFO-Berechnungen",
+        "text": "Dieser Indikator zeigt die Entwicklung der Energieeffizienz, d. h. den Energieverbrauch, der mit der jährlichen Produktionsleistung der österreichischen Wirtschaft einhergeht.",
+        "io": "o",
+        "unit": "Verhältnis von Bruttoinlandsverbrauch zum BIP",
+        "unit_short": "Quote",
+        "name_a": "Energieintensität"
+    },
+    "Energy_pc_GBOARD": {
+        "short": "F&E-Ausgaben im Energiebereich (in % des GBAORD)",
+        "source": "Eurostat (gba_nabsfin07)",
+        "text": "Ausgaben für Forschung und Entwicklung in % des Bundesbudgets (GBAORD), die inhaltlich dem Umweltbereich zuzuordnen sind (Glättung)",
+        "io": "i",
+        "unit": "In % des GBAORD",
+        "unit_short": "In %",
+        "name_a": "F&E-Ausgaben im Energiebereich (in % des GBAORD)"
+    },
+    "Energy_pc_GDP": {
+        "short": "F&E-Ausgaben im Energiebereich (in % des BIP)",
+        "source": "Eurostat (gba_nabsfin07)",
+        "text": "Ausgaben für Forschung und Entwicklung in % des BIP, die inhaltlich dem Umweltbereich zuzuordnen sind (Glättung)",
+        "io": "i",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "F&E-Ausgaben im Energiebereich (in % des BIP)"
+    },
+    "Envir_pc_GBOARD": {
+        "short": "F&E-Ausgaben im Umweltbereich (in % des GBAORD)",
+        "source": "Eurostat (gba_nabsfin07)",
+        "text": "Ausgaben für Forschung und Entwicklung in % des Bundesbudgets (GBAORD), die inhaltlich dem Umweltbereich zuzuordnen sind (Glättung)",
+        "io": "i",
+        "unit": "In % des GBAORD",
+        "unit_short": "In %",
+        "name_a": "F&E-Ausgaben im Umweltbereich (in % des GBAORD)"
+    },
+    "Envir_pc_GDP": {
+        "short": "F&E-Ausgaben im Umweltbereich (in % des BIP)",
+        "source": "Eurostat (gba_nabsfin07)",
+        "text": "Ausgaben für Forschung und Entwicklung in % des BIP, die inhaltlich dem Umweltbereich zuzuordnen sind (Glättung)",
+        "io": "i",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "F&E-Ausgaben im Umweltbereich (in % des BIP)"
+    },
+    "Erwerbstätigenquote": {
+        "short": "Erwerbstätigenquote",
+        "source": "OECD (Labour Force Statistics), Eurostat (demo_pjanbroad)",
+        "text": "Die Erwerbstätigenquote ergänzt das BIP pro Kopf als Maß für die wirtschaftliche Entwicklung eines Landes. Zur erwerbstätigen Bevölkerung zählen alle Personen, die in der Berichtswoche mindestens eine Stunde lang gegen Entgelt oder zur Erzielung eines Gewinns arbeiteten oder nicht arbeiteten, aber einen Arbeitsplatz hatten, von dem sie vorübergehend abwesend waren. Die Daten sind teilzeitbereinigt. (In %)",
+        "io": "o",
+        "unit": "Anteil VZÄ an EW von 15 - 64 Jahren",
+        "unit_short": "In %",
+        "name_a": "Erwerbstätigenquote"
+    },
+    "Exporte_Umwelt": {
+        "short": "Exporte Umweltgüter",
+        "source": "Eurostat (env_ac_egss2)",
+        "text": "Exporte von Umweltgütern in % des BIP (nach EU-Definition)",
+        "io": "o",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "Exporte von Umweltgütern"
+    },
+    "Finanz_komp": {
+        "short": "Projektfinanzierte Grundlagenforschung",
+        "source": "Jahresberichte der Fonds, WIFO-Berechnungen",
+        "text": "Jährliche Ausschüttungen von Fonds zur Finanzierung der Grundlagenforschung, pro Kopf der Bevölkerung. Die zugrundeliegenden Länder sind Österreich, Schweiz, Deutschland, Dänemark, Finnland, Niederlande, Schweden, Vereinigtes Königreich, USA.",
+        "io": "i",
+        "unit": "In US$ zu KKP je EW",
+        "unit_short": "In $",
+        "name_a": "Projektbasierte Finanzierung von Grundlagenforschung durch FWF-ähnliche Fonds"
+    },
+    "Frauen_Nawi": {
+        "short": "Absolventinnen in Naturwissenschaften",
+        "source": "Eurostat (educ_uoe_grad02)",
+        "text": "Dieser Indikator misst den Prozentsatz der Frauen an MINT-Absolvent:innen (ISCED 6-8, im Feld F05 - Naturwissenschaften, Mathematik und Statistik), die häufig in technologische Innovationsprozesse eingebunden werden. (In %)",
+        "io": "o",
+        "unit": "In % aller MINT-Absolvent:innen",
+        "unit_short": "In %",
+        "name_a": "Absolventinnen in naturwissenschaftlichen Studien"
+    },
+    "Frauen_Technik": {
+        "short": "Absolventinnen in Technik",
+        "source": "Eurostat (educ_uoe_grad02)",
+        "text": "Anteil von Absolventinnen (ISCED 6-8) in den Fächern Ingenieurwesen, verarbeitendes Gewerbe und Baugewerbe. (In %)",
+        "io": "o",
+        "unit": "In % aller Technik-Absolvent:innen",
+        "unit_short": "In %",
+        "name_a": "Absolventinnen in technisch-ingenieurwissenschaftlichen Studien"
+    },
+    "FuE_Intens": {
+        "short": "Industriestrukturbereinigte F&E-Intensität",
+        "source": "Eurostat, OECD, WIFO-Berechnungen",
+        "text": "Die F&E-Intensität kann als Maß für die Wissensintensität interpretiert werden. Allerdings unterscheiden sich durchschnittliche F&E-Intensitäten je nach Sektor stark, deshalb ist eine Bereinigung um die Industriestruktur notwendig, um eine international vergleichbare Aussage über die F&E-Intensität des Unternehmenssektors treffen zu können.",
+        "io": "i",
+        "unit": "Ländereffekt in Prozentpunkten",
+        "unit_short": "In Prozentpunkten",
+        "name_a": "Industriestrukturbereinigte F&E-Intensität"
+    },
+    "GERD_bev": {
+        "short": "F&E Ausgaben (GERD)",
+        "source": "OECD MSTI, Eurostat (rd_e_gerdtot), WIFO-Berechnungen.",
+        "text": "F&E-Ausgaben in allen Sektoren (in US-Dollar zu Kaufkraftparitäten, pro 1.000 der Bevölkerung)",
+        "io": "i",
+        "unit": "In US$ zu KKP je 1.000 EW",
+        "unit_short": "In $",
+        "name_a": "F&E-Ausgaben in allen Sektoren (in US-Dollar und Kaufkraftparitäten, pro 1.000 der Bevölkerung)"
+    },
+    "G_BRXGDP": {
+        "short": "Grundlagenforschungsquote",
+        "source": "OECD MSTI (G_BRXGDP)",
+        "text": "Grundlagenforschungsausgaben wie definiert nach OECD-Frascati-Manual. (In % des BIP)",
+        "io": "i",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "Grundlagenforschungsquote"
+    },
+    "G_XFA": {
+        "short": "Auslandsfinanzierung von F&E",
+        "source": "OECD MSTI (G_XFA)",
+        "text": "Österreichs Forschungsausgaben werden im internationalen Vergleich überdurchschnittlich aus dem Ausland finanziert. Dies ist ein Indikator für die Standortqualität, gleichzeitig erhöht es die Fragilität der Forschungstätigkeit in Österreich. Deshalb ist es nicht notwendig, dass der Anteil der Auslandsfinanzierung weiter steigt, er sollte aber auch nicht drastisch sinken. (In %)",
+        "io": "i",
+        "unit": "In % des GERD",
+        "unit_short": "In %",
+        "name_a": "Auslandsfinanzierung F&E"
+    },
+    "G_XGDP": {
+        "short": "F&E-Quote",
+        "source": "OECD MSTI (G_XGDP)",
+        "text": "F&E Ausgaben (GERD) in % des BIP",
+        "io": "i",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "F&E-Quote"
+    },
+    "Gazellen": {
+        "short": "Junge schnellwachsende Unternehmen",
+        "source": "Eurostat (bd_9pm_r2 bd_hg)",
+        "text": "Anteil junger, wachstumsstarker Unternehmen, gemessen an der Beschäftigung, an der Grundgesamtheit der aktiven Unternehmen - junge, wachstumsstarke Unternehmen dividiert durch aktive Unternehmen mit mindestens 10 Beschäftigten - Prozent",
+        "io": "o",
+        "unit": "in %",
+        "unit_short": "in %",
+        "name_a": " Junge schnellwachsende Unternehmen"
+    },
+    "Gesunde_Lebensjahre_Frauen": {
+        "short": "Gesunde Lebenserwartung (F)",
+        "source": "Eurostat (hlth_hlye)",
+        "text": "Dieser Indikator spiegelt Herausforderungen im Zusammenhang mit der Bevölkerungsalterung wider. Die Lebenserwartung in Gesundheit kann sowohl von medizinisch-technologischen Fortschritten als auch von sozialen Innovationen wie z. B. neuen betrieblichen Präventionsmodellen beeinflusst werden. Er wird getrennt für Männer und Frauen dargestellt, hier für Frauen. (In % der Lebensjahre)",
+        "io": "o",
+        "unit": "In % der Lebensjahre",
+        "unit_short": "In %",
+        "name_a": "Gesunde Lebenserwartung (F)"
+    },
+    "Gesunde_Lebensjahre_Männer": {
+        "short": "Gesunde Lebenserwartung (M)",
+        "source": "Eurostat (hlth_hlye)",
+        "text": "Dieser Indikator spiegelt Herausforderungen im Zusammenhang mit der Bevölkerungsalterung wider. Die Lebenserwartung in Gesundheit kann sowohl von medizinisch-technologischen Fortschritten als auch von sozialen Innovationen wie z. B. neuen betrieblichen Präventionsmodellen beeinflusst werden. (In % der Lebensjahre)",
+        "io": "o",
+        "unit": "In % der Lebensjahre",
+        "unit_short": "In %",
+        "name_a": "Gesunde Lebenserwartung (M)"
+    },
+    "Glasdeckenindex": {
+        "short": "Glasdeckenindex EU",
+        "source": "She Figures",
+        "text": "Der Indikator zeigt, wie wahrscheinlich es ist, dass eine Frau den Sprung vom wissenschaftlichen Personal einer Hochschule zu einer Spitzenposition schafft.",
+        "io": "i",
+        "unit": "Indexwert",
+        "unit_short": "Indexwert",
+        "name_a": "Glasdeckenindex (Professorinnenanteil in Relation zum Frauenanteil des wissenschaftlichen und künstlerischen Personals)"
+    },
+    "Glasfaser": {
+        "short": "Glasfaser",
+        "source": "OECD Telecommunication Statistics",
+        "text": "Anteil von Glasfaserverbindungen an den gesamten Breitbandabonnements. (In %)",
+        "io": "i",
+        "unit": "In % der Unternehmen",
+        "unit_short": "In %",
+        "name_a": "Anteil von Glasfaserverbindungen an den gesamten Breitbandabonnements"
+    },
+    "Gvt_financed_BERD_GDP": {
+        "short": "Direkte Unternehmensförderung",
+        "source": "OECD R&D Tax Incentive Indicators",
+        "text": "Direkte Unternehmensförderung in % des BIP, z.B. F&E-relevante Ausschüttungen der FFG oder der aws.",
+        "io": "i",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "Direkte Unternehmensförderung"
+    },
+    "HEI_gvt_researchers_bev": {
+        "short": "Zahl der Forscher:innen (HEI & GOV)",
+        "source": "OECD MSTI, Eurostat (rd_p_persocc), WIFO-Berechnungen",
+        "text": "Zahl der Forscher:innen zu Vollzeitäquivalenten in den beiden Sektoren Hochschulen und Staat, (pro 1.000 der Bevölkerung).",
+        "io": "i",
+        "unit": "Anzahl in VZÄ je 1.000 EW",
+        "unit_short": "Anzahl",
+        "name_a": "Forscher:innen in VZÄ in den Sektoren Staat und Hochschule"
+    },
+    "HERD_GOVERD_BIP": {
+        "short": "F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP",
+        "source": "OECD MSTI",
+        "text": "Ausgaben für Forschung und Entwicklung in den Sektoren Staat und Hochschule. (in % des BIP)",
+        "io": "i",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "F&E-Ausgaben in den Sektoren Staat und Hochschule"
+    },
+    "HERD_GOVERD_bev": {
+        "short": "F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung",
+        "source": "OECD MSTI, Eurostat (rd_e_gerdtot), WIFO-Berechnungen",
+        "text": "Ausgaben für Forschung und Entwicklung in den Sektoren Staat und Hochschule, in US Dollar zu Kaufkraftparitäten (pro 1.000 Einwohner)",
+        "io": "i",
+        "unit": "In US$ zu KKP je 1.000 EW",
+        "unit_short": "In $",
+        "name_a": "F&E-Ausgaben in den Sektoren Staat und Hochschule"
+    },
+    "HERD_industry": {
+        "short": "Finanzierung von Hochschulen durch Unternehmen",
+        "source": "OECD MSTI (H_XFB)",
+        "text": "Im Hochschulsektor durchgeführte F&E, die vom Unternehmenssektor finanziert wurde. (In %)",
+        "io": "i",
+        "unit": "In % des HERD",
+        "unit_short": "In %",
+        "name_a": "Finanzierung von Hochschulen durch Unternehmen"
+    },
+    "ICT_specialists": {
+        "short": "IKT-Spezialist:innen",
+        "source": "Eurostat (isoc_sks_itspt)",
+        "text": "Angestellte ICT-Spezialist:innen. Breite Definition auf der Grundlage der ISCO-08-Klassifikation und unter Einbeziehung von Berufen wie IKT-Service-Manager:in, IKT-Fachleuten, IKT-Techniker:in, IKT-Installateur:in und -Dienstleister:in. (In %)",
+        "io": "i",
+        "unit": "In % aller Beschäftigten",
+        "unit_short": "In %",
+        "name_a": "Angestellte IKT-Fachkräfte"
+    },
+    "ICT_specialists_fem": {
+        "short": "Weibliche IKT-Fachkräfte",
+        "source": "Eurostat (isoc_sks_itsps)",
+        "text": "Frauenanteil unter den IKT-Spezialist:innen. Breite Definition auf der Grundlage der ISCO-08-Klassifikation und unter Einbeziehung von Berufen wie IKT-Service-Manager:in, IKT-Fachleuten, IKT-Techniker:in, IKT-Installateur:in und -Dienstleister:in. (In %)",
+        "io": "i",
+        "unit": "In % aller IKT-Spezialist:innen",
+        "unit_short": "In %",
+        "name_a": "Weibliche IKT-Fachkräfte"
+    },
+    "IKT_Abs_Bev": {
+        "short": "IKT-Absolvent:innen",
+        "source": "Eurostat (educ_uoe_grad02)",
+        "text": "Absolvent:innen (ISCED 6-8) von Studiengängen der Informations-und Kommunikationstechnologie (pro 1.000 Einwohner im Alter von 20-29 Jahren)",
+        "io": "i",
+        "unit": "Anzahl je 1.000 EW von 20 bis 29",
+        "unit_short": "Anzahl",
+        "name_a": "IKT-Absolvent:innen"
+    },
+    "IKT_Abs_Bev_fem": {
+        "short": "IKT-Absolventinnen",
+        "source": "Eurostat (educ_uoe_grad02)",
+        "text": "Absolventinnen (ISCED 6-8) von Studiengängen der Informations-und Kommunikationstechnologie (pro 1.000 Einwohner im Alter von 20-29 Jahren)",
+        "io": "o",
+        "unit": "Anzahl je 1.000 EW von 20 bis 29",
+        "unit_short": "Anzahl",
+        "name_a": "IKT-Absolventinnen pro 1000 der Bevölkerung von 20-29 Jahren"
+    },
+    "IKT_Patente_breit": {
+        "short": "IKT-Patente breit definiert",
+        "source": "PATSTAT, Herbst 2023; Inaba, Squicciarini 2017 (OECD), WIFO-Berechnungen",
+        "text": "Der Indikator zeigt die relative Erfindungsspezialisierung anhand eines RTA-Indikators (ähnlich zum RCA im Außenhandel - Relative Technological Advantage vs. Relative Comparative Advantage)",
+        "io": "o",
+        "unit": "Revealed technological Advantage (RTA)",
+        "unit_short": "RTA",
+        "name_a": "IKT-Patente extensive ICT technologies extensive definition"
+    },
+    "IKT_Patente_eng": {
+        "short": "IKT-Patente eng definiert",
+        "source": "PATSTAT, Herbst 2023; Inaba, Squicciarini 2017 (OECD), WIFO-Berechnungen",
+        "text": "Der Indikator zeigt die relative Erfindungsspezialisierung anhand eines RTA-Indikators (ähnlich zum RCA im Außenhandel - Relative Technological Advantage vs. Relative Comparative Advantage)",
+        "io": "o",
+        "unit": "Revealed technological Advantage (RTA)",
+        "unit_short": "RTA",
+        "name_a": "IKT-Patente strict ICT technologies strict definition"
+    },
+    "IKT_inv": {
+        "short": "IKT-Investitionen",
+        "source": "EUKLEMS",
+        "text": "Anteil der Investitionen in IKT an den Bruttoanlageinvestitionen (In %)",
+        "io": "i",
+        "unit": "in % der Bruttoanlageinvestitionen",
+        "unit_short": "In %",
+        "name_a": "Anteil der Investitionen in IKT an den Bruttoanlageinvestitionen"
+    },
+    "IOT": {
+        "short": "Internet of Things",
+        "source": "Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_IOT &E_IOT1)",
+        "text": "Anteil der Unternehmen, die vernetzte Geräte oder Systeme verwenden, deren Überwachung oder Steuerung über Internet erfolgen kann (in % der Unternehmen).",
+        "io": "i",
+        "unit": "in % der Unternehmen",
+        "unit_short": "In %",
+        "name_a": "Nutzung Internet of Things in Unternehmen"
+    },
+    "IPP_Reg": {
+        "short": "IPR-Regulierung",
+        "source": "World Economic Forum",
+        "text": "WEF-Indikator 1.15 Schutz des geistigen Eigentums Antwort auf die Umfragefrage \"Wie weit ist in Ihrem Land das geistige Eigentum geschützt? [1 = überhaupt nicht; 7 = weitgehend]",
+        "io": "i",
+        "unit": "Normalisierter Wert",
+        "unit_short": "Normalisierter Score",
+        "name_a": "Strenge der Regulierung geistiger Eigentumsrechte"
+    },
+    "ISO_environment": {
+        "short": "Firmen mit ISO Environment-Zertifizierung",
+        "source": "ISO, OECD",
+        "text": "Anteil der Firmen, die eine ISO 14001:2015 Environmental Management Systems-Zertifizierung haben. (In %)",
+        "io": "i",
+        "unit": "In % aller Unternehmen",
+        "unit_short": "In %",
+        "name_a": "Anteil Firmen mit ISO Environment-Zertifizierung"
+    },
+    "Immigr_Hochqual": {
+        "short": "Immigration Hochqualifizierte",
+        "source": "Eurostat (edat_lfs_9915)",
+        "text": "Der Indikator spiegelt die Qualifikationsstruktur der Zuwanderung wider. Erfasst werden im Ausland geborene mit Aufenthaltserlaubnis und mindestens dreimonatiger Aufenthaltsdauer, Qualifikationskriterium ist ein Hochschulabschluss. (In %)",
+        "io": "i",
+        "unit": null,
+        "unit_short": "Verhältnis in %",
+        "name_a": "Immigration von (hochqualifizierten) Fachkräften"
+    },
+    "Indirect_Gvt_support_GDP": {
+        "short": "Indirekte Unternehmensförderung",
+        "source": "OECD R&D Tax Incentive Indicators",
+        "text": "Steuerliche Forschungsförderung in % des BIP, in Österreich Ausschüttungen der Forschungsprämie.",
+        "io": "i",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "Indirekte Unternehmensförderung"
+    },
+    "Innov_UNT": {
+        "short": "Innovierende Unternehmen",
+        "source": "Eurostat CIS",
+        "text": "Unternehmen, die entweder eine Innovation eingeführt haben oder irgendeine Art von Innovationstätigkeit ausüben, als Anteil an allen Unternehmen. (In %)",
+        "io": "i",
+        "unit": "In % der Unternehmen",
+        "unit_short": "In %",
+        "name_a": "Innovierende Unternehmen"
+    },
+    "Innovationsumsatz": {
+        "short": "Innovationsumsatz",
+        "source": "Eurostat CIS",
+        "text": "Der Indikator spiegelt die wirtschaftliche Bedeutung von Innovationen wider, die nicht nur neu für das Unternehmen, sondern auch neu für den Markt sind und deren Neuheitsgrad daher besonders ausgeprägt ist. Er ist demnach ein Wirkungsindikator für Innovation. (In %)",
+        "io": "o",
+        "unit": "In % des Umsatzes",
+        "unit_short": "In %",
+        "name_a": "Innovationsumsatz"
+    },
+    "Interesse_Wiss": {
+        "short": "Interesse an Wissenschaft",
+        "source": "Eurobarometer ",
+        "text": "Anteil der Befragten, die an neuen wissenschaftlichen Entdeckungen und technologischen Entwicklungen sehr interessiert oder interessiert sind.",
+        "io": "i",
+        "unit": "in %",
+        "unit_short": "in %",
+        "name_a": "Interesse an Wissenschaft"
+    },
+    "Interm_export": {
+        "short": "GVC-Integration (Exporte)",
+        "source": "Weltbank",
+        "text": "Ein Maß für die Integration in globale Wertschöpfungsketten - Anteil von Zwischenprodukten am Gesamtexport. (In %)",
+        "io": "o",
+        "unit": "In % der Exporte",
+        "unit_short": "In %",
+        "name_a": "Halbfertige Produkte in Exporten"
+    },
+    "Interm_import": {
+        "short": "GVC-Integration (Importe)",
+        "source": "Weltbank",
+        "text": "Ein Maß für die Integration in globale Wertschöpfungsketten - Anteil von Zwischenprodukten am Gesamtimport. (In %)",
+        "io": "o",
+        "unit": "In % der Exporte",
+        "unit_short": "In %",
+        "name_a": "Halbfertige Produkte in Importen"
+    },
+    "Jugendarbeitslosigkeit": {
+        "short": "Jugendarbeitslosigkeit",
+        "source": "Eurostat (une_rt_a)",
+        "text": "Anteil der Arbeitslosen an der erwerbstätigen Bevölkerung zwischen 15 und 24 Jahren",
+        "io": "o",
+        "unit": "In %",
+        "unit_short": "In %",
+        "name_a": "Jugendarbeitslosigkeit"
+    },
+    "KMU_Inno_koop": {
+        "short": "KMU und Kooperation",
+        "source": "Eurostat CIS",
+        "text": "Dieser Indikator misst den Grad, in dem KMUs an der Innovationskooperation beteiligt sind. Komplexe Innovationen hängen oft von der Fähigkeit ab, auf verschiedene Informationsquellen zurückgreifen oder an der Entwicklung einer Innovation mitwirken zu können. Dieser Indikator misst den Fluss des Wissens zwischen öffentlichen Forschungseinrichtungen und Unternehmen sowie zwischen Unternehmen und anderen Unternehmen.\\nDer Indikator ist auf KMU beschränkt, denn fast alle großen Unternehmen sind an der Innovationskooperation beteiligt. (EIS Indikator 3.2.1.) (In %)",
+        "io": "i",
+        "unit": "In % der KMU",
+        "unit_short": "In %",
+        "name_a": "KMU mit Innovationskooperationen"
+    },
+    "KMU_Onlinehandel_Umsatz": {
+        "short": "KMU-Onlinehandel – Umsatz",
+        "source": "Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_ETURN)",
+        "text": "Gesamtumsatz von Unternehmen mit 10-249 Beschäftigten aus dem E-Commerce (in % des Gesamtumsatzes)",
+        "io": "o",
+        "unit": "In % des Umsatzes",
+        "unit_short": "In %",
+        "name_a": "Umsatz von KMU im Onlinehandel"
+    },
+    "KMU_int_Onlinehandel": {
+        "short": "KMU-Onlinehandel – international",
+        "source": "Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_AESEU)",
+        "text": "Anteil der Unternehmen mit 10-249 Beschäftigten, bei denen die E-Commerce-Verkäufe mindestens 1% des Umsatzes ausmachen. (In %)",
+        "io": "i",
+        "unit": "In % der KMU",
+        "unit_short": "In %",
+        "name_a": "KMU mit Onlinehandel (mind. 1% des Umsatzes)"
+    },
+    "Kapitalmarktgroesse": {
+        "short": "Größe des Kapitalmarkts",
+        "source": "Weltbank, World Development Indicators",
+        "text": "Kapitalmarktgröße (Börsenkapitalisierung, Kredite und Anleihen in % des BIP)",
+        "io": "i",
+        "unit": "In % des BIP",
+        "unit_short": "In %",
+        "name_a": "Größe des Kapitalmarkts"
+    },
+    "Kooperation_UNT_Uni": {
+        "short": "Unternehmen mit Innovationskooperationen",
+        "source": "Eurostat CIS",
+        "text": "Anteil der Unternehmen, die mit Hochschulen oder außeruniversitären Forschungseinrichtungen in Innovationsprojekten kooperieren. (In %)",
+        "io": "i",
+        "unit": "In % der Unternehmen",
+        "unit_short": "In %",
+        "name_a": "Unternehmen mit Innovationskooperationen mit Hochschulen/Forschungseinrichtungen"
+    },
+    "Kopublikationen": {
+        "short": "Internationale Ko-Publikationen",
+        "source": "European Innovation Scoreboard",
+        "text": "Internationale wissenschaftliche Ko-Publikationen können als ein Hinweis für die Qualität wissenschaftlicher Forschung interpretiert werden, da die internationale Zusammenarbeit in der Regel die wissenschaftliche Produktivität erhöht. (EIS Indikator 1.2.1)",
+        "io": "o",
+        "unit": "Anzahl je Mio EW",
+        "unit_short": "Anzahl",
+        "name_a": "Internationale Ko-Publikationen"
+    },
+    "Leiden_industry_collab": {
+        "short": "Leidenranking - Kooperation mit Unternehmen",
+        "source": "CWTS Leiden Ranking, WIFO-Berechnungen",
+        "text": "Der Indikator aggregiert die einzelnen Rankingpositionen der Universitäten bezüglich des Anteils an allen Publikationen von gemeinsamen Publikationen mit Unternehmen zu einem Gesamtscore. Die Zahl der Universitäten wird innerhalb einer Ranggrupe (1-100, 101-200, ...) mit der Zahl der gemeinsamen Publikationen gewichtet, dann wird die Ranggruppe nochmals gewichtet und die Summe über alle Ranggruppen gebildet.",
+        "io": "i",
+        "unit": "Anzahl je Mio EW (gewichtet)",
+        "unit_short": "Anzahl",
+        "name_a": "Leidenranking - Kooperation mit Unternehmen"
+    },
+    "Leidenranking_bev": {
+        "short": "Hochschulranking Forschungsleistung",
+        "source": "CWTS Leiden Ranking, WIFO-Berechnungen",
+        "text": "Der Indikator zeigt, wie sich österreichische Hochschulen bei Forschungsleistung international positionieren. Er zeigt die Zahl der Hochschulen Österreichs in groben Ranggruppen (1–50, 51–100, 101–200, 201–300) internationaler Hochschulvergleiche (dzt. nur Leiden Ranking) relativ zur Landesgröße (Zahl der Hochschulen pro 10 Millionen Einwohner), wobei die Zahl der Hochschulen mit den Ranggruppen gewichtet wird (je besser die Ranggruppe, desto höher das Gewicht). Damit zeigt dieser Indikator auch, ob ein Land nur ein einzelnes Spitzeninstitut besitzt oder eine größere Bandbreite.",
+        "io": "o",
+        "unit": "Anzahl je Mio EW (gewichtet)",
+        "unit_short": "Anzahl",
+        "name_a": "Aggregation des Universitätsrankings Leiden, relativ zur Bevölkerung"
+    },
+    "MINT_Abs_fem": {
+        "short": "MINT-Absolventinnen ISCED 5-8",
+        "source": "Eurostat (educ_uoe_grad04)",
+        "text": "Tertiärabschlüsse von Absolventinnen in naturwissenschaftlichen und technologischen Fachrichtungen (ISCED 5-8: inklusive der beiden letzten Jahrgänge der berufsbildenden höheren Schulen BHS) pro 1.000 Einwohner im Alter von 20 bis 29 Jahren. ",
+        "io": "o",
+        "unit": "Anzahl je 1.000 EW von 20 - 29 Jahren",
+        "unit_short": "Anzahl",
+        "name_a": "MINT-Absolventinnen"
+    },
+    "MINT_Absolv_58": {
+        "short": "MINT-Absolvent:innen ISCED 5-8",
+        "source": "Eurostat (educ_uoe_grad04)",
+        "text": "Tertiärabschlüsse in naturwissenschaftlichen und technologischen Fachrichtungen (ISCED 5-8: inklusive der beiden letzten Jahrgänge der berufsbildenden höheren Schulen BHS) pro 1.000 Einwohner im Alter von 20 bis 29 Jahren.",
+        "io": "o",
+        "unit": "Anzahl je 1.000 EW von 20 - 29 Jahren",
+        "unit_short": "Anzahl",
+        "name_a": "MINT-Absolvent:innen ISCED 5-8"
+    },
+    "MINT_Absolv_68": {
+        "short": "MINT-Absolvent:innen ISCED 6-8",
+        "source": "Eurostat (educ_uoe_grad04)",
+        "text": "Tertiärabschlüsse in naturwissenschaftlichen und technologischen Fachrichtungen (ISCED 6-8: ohne tertiäre Kurzlehrgänge oder berufsbildende höhere Schulen) pro 1.000 Einwohner im Alter von 20 bis 29 Jahren.",
+        "io": "o",
+        "unit": "Anzahl je 1.000 EW",
+        "unit_short": "Anzahl je 1.000 EW",
+        "name_a": "MINT-Absolvent:innen ISCED 6-8"
+    },
+    "MINT_doktorat": {
+        "short": "Doktoratsabsolvent:innen MINT",
+        "source": "Eurostat (educ_uoe_grad07)",
+        "text": "Tertiärabschlüsse ISCED 8 in naturwissenschaftlichen und technologischen Fachrichtungen pro 1.000 Einwohner im Alter von 25 bis 34.",
+        "io": "o",
+        "unit": "Anzahl je 1.000 EW von 25 - 34 Jahren",
+        "unit_short": "In %",
+        "name_a": "Doktoratsabsolvent:innen MINT"
+    },
+    "Offenheit": {
+        "short": "Wirtschaftliche Offenheit",
+        "source": "AMECO",
+        "text": "Summe von Exporten und Importen relativ zum BIP",
+        "io": "o",
+        "unit": "(X+M)/Y*100",
+        "unit_short": "In %",
+        "name_a": "Offenheit der österreichischen Wirtschaft"
+    },
+    "PMR2018": {
+        "short": "Produktmarktregulierung",
+        "source": "OECD Indicator for Product Market Regulation",
+        "text": "Der Indikator beschreibt die Strenge der Produktmarktregulierung - je höher der Wert, desto strenger die Produktmarktregulierung",
+        "io": "i",
+        "unit": null,
+        "unit_short": "Indexwert",
+        "name_a": "Strenge der Produktmarktregulierung"
+    },
+    "Patente_Kooperation": {
+        "short": "Patentanmeldungen mit in- und ausländischen Erfinder:innen",
+        "source": "PATSTAT, Herbst 2023, WIFO-Berechnungen",
+        "text": "Anteil der Patente mit mind. einem:r inländischen und mindestens einem:r ausländischen Erfinder:in an allen Patenten mit mind. einem:r inländischen Erfinder:in. (In %)",
+        "io": "i",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Internationale Kooperation in Erfindungen"
+    },
+    "Patente_auslandsbesitz": {
+        "short": "Patente in Auslandsbesitz",
+        "source": "PATSTAT, Herbst 2023, WIFO-Berechnungen",
+        "text": "Dieser Indikator bildet die Kontrolle ausländischer Akteur:innen an Erfindungen ab, die von im Inland lebenden Erfinder:innen getätigt wurden. Er zeigt somit den Anteil der Patente mit mindestens einem:r inländischen Erfinder:in und ausschließlich im Ausland ansässigen:r Anmelder:in an allen Patenten inländischer Erfinder:innen an. (In %)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Anteil ausländischer Eigentümer:innen an Patenten mit im Inland ansässigen Erfinder:innen"
+    },
+    "RCA_exports_value_at13_spz": {
+        "short": "Exportspezialisierung - Produktionstechnologien",
+        "source": "BACI/Comtrade, WIFO-Berechnungen",
+        "text": "RCA (Revealed Comparative Advantage) der Exporte von Produktionstechnologien (Spezialisierungsindikator)",
+        "io": "o",
+        "unit": "Revealed Comparative Advantage (RCA)",
+        "unit_short": "RCA",
+        "name_a": "Exportspezialisierung - Produktionstechnologien"
+    },
+    "RCA_exports_value_at14_spz": {
+        "short": "Exportspezialisierung - Materialtechnologien",
+        "source": "BACI/Comtrade, WIFO-Berechnungen",
+        "text": "RCA (Revealed Comparative Advantage) der Exporte von Materialtechnologien (Spezialisierungsindikator)",
+        "io": "o",
+        "unit": "Revealed Comparative Advantage (RCA)",
+        "unit_short": "RCA",
+        "name_a": "Exportspezialisierung - Materialtechnologien"
+    },
+    "RCA_exports_value_at15_spz": {
+        "short": "Exportspezialisierung - Industrielle Biotechnologie",
+        "source": "BACI/Comtrade, WIFO-Berechnungen",
+        "text": "RCA (Revealed Comparative Advantage) der Exporte von Industrieller Biotechnologie (Spezialisierungsindikator)",
+        "io": "o",
+        "unit": "Revealed Comparative Advantage (RCA)",
+        "unit_short": "RCA",
+        "name_a": "Exportspezialisierung - Industrielle Biotechnologie"
+    },
+    "RCA_exports_value_at16_spz": {
+        "short": "Exportspezialisierung - Digitale Technologie",
+        "source": "BACI/Comtrade, WIFO-Berechnungen",
+        "text": "RCA (Revealed Comparative Advantage) der Exporte von Digitalen Technologien (Spezialisierungsindikator)",
+        "io": "o",
+        "unit": "Revealed Comparative Advantage (RCA)",
+        "unit_short": "RCA",
+        "name_a": "Exportspezialisierung - Digitale Technologie"
+    },
+    "Ressourcenproduktivität": {
+        "short": "Ressourcenproduktivität",
+        "source": "Eurostat (env_ac_rp)",
+        "text": "Dieser Indikator ist ein Maß für den physischen Ressourcenverbrauch, der mit der jährlichen Produktionsleistung der österreichischen Volkswirtschaft einhergeht.",
+        "io": "o",
+        "unit": "Euro pro Kilogramm, verkettete Volumen (2015)",
+        "unit_short": "In € je Kg",
+        "name_a": "Ressourcenproduktivität und inländischer Materialverbrauch (DMC)"
+    },
+    "SME_innovation_pct": {
+        "short": "Innovierende KMU",
+        "source": "European Innovation Scoreboard",
+        "text": "Der Indikator beschreibt den Anteil der KMU mit Innovationstätigkeit, d. h. ein Maß für die Innovationsbreite. (EIS Indikator 3.1.1.) (In %)",
+        "io": "o",
+        "unit": "in % der KMU",
+        "unit_short": "In %",
+        "name_a": "Anteil der innovierenden kleineren und mittleren Unternehmen"
+    },
+    "Schüler_hohe_Komp": {
+        "short": "Schulleistungen - hohe Kompetenz",
+        "source": "PISA, TIMMS, PIRLS",
+        "text": "Mittelwert des Anteils der Schüler:innen in TIMMS, PIRLS und PISA mit hohen Kompetenzen (In %)",
+        "io": "o",
+        "unit": "in % aller Schüler:innen",
+        "unit_short": "In %",
+        "name_a": "Schulleistungen - Anteil der Schüler:innen mit hoher Kompetenz"
+    },
+    "Schüler_niedrige_Komp": {
+        "short": "Schulleistungen - niedrige Kompetenz",
+        "source": "PISA, TIMMS, PIRLS",
+        "text": "Mittelwert des Anteils der Schüler:innen in TIMMS, PIRLS und PISA mit niedrigen Kompetenzen (In %)",
+        "io": "o",
+        "unit": "in % aller Schüler:innen",
+        "unit_short": "In %",
+        "name_a": "Schulleistungen - Anteil der Schüler:innen mit niedriger Kompetenz"
+    },
+    "Sekundar_hohe_Komp": {
+        "short": "Schulleistungen Sekundarstufe - Spitze",
+        "source": "PISA",
+        "text": "Durchschnitt aller Indikatoren in der Sekundarstufe zum Anteil von Schüler:innen mit hoher Kompetenz. (In %)",
+        "io": "o",
+        "unit": "In % (Durchschnitt)",
+        "unit_short": "In %",
+        "name_a": "Zusammengesetzter Indikator - Anteil Schüler:innen mit hoher Kompetenz"
+    },
+    "Sekundar_niedrige_Komp": {
+        "short": "Schulleistungen Sekundarstufe - Niedrig",
+        "source": "PISA",
+        "text": "Durchschnitt aller Indikatoren in der Sekundarstufe zum Anteil von Schüler:innen mit niedriger Kompetenz. (In %)",
+        "io": "o",
+        "unit": "In % (Durchschnitt)",
+        "unit_short": "In %",
+        "name_a": "Zusammengesetzter Indikator - Anteil Schüler:innen mit niedriger Kompetenz"
+    },
+    "Solarkapazität": {
+        "short": "Solarkapazität",
+        "source": "Eurostat (nrg_inf_epc)",
+        "text": "Anteil Solarkapazität an gesamter Stromerzeugung. (In %)",
+        "io": "o",
+        "unit": "in % der Stromerzeugung",
+        "unit_short": "In %",
+        "name_a": "Anteil Solarkapazität an gesamter Stromerzeugung"
+    },
+    "Steuer_Loehne": {
+        "short": "Lohnabgaben",
+        "source": "OECD Taxation",
+        "text": "Durchschnittliche Gesamtbelastung der Lohnkosten (in % der Bruttoverdienste)",
+        "io": "i",
+        "unit": "in % der Bruttoverdienste",
+        "unit_short": "In %",
+        "name_a": "Gesamtbelastung der Lohnkosten (in % der Bruttoverdienste)"
+    },
+    "Steuer_UNT": {
+        "short": "Unternehmensbesteuerung",
+        "source": "Europäische Kommission (2022)",
+        "text": "Effektive durchschnittliche Steuersätze, Nicht-Finanzsektor, (in %)",
+        "io": "i",
+        "unit": "durchschnittlicher Steuersatz",
+        "unit_short": "In %",
+        "name_a": "Effektive Steuerbelastung von Unternehmen"
+    },
+    "TB_Eff_Inno": {
+        "short": "Effizienz Innovation",
+        "source": "Siehe https://fti-monitor.rfte.at/docs/pdf/S260042.pdf",
+        "text": "In der Effizienzanalyse Innovation werden Inputindikatoren (F&E-Ausgaben, Zahl der Forscher:innen) in Beziehung zu Outputindikatoren (Innovationswirkungsindikatoren, wie z.B. die sektorale Wissensintensität, oder Exportqualität) gesetzt.",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Verhältnis in %",
+        "name_a": "Ergebnis der DEA-Effizienzanalyse - Innovation"
+    },
+    "TB_Eff_Tech": {
+        "short": "Effizienz Technologie",
+        "source": "Siehe https://fti-monitor.rfte.at/docs/pdf/S260042.pdf",
+        "text": "In der Effizienzanalyse Technologie werden Inputindikatoren (F&E-Ausgaben, Zahl der Forscher:innen) in Beziehung zu Outputindikatoren (Patente) gesetzt.",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Verhältnis in %",
+        "name_a": "Ergebnis der DEA-Effizienzanalyse - Technologie"
+    },
+    "TB_Eff_Wiss": {
+        "short": "Effizienz Wissenschaft",
+        "source": "Siehe https://fti-monitor.rfte.at/docs/pdf/S260042.pdf",
+        "text": "In der Effizienzanalyse Wissenschaft werden Inputindikatoren (F&E-Ausgaben, Zahl der Forscher:innen) in Beziehung zu Outputindikatoren (Publikationen) gesetzt.",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Verhältnis in %",
+        "name_a": "Ergebnis der DEA-Effizienzanalyse - Wissenschaft"
+    },
+    "TB_FTI": {
+        "short": "Inputs für FTI in Unternehmen",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Inputs für FTI in Unternehmen. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Fin_ges": {
+        "short": "Private und öffentliche F&E-Finanzierung",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Private und öffentliche F&E-Finanzierung. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Finanz": {
+        "short": "Finanzsystem",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Finanzsystem. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_FuE_Klima": {
+        "short": "F&E Energie und Klima",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich F&E Energie und Klima. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_GF": {
+        "short": "Finanzierung Hochschulen & GF",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Finanzierung Hochschulen & Grundlagenforschung. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Gesund": {
+        "short": "Gesundheit",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Gesundheit. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_IKT_Fkt": {
+        "short": "IKT-Fachkräfte",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich IKT-Fachkräfte. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_IKT_erf": {
+        "short": "IKT-Erfindungsperformance",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich IKT-Erfindungsperformance. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_IKT_nutz": {
+        "short": "IKT-Nutzung in Unternehmen",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich IKT-Nutzung in Unternehmen. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_IKT_wirk": {
+        "short": "Ökonomische Wirkung von IKT",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Ökonomische Wirkung von IKT. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Input": {
+        "short": "Ausgaben und Betreuung Hochschullehre",
+        "source": null,
+        "text": "Zusammengesetzter Indikator aus den beiden nachfolgenden Einzelindikatoren. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator - Inputs in Lehre"
+    },
+    "TB_Input_forsch": {
+        "short": "Input",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Input. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Inv_Infr": {
+        "short": "Investitionen & Infrastruktur",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Investitionen & Infrastruktur. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_KMU": {
+        "short": "FTI in KMU",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich FTI in KMU. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Koop": {
+        "short": "Kooperation Wissenschaft-Wirtschaft",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Kooperation Wissenschaft-Wirtschaft. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Output": {
+        "short": "Absolvent:innen",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Absolvent:innen. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Output_forsch": {
+        "short": "Forschungsleistung",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Forschungsleistung. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Primar": {
+        "short": "Primarstufe",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Primarstufe. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Reg": {
+        "short": "Regulierung",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Regulierung. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Sekundar": {
+        "short": "Sekundarstufe",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren (ohne berufsbezogene Absolvent:innen) im Teilbereich Sekundarstufe. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Steuer": {
+        "short": "Steuersystem",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Steuersystem. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_UF": {
+        "short": "Finanzierung Unternehmen",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Finanzierung Unternehmen. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Umwelt": {
+        "short": "Umwelt Ergebnisindikatoren",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Umwelt Ergebnisindikatoren. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Umwelt_Nutzung": {
+        "short": "Nutzung von Umweltinnovationen/-instrumenten",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Nutzung von Umweltinnovationen/-instrumenten. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Umwelt_Wirkung": {
+        "short": "Wirkung von Umweltinnovationen/-instrumenten",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Wirkung von Umweltinnovationen/-instrumenten. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Vfl_Inno": {
+        "short": "Verflechtung Innovation",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Verflechtung Innovation. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Vfl_Uni": {
+        "short": "Verflechtung Hochschulen",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Verflechtung Hochschulen. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_Vfl_Wirt": {
+        "short": "Verflechtung Wirtschaft",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Verflechtung Wirtschaft. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_WS": {
+        "short": "Wirtschaft & Soziales",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Wirtschaft & Soziales. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_frühkind": {
+        "short": "Frühkindliche Betreuung",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Frühkindliche Betreuung. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_gend_Beruf": {
+        "short": "Differenzen im Beruf",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Differenzen im Beruf. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_gend_HS": {
+        "short": "Schule & Hochschule - Gender",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Schule & Hochschule - Gender. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": null,
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_inno_ce": {
+        "short": "Innovation Kreislaufwirtschaft",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Innovation Kreislaufwirtschaft. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_patent": {
+        "short": "Erfindungsperformance Unternehmen",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Erfindungsperformance Unternehmen. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_sci_att": {
+        "short": "Einstellung zu Wissenschaft",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Einstellung zu Wissenschaft. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "i",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_souv_ah": {
+        "short": "Souveränität - Handel",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Souveränität - Handel. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_souv_pat": {
+        "short": "Souveränität - Patente",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Souveränität - Patente. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_stand_ce": {
+        "short": "Wirkung/Umsetzungsstand Kreislaufwirtschaft",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Wirkung/Umsetzungsstand. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_struktur": {
+        "short": "Innovationswirkung - Strukturwandel",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Innovationswirkung - Strukturwandel. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_upgrade": {
+        "short": "Innovationswirkung - Upgrading",
+        "source": null,
+        "text": "Durchschnitt der beiden nachfolgenden Indikatoren. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "TB_ökon_ce": {
+        "short": "Ökonomische Wirkung Kreislaufwirtschaft",
+        "source": null,
+        "text": "Durchschnitt aller Einzelindikatoren im Teilbereich Ökonomische Wirkung Kreislaufwirtschaft. Die Zeitreihe beruht nicht auf durchgängig verfügbaren Einzelindikatoren, Brüche sind daher möglich.",
+        "io": "o",
+        "unit": "-",
+        "unit_short": "Verhältnis in %",
+        "name_a": "Zusammengesetzter Indikator"
+    },
+    "Treibhausgase": {
+        "short": "Treibhausgase",
+        "source": "Eurostat (sdg_13_10)",
+        "text": "Dieser Indikator bildet eines der österreichischen Europa 2020-Ziele ab und den Umstand, dass eine effektive Eindämmung des Klimawandels nur durch eine absolute Reduktion der Treibhausgase zustande kommt. Das Ziel beinhaltet hier eine Reduktion und nicht eine Steigerung. Er zeigt den Trend der anthropogenen Treibhausgasemissionen (von den ESD- und ETS-Sektoren) laut Kyoto-Protokoll. Die jährlichen Gesamtemissionen werden im Vergleich zu den Emissionen im Jahr 1990 dargestellt. Im Kyoto-Protokoll werden die folgenden Treibhausgase erfasst: Kohlendioxid (CO2), Methan (CH4), Distickstoffoxid (N2O) und die sogenannten F-Gase (Fluorkohlenwasserstoffe, Perfluorkohlenwasserstoffe, Stickstofftriflourid (NF3) und Schwefelhexafluorid (SF6). Diese Treibhausgase werden anhand ihres jeweiligen Treibhauspotenzials (Global Warming Potential - GWP) gewichtet und zu einer Einheit aggregiert. Diese aggregierten Treibhausgasemissionen werden als Einheiten in CO2-Äquivalenten ausgedrückt. Der Indikator gibt keinerlei Aufschluss über die Emissionen und deren Senkung im Zusammenhang mit Flächennutzung, geänderter Flächennutzung und Forstwirtschaft (Land Use, Land-Use Change and Forestry - LULUCF), ebenso wenig wie über Emissionen des internationalen Seeverkehrs. Die Emissionen des internationalen Luftverkehrs sind jedoch mit einbegriffen.",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Index 1990=100",
+        "name_a": "Treibhausgasemissionen"
+    },
+    "UNT_förderung": {
+        "short": "Unternehmensförderung",
+        "source": "OECD R&D Tax Incentive Indicators",
+        "text": "Direkte und indirekte Unternehmensförderung (In % des BIP)",
+        "io": "i",
+        "unit": "in % des BIP",
+        "unit_short": "In %",
+        "name_a": "Unternehmensförderung in % des BIP"
+    },
+    "Umweltpatente": {
+        "short": "Erfindungen Klima",
+        "source": "PATSTAT, Herbst 2023; OECD 2015, WIFO-Berechnungen",
+        "text": "Der Indikator zeigt die relative Erfindungsspezialisierung anhand eines RTA Indikators (ähnlich zum RCA im Außenhandel - Relative Technological Advantage vs. Relative Comparative Advantage); Glättung über drei Jahre",
+        "io": "o",
+        "unit": "Revealed Technological Advantage (RTA)",
+        "unit_short": "RTA",
+        "name_a": "Patente in Energie und Klima"
+    },
+    "Uniabs_isced5_8": {
+        "short": "Hochschulabsolvent:innen ISCED 5-8",
+        "source": "OECD Education at a Glance, Eurostat (edat_lfse_03)",
+        "text": "Dies ist ein österreichischer Europa 2020-Kernindikator und spiegelt die erfolgreiche Beteiligung an tertiärer Bildung wider. Durch die Umstellung der ISCED-Klassifikation werden nunmehr auch die beiden letzten Jahrgänge von BHS zum tertiären Sektor gezählt (ISCED 5, früher ISCED 4a). (Anteil der 25- bis 34-jährigen Hochschulabsolvent:innen (ISCED 5-8) in % an der Alterskohorte 25–34 der Bevölkerung)",
+        "io": "o",
+        "unit": "in % der 25-34-jährigen",
+        "unit_short": "In %",
+        "name_a": "Hochschulabsolvent:innen ISCED 5-8"
+    },
+    "Uniabs_isced6_8": {
+        "short": "Hochschulabsolvent:innen ISCED 6-8",
+        "source": "OECD Education at a Glance",
+        "text": "Dieser Indikator verwendet eine engere Definition für Hochschulabsolvent:innen, im Wesentlichen ab Bachelorniveau (ISCED 6). (Anteil der 30- bis 34-jährigen Hochschulabsolvent:innen (ISCED 6-8)  in %  an der Alterskohorte 30–34 der Bevölkerung)",
+        "io": "o",
+        "unit": "in % der 30-34-jährigen",
+        "unit_short": "In %",
+        "name_a": "Hochschulabsolvent:innen ISCED 6-8"
+    },
+    "Uniausgaben_Studi": {
+        "short": "Hochschulausgaben",
+        "source": "OECD Education at a Glance",
+        "text": "Die Hochschulausgaben (ISCED 6-8) pro Student:in ergänzen die BIP-Quote, indem sie unterschiedliche Größen des tertiären Sektors in unterschiedlichen Ländern berücksichtigen. Ein tertiärer Sektor mit einer 50-%-Absolvent:innenquote wird ceteris paribus wesentlich mehr Mittel erfordern als ein Sektor mit einer 25-%-Absolventenquote.",
+        "io": "i",
+        "unit": "in USD PPP",
+        "unit_short": "In $",
+        "name_a": "Hochschulausgaben pro Student:in"
+    },
+    "Unicorns": {
+        "short": "Unicorn-Bewertung, % BIP",
+        "source": "Global Innovation Index",
+        "text": "Unicorn bezeichnet ein Start-up-Unternehmen mit einer Bewertung von über einer Milliarde US-Dollar",
+        "io": "o",
+        "unit": "in % des BIP",
+        "unit_short": "in %",
+        "name_a": "Unicorns"
+    },
+    "VC": {
+        "short": "Risikokapitalintensität",
+        "source": "Invest Europe",
+        "text": "Dieser Indikator misst die Risikokapitalintensität anhand der insgesamt durch in- und ausländische Fonds in Österreich investierten Summen in Relation zum BIP (Marktstatistik). (Glättung über drei Jahre)",
+        "io": "i",
+        "unit": "in % des BIP",
+        "unit_short": "In %",
+        "name_a": "VC-Investitionen"
+    },
+    "VC_x_bank_gvt": {
+        "short": "VC-Funds Finanzierungsstruktur",
+        "source": "Invest Europe",
+        "text": "Venture Capital Funds nach Investorentyp - Anteil der VC Mittel, die nicht von Banken/Regierungsagenturen investiert wird. (In % & Glättung)",
+        "io": "i",
+        "unit": "Anteil VC ohne Banken und Staaten als Investoren",
+        "unit_short": "In %",
+        "name_a": "Struktur der Mittelaufbringung für Venture Capital-Fonds"
+    },
+    "VS_hohe_Komp": {
+        "short": "Volksschule - Spitze",
+        "source": "PIRLS, TIMMS",
+        "text": "Mittelwert PIRLS/TIMMS von Schüler:innen mit hoher/sehr hoher Kompetenz (In %)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Zusammengesetzter Indikator - Anteil Schüler:innen mit hoher Kompetenz"
+    },
+    "VS_niedrige_Komp": {
+        "short": "Volksschule - Niedrig",
+        "source": "PIRLS, TIMMS",
+        "text": "Mittelwert PIRLS/TIMMS von Schüler:innen mit niedriger Kompetenz (In %)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Zusammengesetzter Indikator - Anteil Schüler:innen mit niedriger Kompetenz"
+    },
+    "Vertrauen_Wiss": {
+        "short": "Vertrauen in Wissenschaft",
+        "source": "Eurobarometer ",
+        "text": "Anteil der Befragten, die folgendes Statement ablehnen \"Wir können bei kontroversen wissenschaftlichen und technologischen Themen nicht länger darauf vertrauen, dass Wissenschaftler die Wahrheit sagen, da sie in finanzieller Hinsicht mehr und mehr von der Industrie abhängig sind\"",
+        "io": "i",
+        "unit": "in %",
+        "unit_short": "in %",
+        "name_a": "Vertrauen in Wissenschaft"
+    },
+    "Weiterbildung": {
+        "short": "Weiterbildung & Lebenslanges Lernen",
+        "source": "Eurostat (trng_lfse_01)",
+        "text": "Die Teilnahme am lebenslangen Lernen ist ein offizielles Ziel der\\nET 2020-Strategie (allgemeines und berufliches Lernen). (In %)",
+        "io": "i",
+        "unit": null,
+        "unit_short": "Verhältnis in %",
+        "name_a": "Beteiligung an Weiterbildung"
+    },
+    "anteil_meanep_I2_at13_spz": {
+        "short": "Anteil Patente - Produktionstechnologien",
+        "source": "Patstat, Herbst 2023, WIFO-Berechnungen",
+        "text": "Anteil der einschlägigen Patente eines Landes an allen Patentanmeldungen zum Thema Produktionstechnologien (Durchschnitt der letzten 5 Jahre sowie über EPA- und PCT-Anmeldungen)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Anteil der Patentanmeldungen zu Produktionstechnologien in %"
+    },
+    "anteil_meanep_I2_at14_spz": {
+        "short": "Anteil Patente - Materialtechnologien",
+        "source": "Patstat, Herbst 2023, WIFO-Berechnungen",
+        "text": "Anteil der einschlägigen Patente eines Landes an allen Patentanmeldungen zum Thema Materialtechnologien (Durchschnitt der letzten 5 Jahre sowie über EPA- und PCT-Anmeldungen)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Anteil der Patentanmeldungen zu Materialtechnologien in %"
+    },
+    "anteil_meanep_I2_at15_spz": {
+        "short": "Anteil Patente - Industrielle Biotechnologie",
+        "source": "Patstat, Herbst 2023, WIFO-Berechnungen",
+        "text": "Anteil der einschlägigen Patente eines Landes an allen Patentanmeldungen zum Thema industrielle Biotechnologie (Durchschnitt der letzten 5 Jahre sowie über EPA- und PCT-Anmeldungen)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Anteil der Patentanmeldungen zu industrieller Biotechnologie in %"
+    },
+    "anteil_meanep_I2_at16_spz": {
+        "short": "Anteil Patente - Digitale Technologie",
+        "source": "Patstat, Herbst 2023, WIFO-Berechnungen",
+        "text": "Anteil der einschlägigen Patente eines Landes an allen Patentanmeldungen zum Thema digitale Technologien (Durchschnitt der letzten 5 Jahre sowie über EPA- und PCT-Anmeldungen)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Anteil der Patentanmeldungen zu digitaler Technologie in %"
+    },
+    "ausl_Doktor": {
+        "short": "Internationale Doktoratsstudent:innen",
+        "source": "Eurostat (educ_uoe_mobs03)",
+        "text": "Anteil der ausländischen Doktoratsstudent:innen an allen\\nDoktoratsstudent:innen (analog zu EIS Indikator 1.2.3.) (In %)",
+        "io": "o",
+        "unit": "in % aller Doktoratsstudent:innen",
+        "unit_short": "In %",
+        "name_a": "Internationale Doktoratsstudent:innen"
+    },
+    "ausl_Patente_Inlandsbesitz": {
+        "short": "Ausländische Patente in Inlandsbesitz",
+        "source": "PATSTAT, Herbst 2023, WIFO-Berechnungen",
+        "text": "Anteil der Patente mit mind. einem:r inländischen Erfinder:in und mind. einem:r inländischen Anmelder:in an allen Patenten mit mind. einem:r inländischen Anmelder:in. (In %)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Inländische Eigentümer bei ausländischen Erfindungen"
+    },
+    "bat_recycle": {
+        "short": "Batterierecycling",
+        "source": "Eurostat (env_wasbat)",
+        "text": "Anteil der recycelten Blei-Batterien an allen gesammelten Blei-Batterien",
+        "io": "o",
+        "unit": "in % aller gesammelten Batterien",
+        "unit_short": "In %",
+        "name_a": "Anteil an recycleten Batterien"
+    },
+    "bewilligung": {
+        "short": "Beteiligung von Hochschulen an EU-Forschungsprojekten",
+        "source": "FFG EU-PM",
+        "text": "Die Anzahl bewilligter Beteiligungen österreichischer Hochschulen am europäischen Forschungsprogramm, relativ zur Bevölkerungsgröße.",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Beteiligung Hochschulen EU-Forschungsprogramm"
+    },
+    "citabledocuments_bev": {
+        "short": "Zahl der Publikationen pro 1.000 Einwohner",
+        "source": "Scimago, Weltbank, WIFO-Berechnungen",
+        "text": "Anzahl der Publikationen, die in bibliometrischen Datenbanken (Scimago) enthalten sind. (Pro 1.000 der Bevölkerung)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Anzahl je 1.000 EW",
+        "name_a": "Zahl der zitierfähigen Publikationen"
+    },
+    "clean_elec": {
+        "short": "Strom aus sauberen Quellen",
+        "source": "Ember - Yearly Electricity Data",
+        "text": "Anteil von CO2-armen Stromerzeugungsquellen an der gesamten Stromproduktion",
+        "io": "i",
+        "unit": "in % der gesamten Stromerzeugung",
+        "unit_short": "In %",
+        "name_a": "Anteil der Stromproduktion aus sauberen bzw. kohlenstoffarmen Quellen"
+    },
+    "clean_energ": {
+        "short": "Sauberer Primärenergieverbrauch",
+        "source": "Energy Institute - Statistical Review of World Energy",
+        "text": "Anteil des Primärenergieverbrauchs, der mit CO2-armen Energiequellen bestritten wird",
+        "io": "i",
+        "unit": "in % des gesamten Primärenergieverbrauchs",
+        "unit_short": "In %",
+        "name_a": "Anteil Primärenergieverbrauch aus sauberen bzw. kohlenstoffarmen Quellen"
+    },
+    "comb_IThigh_med_high": {
+        "short": "Innovationsintensive Branchen",
+        "source": "OECD, Eurostat, WIFO-Berechnungen",
+        "text": "Der Indikator misst das Gewicht innovationsintensiver Sektoren an der gesamten Wertschöpfung eines Landes. (In %)",
+        "io": "o",
+        "unit": "in % der Wertschöpfung",
+        "unit_short": "In %",
+        "name_a": "Anteil innovationsintensiver Sektoren an der Wertschöpfung"
+    },
+    "digital_skills": {
+        "short": "IKT-Basiskompetenzen",
+        "source": "Eurostat (isoc_sk_dskl_i)",
+        "text": "Personen mit \"grundlegenden\" oder \"mehr als grundlegenden\" digitalen Fertigkeiten in jeder der folgenden vier Dimensionen: Information, Kommunikation, Problemlösung und Software für die Erstellung von Inhalten (gemessen an der Anzahl der in den letzten 3 Monaten durchgeführten Aktivitäten). (In %)",
+        "io": "i",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "IKT-Basiskompetenzen"
+    },
+    "domestic_VA_final_demand": {
+        "short": "GVC-Integration (Wertschöpfung)",
+        "source": "OECD TiVA 2021",
+        "text": "Ein Maß für die Integration in globale Wertschöpfungsketten - Anteil der inländischen Wertschöpfung, der in der ausländischen Endnachfrage abgebildet ist. (In %)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Anteil heimischer Wertschöpfung induziert durch ausländische Nachfrage"
+    },
+    "e_cars": {
+        "short": "Neuzulassungen von E-Autos",
+        "source": "Eurostat (road_eqr_zevpc)",
+        "text": "Neuzulassungen von elektrisch betriebenen KFZ, in % aller Neuzulassungen",
+        "io": "o",
+        "unit": "in % aller Neuzulassungen",
+        "unit_short": "In %",
+        "name_a": "Anteil neu zugelassener E-Autos an allen Neuzulassungen (in %)"
+    },
+    "egovernment": {
+        "short": "E-Government",
+        "source": "DESI",
+        "text": "Der Indikator besteht aus den Subindikatoren der DESI-Dimension Digitale öffentliche Dienstleistungen 4a1 e-Government users, 4a2 Pre-filled forms, 4a3 Digital public services for citizens, 4a4 Digital public services for businesses",
+        "io": "i",
+        "unit": null,
+        "unit_short": "Verhältnis in %",
+        "name_a": "Öffentliche Verwaltung - E-Government"
+    },
+    "empShareIctTypeComb_High": {
+        "short": "IKT-Beschäftigung",
+        "source": "Eurostat SBS, WIFO-Berechnungen",
+        "text": "Beschäftigungsanteile IKT-intensiver Branchen (User, exkl. IKT-Sachgüter und Dienstleister,in %)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Beschäftigungsanteil von Branchen mit hoher IKT-Intensität"
+    },
+    "emp_ce": {
+        "short": "Beschäftigte in % der Beschäftigten insgesamt",
+        "source": "Eurostat (cei_cie011)",
+        "text": "Beschäftigte in kreislaufwirtschaftsrelevanten Unternehmen in Prozent der Beschäftigten insgesamt",
+        "io": "o",
+        "unit": "in % der Beschäftigten",
+        "unit_short": "In %",
+        "name_a": "Beschäftigte in % der Beschäftigten insgesamt"
+    },
+    "emp_wiss": {
+        "short": "Beschäftigung in wissensintensiven Sektoren",
+        "source": "Eurostat (htec_kia_emp2)",
+        "text": "Der Indikator zeigt das Beschäftigungsgewicht von Sektoren, die im internationalen Vergleich besonders viele Hochschulabsolvent:innen beschäftigen und daher als besonders wissensintensiv eingeschätzt werden. (EIS-Indikator 4.1.1) (In %)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Anteil wissensintensive Sektoren an Beschäftigung"
+    },
+    "entrepreneur": {
+        "short": "Motivation für unternehmerisches Handeln",
+        "source": "Global Entrepreneurship Monitor (GEM)",
+        "text": "Prozentsatz der an der TEA (Total early-stage Entrepreneurial Activity) beteiligten Personen, die für Verbesserungen motiviert sind, geteilt durch den Prozentsatz der TEA, die aus der Notwendigkeit heraus motiviert sind.",
+        "io": "i",
+        "unit": null,
+        "unit_short": "Verhältnis",
+        "name_a": "Verhältnis Personen, die unternehmerisch aus Eigenantrieb handeln vs. Personen, die mangels Alternativen unternehmerisch handeln"
+    },
+    "erfolgsquote_hs": {
+        "short": "Erfolgsquote Hochschulen bei Horizon Europe",
+        "source": "FFG EU PM",
+        "text": "Die Erfolgsquote (bewilligte vs. eingereichte Anträge) von Hochschulen im EU-Forschungsprogramm.",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Erfolgsquote Hochschulen bei Horizon Europe"
+    },
+    "erfolgsquote_unt": {
+        "short": "Erfolgsquote Unternehmen bei Horizon Europe",
+        "source": "FFG EU PM",
+        "text": "Die Erfolgsquote (bewilligte vs. eingereichte Anträge) von Unternehmen im EU-Forschungsprogramm.",
+        "io": "i",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Erfolgsquote von Unternehmen bei Horizon Europe"
+    },
+    "export_CEshare": {
+        "short": "Kreislaufwirtschaftsrelevante Exporte in % des BIP",
+        "source": "BACI/Comtrade, WIFO-Berechnungen",
+        "text": "Anteil kreislaufwirtschaftsrelevanter Exporte an Gesamtexporten (siehe https://fti-monitor.rfte.at/docs/pdf/S260061.pdf)",
+        "io": "o",
+        "unit": "in % der Exporte",
+        "unit_short": "In %",
+        "name_a": "Anteil kreislaufwirtschaftsrelevanter Exporte an Gesamtexporten"
+    },
+    "export_quality_pct": {
+        "short": "Exportqualität",
+        "source": "Eurostat Comext, WIFO-Berechnungen",
+        "text": "Der Indikator misst den Anteil von Produkten mittelhoher und hoher Technologieintensität am Gesamtexport und kann daher auch als Maß für die Wissensintensität der Exportstruktur gesehen werden.",
+        "io": "o",
+        "unit": "in % der Exporte",
+        "unit_short": "In %",
+        "name_a": "Anteil von Exporten mit mittelhoher bis hoher Technologieintensität am Gesamtexport"
+    },
+    "frühe_Schulabgänger": {
+        "short": "Frühe Schulabgänger:innen",
+        "source": "Eurostat (edat_lfse_14)",
+        "text": "„Frühzeitige Schul- und Ausbildungsabgänger:innen“ sind Personen im Alter von 18 bis 24 Jahren, die die folgenden Bedingungen erfüllen: Der höchste erreichte Grad der allgemeinen oder beruflichen Bildung entspricht ISCED 0, 1, 2 oder 3c – kurz: das ist die untere Sekundarstufe –, und die Befragten dürfen in den vier Wochen vor der Erhebung an keiner Maßnahme der allgemeinen oder beruflichen Bildung teilgenommen haben. (In %)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Quote der Schulabgänger:innen"
+    },
+    "gee": {
+        "short": "Qualität öffentlicher Leistungen",
+        "source": "Worldwide Governance Indicators",
+        "text": "Die Qualität öffentlicher Leistungen ist lt. Weltbank ein wesentlicher Bestandteil von Governance Effectiveness.\\nDarunter fallen das gute Funktionieren öffentlicher Dienstleistungen wie z.B. Schulen oder Spitäler, die Qualität der öffentlichen Verwaltung oder der Grad ihrer Unabhängigkeit von politischem Druck.",
+        "io": "i",
+        "unit": null,
+        "unit_short": "Indexwert",
+        "name_a": "Qualität der öffentlichen Leistungsbereitstellung, Infrastruktur"
+    },
+    "gender_diff_Lesen": {
+        "short": "PISA Geschlechterdifferenz Lesen",
+        "source": "PISA",
+        "text": "Differenz zwischen den Durchschnitten der Testergebnisse von Schülern und Schülerinnen beim internationalen PISA-Test im Bereich Lesen.",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Punkte",
+        "name_a": "Kompetenz Lesen 15-jährige (PISA) -  Leistungsdifferenz nach Geschlecht"
+    },
+    "gender_diff_mathe": {
+        "short": "PISA Geschlechterdifferenz Mathematik",
+        "source": "PISA",
+        "text": "Differenz zwischen den Durchschnitten der Testergebnisse von Schülern und Schülerinnen beim internationalen PISA-Test im Bereich Mathematik.",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Punkte",
+        "name_a": "Kompetenz Mathematik 15-jährige (PISA) - Leistungsdifferenz nach Geschlecht"
+    },
+    "grad_rate": {
+        "short": "Abschlussquote oberer Sekundarbereich",
+        "source": "OECD Education at a Glance",
+        "text": "Indikator für Grad der Berufsbildungsbezogenheit eines Bildungssystems - mögliche Trade-offs frühe Berufsspezialisierung & niedrige Jugendarbeitslosigkeit mit tertiär und breiter gebildeten Fachkräften und hohe Erwerbsbeteiligung im Alter. (In %)",
+        "io": "o",
+        "unit": "in % der Schüle:innen",
+        "unit_short": "In %",
+        "name_a": "Anteil Schüler:innen in berufsbezogenen Ausbildungswegen an allen Schüler:innen"
+    },
+    "gross_inv": {
+        "short": "Bruttoinvestitionen in % des BIP",
+        "source": "Eurostat (cei_cie012)",
+        "text": "Bruttoinvestitionen in kreislaufwirtschaftsrelevante Sachanlagen in Prozent des BIP",
+        "io": "o",
+        "unit": "in % des BIP",
+        "unit_short": "In %",
+        "name_a": "Bruttoinvestitionen in % des BIP"
+    },
+    "gross_va": {
+        "short": "Bruttowertschöpfung in % des BIP",
+        "source": "Eurostat (cei_cie012)",
+        "text": "Bruttowertschöpfung von kreislaufwirtschaftsrelevanten Betrieben zu Faktorkosten in Prozent des BIP",
+        "io": "o",
+        "unit": "in % des BIP",
+        "unit_short": "In %",
+        "name_a": "Bruttowertschöpfung in % des BIP"
+    },
+    "imports_share_at13_spz": {
+        "short": "Größter Importanteil - Produktionstechnologien",
+        "source": "BACI/Comtrade, WIFO-Berechnungen",
+        "text": "Anteil der Importe des größten Lieferlandes an den Gesamtimporten von Produktionstechnologien eines Landes in Prozent",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Anteil der Importe des größten Lieferlandes - Produktionstechologien"
+    },
+    "imports_share_at14_spz": {
+        "short": "Größter Importanteil - Materialtechnologien",
+        "source": "BACI/Comtrade, WIFO-Berechnungen",
+        "text": "Anteil der Importe des größten Lieferlandes an den Gesamtimporten von Materialtechnologien eines Landes in Prozent",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Anteil der Importe des größten Lieferlandes - Materialtechnologien"
+    },
+    "imports_share_at15_spz": {
+        "short": "Größter Importanteil - Industrielle Biotechnologie",
+        "source": "BACI/Comtrade, WIFO-Berechnungen",
+        "text": "Anteil der Importe des größten Lieferlandes an den Gesamtimporten von industrieller Biotechnologie eines Landes in Prozent",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Anteil der Importe des größten Lieferlandes - Industrielle Biotechnologie"
+    },
+    "imports_share_at16_spz": {
+        "short": "Größter Importanteil - Digitale Technologie",
+        "source": "BACI/Comtrade, WIFO-Berechnungen",
+        "text": "Anteil der Importe des größten Lieferlandes an den Gesamtimporten von digitalen Technologien eines Landes in Prozent",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Anteil der Importe des größten Lieferlandes - Digitale Technologie"
+    },
+    "industry_researchers_FTE_bev": {
+        "short": "Zahl der Unternehmensforscher:innen",
+        "source": "OECD MSTI, Eurostat (rd_p_persocc), WIFO-Berechnungen",
+        "text": "Anzahl der Forscher:innen in Vollzeitäquivalenten (VZÄ) im Unternehmenssektor (pro 1.000 der Bevölkerung)",
+        "io": "i",
+        "unit": null,
+        "unit_short": "Anzahl",
+        "name_a": "Forscher:innen in VZÄ im Unternehmenssektor"
+    },
+    "meanep_I2_bev_at13_spz": {
+        "short": "Patente je Mio. Einwohner:innen - Produktionstechnologien",
+        "source": "Patstat, Herbst 2023, WIFO-Berechnungen",
+        "text": "EPA/PCT-Patentanmeldungen je Million Einwohner:innen zu Produktionstechnologien (Durchschnitt der letzten 5 Jahre)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Anzahl je Mio. EW",
+        "name_a": "Patentanmeldungen je Million Einwohner:innen zu Produktionstechnologien"
+    },
+    "meanep_I2_bev_at14_spz": {
+        "short": "Patente je Mio. Einwohner:innen - Materialtechnologien",
+        "source": "Patstat, Herbst 2023, WIFO-Berechnungen",
+        "text": "EPA/PCT-Patentanmeldungen je Million Einwohner:innen  zu Materialtechnologien (Durchschnitt der letzten 5 Jahre)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Anzahl je Mio. EW",
+        "name_a": "Patentanmeldungen je Millionen Einwohner:innen zu Materialtechnologien"
+    },
+    "meanep_I2_bev_at15_spz": {
+        "short": "Patente je Mio. Einwohner:innen - Industrielle Biotechnologie",
+        "source": "Patstat, Herbst 2023, WIFO-Berechnungen",
+        "text": "EPA/PCT-Patentanmeldungen je Million Einwohner:innen zu industrieller Biotechnologien (Durchschnitt der letzten 5 Jahre)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Anzahl je Mio. EW",
+        "name_a": "Patentanmeldungen je Millionen Einwohner:innen zu industriellen Biotechnologien"
+    },
+    "meanep_I2_bev_at16_spz": {
+        "short": "Patente je Mio. Einwohner - Digitale Technologie",
+        "source": "Patstat, Herbst 2023, WIFO-Berechnungen",
+        "text": "EPA/PCT-Patentanmeldungen je Million Einwohner:innen zu digitaler Technologie (Durchschnitt der letzten 5 Jahre)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Anzahl je Mio. EW",
+        "name_a": "Patentanmeldungen je Million Einwohner:innen zu digitaler Technologie"
+    },
+    "migrant_diff_Lesen": {
+        "short": "PISA Leistungsdifferenz Herkunft",
+        "source": "PISA",
+        "text": "Differenz zwischen den Durchschnitten der Testergebnisse von Schüler:innen mit und ohne Migrationshintergrund beim internationalen PISA-Test im Bereich Lesen.",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Punkte",
+        "name_a": "Kompetenz Lesen 15-jährige (PISA) - Leistungsdifferenz nach Herkunft"
+    },
+    "pagerank": {
+        "short": "Super-Patente",
+        "source": "PATSTAT, Herbst 2023, Weltbank, WIFO-Berechnungen",
+        "text": "Anzahl technologisch besonders bedeutsamer Patente (siehe https://fti-monitor.rfte.at/docs/pdf/S260032.pdf).",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Index",
+        "name_a": "„Super-Patente“ – bahnbrechende Erfindungen"
+    },
+    "patentanmeldungen_bev": {
+        "short": "Patentanmeldungen",
+        "source": "PATSTAT, Herbst 2023, Weltbank, WIFO-Berechnungen",
+        "text": "Patentanmeldungen am Europäischen Patentamt nach Wohnsitz der Erfinder:innen (pro 1.000 der Bevölkerung)",
+        "io": "o",
+        "unit": "Anzahl je 1.000 EW",
+        "unit_short": "Anzahl je 1.000 EW",
+        "name_a": "Patentanmeldungen am EPA nach Wohnsitz der Erfinder:innen"
+    },
+    "pr_Core": {
+        "short": "Pagerank (Kreislaufwirtschaft)",
+        "source": "Patstat, Herbst 2023, WIFO-Berechnungen",
+        "text": "Anzahl technologisch besonders bedeutsamer kreislaufwirtschaftsrelevanter Patente (siehe https://fti-monitor.rfte.at/docs/pdf/S260032.pdf).",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Anzahl",
+        "name_a": "Pagerank (Kreislaufwirtschaft)"
+    },
+    "pr_Enabling": {
+        "short": "Pagerank (unterstützende Grundlagentechnologien)",
+        "source": "Patstat, Herbst 2023, WIFO-Berechnungen",
+        "text": "Anzahl technologisch besonders bedeutsamer kreislaufwirtschaftsrelevanter Patente (siehe https://fti-monitor.rfte.at/docs/pdf/S260032.pdf).",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Anzahl",
+        "name_a": "Pagerank (unterstützende Grundlagentechnologien)"
+    },
+    "private_FuE": {
+        "short": "Privater Anteil an F&E-Finanzierung",
+        "source": "OECD MSTI",
+        "text": "Anteil GERD finanziert durch den Unternehmenssektor (In %)",
+        "io": "i",
+        "unit": "in % von GERD",
+        "unit_short": "In %",
+        "name_a": "Privater Anteil an F&E-Finanzierung"
+    },
+    "publications_10pct": {
+        "short": "Qualität der Publikationen",
+        "source": "European Innovation Scoreboard",
+        "text": "Der Indikator ist ein Maß für die Effizienz des Forschungssystem, highly cited publications werden als qualitativ höherwertig angenommen. (EIS Indikator 1.2.2.) (In %)",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Anzahl der Publikationen unter den meistzitierten 10 % weltweit"
+    },
+    "pve": {
+        "short": "Politische Stabilität",
+        "source": "Worldwide Governance Indicators",
+        "text": "Politische Stabilität und Gewaltfreiheit",
+        "io": "i",
+        "unit": null,
+        "unit_short": "Indexwert",
+        "name_a": "Politische Stabilität"
+    },
+    "recyl": {
+        "short": "Recyclingrate",
+        "source": "Eurostat (cei_wm010)",
+        "text": "Recyclingrate für alle Abfälle ohne dominante mineralische Abfälle",
+        "io": "o",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Recyclingrate"
+    },
+    "res_fem_bus": {
+        "short": "Forscherinnen in Unternehmen",
+        "source": "OECD MSTI (BH_WRS)",
+        "text": "Dieser Indikator misst den Prozentsatz der Frauen am wissenschaftlichen Forschungspersonal in privaten Unternehmen. (In %)",
+        "io": "i",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Forscherinnen (Sektor Unternehmen)"
+    },
+    "res_fem_govhes": {
+        "short": "Forscherinnen außerhalb Unternehmen",
+        "source": "OECD MSTI (GH_WRS, HH_WRS)",
+        "text": "Dieser Indikator misst den Prozentsatz der Frauen am wissenschaftlichen Forschungspersonal im Regierungs- und Hochschulbereich. (In %)",
+        "io": "i",
+        "unit": null,
+        "unit_short": "In %",
+        "name_a": "Forscherinnen (Sektor Staat und Hochschule)"
+    },
+    "researchers_FTE_bev": {
+        "short": "Zahl der Forscher:innen",
+        "source": "OECD MSTI (TP_RS), Eurostat (rd_p_persocc), WIFO-Berechnungen",
+        "text": "Indikatoren stammen alle aus den jeweiligen Bereichen - Erklärung siehe dort",
+        "io": "i",
+        "unit": null,
+        "unit_short": "Anzahl je 1.000 EW",
+        "name_a": "Forscher:innen in VZÄ in allen Sektoren (pro 1.000 der Bevölkerung)"
+    },
+    "rle": {
+        "short": "Rechtsstaatlichkeit",
+        "source": "Worldwide Governance Indicators",
+        "text": "Rechtsstaatlichkeit, Qualität von Verwaltungsbehörden und rechtsstaatlicher Prinzipien",
+        "io": "i",
+        "unit": null,
+        "unit_short": "Indexwert",
+        "name_a": "Rechtsstaatlichkeit, unabhängige Gerichte"
+    },
+    "robot_ind_ser": {
+        "short": "Industrie- und Serviceroboter",
+        "source": "Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_RBT)",
+        "text": "Anteil der Unternehmen, der Industrie- oder Serviceroboter verwendet (in % der Unternehmen)",
+        "io": "i",
+        "unit": "In % der Unternehmen",
+        "unit_short": "In %",
+        "name_a": "Nutzung von Industrie- und Servicerobotern in Unternehmen"
+    },
+    "rqe": {
+        "short": "Regulierungsqualität",
+        "source": "Worldwide Governance Indicators",
+        "text": "Qualität der Regulierung und Intensität regulatorischer Eingriffe",
+        "io": "i",
+        "unit": null,
+        "unit_short": "Indexwert",
+        "name_a": "Intensität der regulatorischen Eingriffe, Preiskontrollen, Investititionskontrollen etc."
+    },
+    "schnellwachsende_UNT": {
+        "short": "Schnellwachsende Unternehmen",
+        "source": "Eurostat (bd_9pm_r2 bd_hg)",
+        "text": "Anteil der wachstumsstarken Unternehmen, gemessen an der Beschäftigung - wachstumsstarke Unternehmen geteilt durch aktive Unternehmen mit mindestens 10 Beschäftigten - Prozent",
+        "io": "o",
+        "unit": "in %",
+        "unit_short": "in %",
+        "name_a": "Schnellwachsende Unternehmen"
+    },
+    "sophistication": {
+        "short": "Exportkomplexität",
+        "source": "BACI, WIFO-Berechnungen",
+        "text": "Dabei handelt es sich um einen sogenannten Produktraumindikator (vgl. Hausmann - Hidalgo, 2011; Hidalgo - Hausmann, 2009; Caldarelli et al., 2012), der den technologischen Entwicklungsgrad einer Produktlinie auf der Grundlage der Komplexität der zugrundeliegenden Wissensbestände misst. Da diese Komplexität nicht direkt beobachtbar ist, wird diese Information durch eine Netzwerkanalyse ermittelt. Das zugrunde liegende Netzwerk verbindet Produktlinien mit Ländern und extrahiert durch ein spezifisches Verfahren aufgrund der Einzigartigkeit der Produktlinien sowie der Diversifizierungsprofile der Länder, die diese Produktlinien exportieren, diese Information.",
+        "io": "o",
+        "unit": null,
+        "unit_short": "Komplexitätsscore",
+        "name_a": "Komplexitätsscore der exportierten Produkte"
+    },
+    "triadischepatente_bev": {
+        "short": "Triadische Patentanmeldungen",
+        "source": "PATSTAT, Herbst 2023, Weltbank, WIFO-Berechnungen",
+        "text": "Patentanmeldungen an den Patentämtern der Europäischen Union (EPA), Japans (JPO) und der USA (USPTO) nach Wohnsitz der Erfinder:innen (pro 1.000 der Bevölkerung), (Glättung: 3-Jahresdurchschnitt)",
+        "io": "o",
+        "unit": "Anzahl je 1.000 EW",
+        "unit_short": "Anzahl je 1.000 EW",
+        "name_a": "Patentanmeldungen an EPA, JPO und USPTO nach Wohnsitz der Erfinder:innen"
+    },
+    "vaShareIctTypeComb_High": {
+        "short": "IKT-Wertschöpfung",
+        "source": "Eurostat SBS, WIFO-Berechnungen",
+        "text": "Wertschöpfungsanteile IKT-intensiver Branchen (User, exkl. IKT-Sachgüter und Dienstleister,in %)",
+        "io": "o",
+        "unit": "in % der Wertschöpfung",
+        "unit_short": "In %",
+        "name_a": "Wertschöpfungsanteil von Branchen mit hoher IKT-Intensität"
+    },
+    "vaShareIctTypeComb_Producer": {
+        "short": "Wertschöpfungsanteil von IKT-Produktionsbranchen",
+        "source": "Eurostat SBS, WIFO-Berechnungen",
+        "text": "Wertschöpfungsanteil der IKT-Sachgütererzeugung und IKT-Dienstleister (Producer, in %)",
+        "io": "o",
+        "unit": "in % der Wertschöpfung",
+        "unit_short": "In %",
+        "name_a": "Wertschöpfungsanteil von IKT-Produktionsbranchen"
+    },
+    "vocational_graduates": {
+        "short": "Anteil berufsbezogene Absolvent:innen",
+        "source": "Eurostat (educ_uoe_grad01)",
+        "text": "Der Indikator gibt den geschätzten, prozentuellen Anteil an Personen wieder, die in ihrem Leben einen Abschluss im oberen Sekundarbereich erreichen.",
+        "io": "o",
+        "unit": "in % der Personen",
+        "unit_short": "In %",
+        "name_a": "Anteil an Personen mit erwartetem Abschluss im oberen Sekundarbereich über die Lebenszeit"
+    },
+    "waste_weee": {
+        "short": "Gesammelter Elektroschrott",
+        "source": "Eurostat (env_waseleeos)",
+        "text": "Gesammelter Elektroschrott in kg pro Kopf der Bevölkerung",
+        "io": "o",
+        "unit": "in kg pro Kopf",
+        "unit_short": "Kg je EW",
+        "name_a": "Gesammelte Elektro- und Elektronikgeräte-Abfall (WEEE) in kg pro Kopf"
+    },
+    "wissens_DL": {
+        "short": "Innovationsintensiver Dienstleistungsexport",
+        "source": "Eurostat Comext, ITC, WIFO-Berechnungen",
+        "text": "Der Indikator zeigt das Exportgewicht von Dienstleistungssektoren mit hoher Innovationsintensität und kann daher auch als Maß für die Wissensintensität der Exportstruktur gesehen werden. Aufgrund der spezifischen Gegebenheiten Österreichs (Alpen, Kulturstädte) erzielt Österreich einen im internationalen Vergleich weit überdurchschnittlichen Tourismusanteil am Dienstleistungsexport, dieser wird daher nicht berücksichtigt. (In %)",
+        "io": "o",
+        "unit": "in % der Exporte",
+        "unit_short": "In %",
+        "name_a": "Anteil innovationsintensiver Sektoren am Dienstleistungsexport"
+    },
+    "wissensintensitaet_export": {
+        "short": "Wissensintensität Export",
+        "source": "Eurostat Comext, UN COMTRADE",
+        "text": "Die Exportqualität kann als Maß für die Verbesserung der Produktstruktur interpretiert werden: die Stückpreise im Export eng definierter Produktkategorien werden in drei Segmente eingeteilt, dieser Indikator misst den Anteil des höchstpreisigen Segments an Exporten einer Produktkategorie. (In %)",
+        "io": "o",
+        "unit": "in % der Exporte",
+        "unit_short": "In %",
+        "name_a": "Anteil der Exporte im Hochpreissegment an allen Exporten"
+    },
+    "zit_fam_tc_ceCore_rta": {
+        "short": "RTA kreislaufwirtschaftsrelevanter Patentanmeldungen mit inländischen Erfinder:innen",
+        "source": "Patstat, Herbst 2023, WIFO-Berechnungen",
+        "text": "Der Indikator zeigt die relative Erfindungsspezialisierung anhand eines RTA-Indikators (ähnlich zum RCA im Außenhandel - Relative Technological Advantage vs. Relative Comparative Advantage).",
+        "io": "o",
+        "unit": "Revealed Technological Advantage (RTA)",
+        "unit_short": "RTA",
+        "name_a": "RTA kreislaufwirtschaftsrelevanter Patentanmeldungen mit inländischen Erfinder:innen"
+    },
+    "zit_fam_tc_ceEnabling_rta": {
+        "short": "RTA-Patentanmeldungen für unterstützende Grundlagentechnologien mit inländischen Erfinder:innen",
+        "source": "Patstat, Herbst 2023, WIFO-Berechnungen",
+        "text": "Der Indikator zeigt die relative Erfindungsspezialisierung anhand eines RTA-Indikators (ähnlich zum RCA im Außenhandel - Relative Technological Advantage vs. Relative Comparative Advantage).",
+        "io": "o",
+        "unit": "Revealed Technological Advantage (RTA)",
+        "unit_short": "RTA",
+        "name_a": "RTA-Patentanmeldungen für unterstützende Grundlagentechnologien mit inländischen Erfinder:innen"
+    },
+    "öff_Finanz_HS_BIP": {
+        "short": "Öffentliche Finanzierung HERD, in % des BIP",
+        "source": "Eurostat (rd_e_gerdfund)",
+        "text": "Öffentliche Finanzierung von F&E-Ausgaben im Hochschulsektor (HERD) im internationalen Vergleich (in % des BIP)",
+        "io": "i",
+        "unit": "in % des BIP",
+        "unit_short": "In %",
+        "name_a": "Öffentliche Finanzierung von HERD im internationalen Vergleich (in % des BIP)"
+    },
+    "öff_Finanz_HS_HERD": {
+        "short": "Anteil öffentlicher Finanzierung an HERD",
+        "source": "Eurostat (rd_e_gerdfund)",
+        "text": "Öffentliche Finanzierung von F&E-Ausgaben im Hochschulsektor im internationalen Vergleich, in % der gesamten F&E-Ausgaben des Hochschulsektors.",
+        "io": "i",
+        "unit": "in % von HERD",
+        "unit_short": "In %",
+        "name_a": "Öffentliche Finanzierung von HERD im internationalen Vergleich, in % von HERD"
+    },
+    "öffentliche_Finanz_FuE": {
+        "short": "Öffentliche Finanzierung F&E",
+        "source": "OECD MSTI (G_FGXGD)",
+        "text": "Anteil GERD finanziert von öffentlichen Stellen (In % des BIP)",
+        "io": "i",
+        "unit": "in % des BIP",
+        "unit_short": "In %",
+        "name_a": "Öffentliche Finanzierung von FTI im internationalen Vergleich"
+    }
+}

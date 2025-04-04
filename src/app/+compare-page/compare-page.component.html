@@ -1,0 +1,7 @@
+<div>
+  <app-indicator-select [(selectedIndicator)]="selectedIndicator"></app-indicator-select>
+  <app-documents-table
+    [documentsForIndicator]="documentsForIndicator()"
+    [availableSearches]="availableSearches()"
+  ></app-documents-table>
+</div>

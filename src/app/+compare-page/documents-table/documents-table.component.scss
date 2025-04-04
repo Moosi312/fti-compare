@@ -1,0 +1,33 @@
+.table {
+  &__caption {
+    display: flex;
+    justify-content: space-between;
+
+    &__actions {
+      display: flex;
+      gap: 1rem;
+    }
+  }
+
+  &__row {
+    td {
+      vertical-align: top;
+
+      > span {
+        display: flex;
+        height: 40px;
+        align-items: center;
+      }
+    }
+
+    &__document-list {
+      display: flex;
+      flex-direction: column;
+      gap: .5rem;
+      margin-top: 1rem;
+    }
+  }
+  &__empty {
+    text-align: center;
+  }
+}

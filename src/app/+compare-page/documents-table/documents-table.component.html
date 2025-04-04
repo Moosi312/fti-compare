@@ -1,0 +1,80 @@
+<p-table
+  [value]="tableValues()"
+  [expandedRowKeys]="expandedRows"
+  dataKey="documentType"
+>
+  <ng-template #caption>
+    <div class="table__caption">
+      <p-multi-select
+        display="chip"
+        [options]="availableSearches()"
+        [(ngModel)]="selectedSearches"
+        selectedItemsLabel="{0} columns selected"
+        placeholder="Choose Columns"
+      ></p-multi-select>
+      <div class="table__caption__actions">
+        <button pButton (click)="expandAll()">
+          <PlusIcon pButtonIcon></PlusIcon>
+          <span pButtonLabel>Expand all</span>
+        </button>
+        <button pButton (click)="collapseAll()">
+          <MinusIcon pButtonIcon></MinusIcon>
+          <span pButtonLabel>Collapse All</span>
+        </button>
+      </div>
+    </div>
+  </ng-template>
+  <ng-template #header>
+    <tr>
+      <th style="width: 5rem"></th>
+      <th>Type</th>
+      @for (search of selectedSearches(); track search) {
+        <th>{{search}}</th>
+      }
+    </tr>
+  </ng-template>
+  <ng-template #body let-documents>
+    <tr class="table__row">
+      @let expanded = isRowExpanded(documents.documentType);
+      <td>
+        <button pButton pRipple [pRowToggler]="documents" [text]="true" [rounded]="true">
+          @if (expanded) {
+            <ChevronDownIcon pButtonIcon></ChevronDownIcon>
+          } @else {
+            <ChevronRightIcon pButtonIcon></ChevronRightIcon>
+          }
+        </button>
+      </td>
+      <td>
+        <span>{{ getDocumentTypeLabel(documents.documentType) }}</span>
+      </td>
+      @for (search of selectedSearches(); track search) {
+        @let searchResults = documents.searches.get(search) ?? [];
+        <td>
+          <span>
+            {{searchResults.length}}
+            @if (searchResults.length === 1) {
+              Dokument
+            } @else {
+              Dokumente
+            }
+          </span>
+          @if (expanded) {
+            <div class="table__row__document-list">
+              @for (doc of searchResults; track doc.file) {
+                <app-document-view [document]="doc"></app-document-view>
+              }
+            </div>
+          }
+        </td>
+      }
+    </tr>
+  </ng-template>
+  <ng-template #emptymessage>
+    <tr>
+      <td [colSpan]="selectedSearches().length + 2" class="table__empty">
+        Select an indicator to view data
+      </td>
+    </tr>
+  </ng-template>
+</p-table>

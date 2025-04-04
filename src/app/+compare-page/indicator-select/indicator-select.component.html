@@ -1,0 +1,16 @@
+<div class="indicator">
+  <p-card header="Indicator searches comparison">
+    <p-float-label style="margin-top: 1.5rem">
+      <p-select
+        inputId="indicator"
+        size="large"
+        [options]="availableIndicators()"
+        [(ngModel)]="selectedIndicator"
+        [style]="{width: '100%'}"
+        [editable]="true"
+      ></p-select>
+      <label for="indicator">Select Indicator</label>
+    </p-float-label>
+  </p-card>
+
+</div>
