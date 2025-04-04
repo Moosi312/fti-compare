@@ -40,9 +40,7 @@ export class ComparePageComponent {
     return documentsMap.get(selectedIndicator);
   });
   availableSearches = computed(
-    () =>
-      this.dataStore.searches()?.map((search) => search.config.searchName) ??
-      [],
+    () => this.dataStore.searches()?.map((search) => search.config) ?? [],
   );
 
   constructor() {

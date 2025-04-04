@@ -10,5 +10,6 @@ export interface Config {
 
 export interface SearchConfig {
   searchName: string;
+  description: string;
   fileLocation: string;
 }

@@ -6,7 +6,6 @@ import {
   effect,
   inject,
   input,
-  model,
   signal,
   untracked,
 } from '@angular/core';
@@ -22,12 +21,16 @@ import {
 import { ButtonDirective, ButtonIcon, ButtonLabel } from 'primeng/button';
 import { Ripple } from 'primeng/ripple';
 import { DocumentViewComponent } from './document-view/document-view.component';
-import { DocumentSearchByType, DocumentTypeEnum } from '../../shared/config';
+import {
+  DocumentSearchByType,
+  DocumentTypeEnum,
+  SearchConfig,
+} from '../../shared/config';
 import { DataStore } from '../../shared/data.store';
-import { DOCUMENT } from '@angular/common';
 import { tap } from 'rxjs';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { ActivatedRouteService } from '../../shared/activated-route.service';
+import { InfoPopupComponent } from '../../shared/info-popup/info-popup.component';
 
 type ExpandedRowType = { [key in DocumentTypeEnum]?: boolean };
 
@@ -46,6 +49,7 @@ type ExpandedRowType = { [key in DocumentTypeEnum]?: boolean };
     Ripple,
     ButtonLabel,
     DocumentViewComponent,
+    InfoPopupComponent,
   ],
   templateUrl: './documents-table.component.html',
   styleUrl: './documents-table.component.scss',
@@ -67,11 +71,14 @@ export class DocumentsTableComponent {
   ];
 
   documentsForIndicator = input.required<DocumentSearchByType | undefined>();
-  availableSearches = input.required<string[]>();
+  availableSearches = input.required<SearchConfig[]>();
   selectedSearches = signal<string[]>([]);
 
   config = this.dataStore.config;
 
+  availableSearchesOptions = computed(() =>
+    this.availableSearches().map((search) => search.searchName),
+  );
   tableValues = computed(() => {
     return Array(...(this.documentsForIndicator()?.entries() ?? []))
       .sort(
@@ -131,13 +138,25 @@ export class DocumentsTableComponent {
     }
   }
 
+  getSearchDetails(search: string) {
+    return this.availableSearches().find((s) => s.searchName === search);
+  }
+
   private initSelectedSearches() {
     effect(() => {
       const availableSearches = this.availableSearches();
       untracked(() => {
         if (this.selectedSearches().length === 0) {
-          this.selectedSearches.set(availableSearches);
+          this.selectedSearches.set(availableSearches.map((s) => s.searchName));
         }
+      });
+    });
+
+    effect(() => {
+      const searches = this.selectedSearches();
+      console.log(searches);
+      this.activateRouteService.addQueryParams({
+        search: searches.join(','),
       });
     });
 
@@ -146,17 +165,12 @@ export class DocumentsTableComponent {
       .pipe(
         tap((searches) =>
           this.selectedSearches.set(
-            searches === '' ? [] : (searches?.split(',') ?? []),
+            searches !== '' ? (searches?.split(',') ?? []) : [],
           ),
         ),
         takeUntilDestroyed(this.destroyRef),
       )
       .subscribe();
-
-    effect(() => {
-      const searches = this.selectedSearches();
-      this.activateRouteService.addQueryParams({ search: searches.join(',') });
-    });
   }
 
   private initExpandedRows() {

@@ -8,22 +8,27 @@
   "searches": [
     {
       "searchName": "Text Search",
+      "description": "kjfaaklsdajfsdajökfdsldslafkdsaöfl\nkldsafjlkfdslakjkl",
       "fileLocation": "/search-test/docs-by-indicator.json"
     },
     {
       "searchName": "LLM Search",
+      "description": "",
       "fileLocation": "/llm-search/docs-by-indicator.json"
     },
     {
       "searchName": "Third Search",
+      "description": "",
       "fileLocation": "/search-test/docs-by-indicator.json"
     },
     {
       "searchName": "Forth Search",
+      "description": "",
       "fileLocation": "/search-test/docs-by-indicator.json"
     },
     {
       "searchName": "Fifth Search",
+      "description": "",
       "fileLocation": "/search-test/docs-by-indicator.json"
     }
   ]

@@ -9,6 +9,12 @@
     }
   }
 
+  &__header {
+    &__info {
+      white-space: pre-line;
+    }
+  }
+
   &__row {
     td {
       vertical-align: top;

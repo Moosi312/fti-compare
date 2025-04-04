@@ -1,0 +1,6 @@
+<button pButton (click)="popover.toggle($event)" [text]="true">
+  <InfoCircleIcon pButtonIcon></InfoCircleIcon>
+</button>
+<p-popover #popover>
+  <ng-content></ng-content>
+</p-popover>

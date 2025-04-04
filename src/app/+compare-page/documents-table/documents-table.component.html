@@ -9,7 +9,7 @@
     <div class="table__caption">
       <p-multi-select
         display="chip"
-        [options]="availableSearches()"
+        [options]="availableSearchesOptions()"
         [(ngModel)]="selectedSearches"
         selectedItemsLabel="{0} columns selected"
         placeholder="Choose Columns"
@@ -31,7 +31,14 @@
       <th style="width: 5rem"></th>
       <th>Type</th>
       @for (search of selectedSearches(); track search) {
-        <th>{{search}}</th>
+        <th>
+          {{search}}
+          @if (getSearchDetails(search)?.description; as description) {
+            <app-info-popup>
+              <span class="table__header__info">{{ description }}</span>
+            </app-info-popup>
+          }
+        </th>
       }
     </tr>
   </ng-template>
