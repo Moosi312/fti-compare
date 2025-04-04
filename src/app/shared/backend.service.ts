@@ -10,7 +10,7 @@ export class BackendService {
   private httpClient = inject(HttpClient);
 
   getConfig(): Observable<Config> {
-    return this.get<Config>('/config.json');
+    return this.get<Config>('config.json');
   }
 
   get<T>(url: string): Observable<T> {
