@@ -11,5 +11,11 @@
   ],
   "include": [
     "src/**/*.d.ts"
+  ],
+  "exclude": [
+    "public/data",
+    "public/docs",
+    "public/llm-search",
+    "public/search-test"
   ]
 }
