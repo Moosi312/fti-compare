@@ -16,12 +16,6 @@ export class ActivatedRouteService {
   }
 
   addQueryParams(params: { [key: string]: string | undefined }): void {
-    const routeSnapshot = this.activateRoute.snapshot;
-    console.log(params, routeSnapshot.queryParams, {
-      ...params,
-      ...routeSnapshot.queryParams,
-    });
-    console.log(location);
     this.router.navigate(['/'], {
       queryParams: params,
       queryParamsHandling: 'merge',
