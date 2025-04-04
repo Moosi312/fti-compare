@@ -2,13 +2,18 @@ import {
   ChangeDetectionStrategy,
   Component,
   computed,
+  DestroyRef,
+  effect,
   inject,
   signal,
 } from '@angular/core';
 import { DataStore } from '../shared/data.store';
-import { DocumentSearchByType } from '../shared/config';
+import { DocumentSearchByType, DocumentTypeEnum } from '../shared/config';
 import { DocumentsTableComponent } from './documents-table/documents-table.component';
 import { IndicatorSelectComponent } from './indicator-select/indicator-select.component';
+import { tap } from 'rxjs';
+import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
+import { ActivatedRouteService } from '../shared/activated-route.service';
 
 @Component({
   selector: 'app-compare-page',
@@ -21,6 +26,8 @@ import { IndicatorSelectComponent } from './indicator-select/indicator-select.co
 })
 export class ComparePageComponent {
   dataStore = inject(DataStore);
+  destroyRef = inject(DestroyRef);
+  activateRouteService = inject(ActivatedRouteService);
 
   selectedIndicator = signal<string | undefined>(undefined);
 
@@ -37,4 +44,26 @@ export class ComparePageComponent {
       this.dataStore.searches()?.map((search) => search.config.searchName) ??
       [],
   );
+
+  constructor() {
+    this.initSelectedIndicator();
+    this.initSelectedSearches();
+  }
+
+  private initSelectedSearches() {}
+
+  private initSelectedIndicator() {
+    this.activateRouteService
+      .getQueryParam$('indicator')
+      .pipe(
+        tap((indicator) => this.selectedIndicator.set(indicator)),
+        takeUntilDestroyed(this.destroyRef),
+      )
+      .subscribe();
+
+    effect(() => {
+      const indicator = this.selectedIndicator();
+      this.activateRouteService.addQueryParams({ indicator: indicator });
+    });
+  }
 }

@@ -23,7 +23,7 @@ import { Card } from 'primeng/card';
 export class IndicatorSelectComponent {
   dataStore = inject(DataStore);
 
-  selectedIndicator = model<string>();
+  selectedIndicator = model<string | undefined>();
   availableIndicators = computed<SelectItem<string>[]>(() =>
     this.dataStore.indicators().map((indicator) => ({
       label: this.dataStore.getName(indicator),

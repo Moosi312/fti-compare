@@ -1,6 +1,8 @@
 <p-table
   [value]="tableValues()"
   [expandedRowKeys]="expandedRows"
+  (onRowExpand)="updateExpandedRows()"
+  (onRowCollapse)="updateExpandedRows()"
   dataKey="documentType"
 >
   <ng-template #caption>
