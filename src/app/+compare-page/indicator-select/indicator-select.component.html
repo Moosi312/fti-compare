@@ -7,8 +7,13 @@
         [options]="availableIndicators()"
         [(ngModel)]="selectedIndicator"
         [style]="{width: '100%'}"
-        [editable]="true"
+        [filter]="true"
         [showClear]="true"
+        [group]="true"
+        [resetFilterOnHide]="true"
+        filterBy="label"
+        emptyFilterMessage="No indicators found"
+        scrollHeight="500px"
       ></p-select>
       <label for="indicator">Select Indicator</label>
     </p-float-label>

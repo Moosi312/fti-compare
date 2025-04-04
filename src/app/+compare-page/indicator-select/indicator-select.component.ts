@@ -8,7 +8,7 @@ import {
 import { Select } from 'primeng/select';
 import { FormsModule } from '@angular/forms';
 import { DataStore } from '../../shared/data.store';
-import { SelectItem } from 'primeng/api';
+import { SelectItemGroup } from 'primeng/api';
 import { FloatLabel } from 'primeng/floatlabel';
 import { Card } from 'primeng/card';
 
@@ -24,10 +24,22 @@ export class IndicatorSelectComponent {
   dataStore = inject(DataStore);
 
   selectedIndicator = model<string | undefined>();
-  availableIndicators = computed<SelectItem<string>[]>(() =>
-    this.dataStore.indicators().map((indicator) => ({
-      label: this.dataStore.getName(indicator),
-      value: indicator,
-    })),
+  availableIndicators = computed<SelectItemGroup<string>[]>(() =>
+    Array(...(this.dataStore.indicatorsForTopic().entries() ?? [])).map(
+      ([topic, indicators]) => ({
+        label: this.dataStore.getName(topic) ?? topic,
+        value: topic,
+        items: indicators.map((indicator) => ({
+          label: this.dataStore.getName(indicator) ?? indicator,
+          value: indicator,
+        })),
+      }),
+    ),
   );
+  // ndicators = computed<SelectItem<string>[]>(() =>
+  //   this.dataStore.indicators().map((indicator) => ({
+  //     label: this.dataStore.getName(indicator),
+  //     value: indicator,
+  //   })),
+  // );
 }
