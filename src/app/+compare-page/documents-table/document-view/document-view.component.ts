@@ -1,6 +1,7 @@
 import {
   ChangeDetectionStrategy,
   Component,
+  computed,
   inject,
   input,
 } from '@angular/core';
@@ -21,6 +22,7 @@ export class DocumentViewComponent {
   imageRepository = inject(ImageRepositoryStore);
 
   document = input.required<DocumentItem>();
+  authors = computed(() => this.document().authors.map((a) => a.short));
 
   getImage(pdfName: string) {
     return this.imageRepository.getImage(pdfName);

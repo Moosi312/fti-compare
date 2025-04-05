@@ -4,7 +4,9 @@
     <div class="document__content">
       <span class="document__content__title">{{document().name}}</span>
       <span>{{document().year}}</span>
-      <span class="document__content__author">{{document().authors}}</span>
+      @for (author of authors(); track author) {
+        <span class="document__content__author">{{author}}</span>
+      }
     </div>
   </a>
 </div>
