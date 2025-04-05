@@ -3,7 +3,7 @@ const path = require("path");
 
 // Folder containing the images
 const imagesFolder = "./public/docs/img"; // Change if needed
-const outputFile = "./src/app/shared/image-repository/images-base64.json"; // Output JSON file
+const outputFile = "./public/images-base64.json"; // Output JSON file
 
 // Supported image extensions
 const supportedExtensions = [".png", ".jpg", ".jpeg", ".gif", ".bmp", ".webp"];

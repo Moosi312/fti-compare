@@ -83,7 +83,11 @@
   <ng-template #emptymessage>
     <tr>
       <td [colSpan]="selectedSearches().length + 2" class="table__empty">
-        Select an indicator to view data
+        @if (selectedIndicator() !== undefined) {
+          Invalid indicator
+        } @else {
+          Select an indicator to view data
+        }
       </td>
     </tr>
   </ng-template>

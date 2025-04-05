@@ -1,5 +1,5 @@
 import { inject, Injectable } from '@angular/core';
-import { ActivatedRoute, Params, Router } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { map } from 'rxjs';
 
 @Injectable({
@@ -19,6 +19,7 @@ export class ActivatedRouteService {
     this.router.navigate(['/'], {
       queryParams: params,
       queryParamsHandling: 'merge',
+      replaceUrl: true,
     });
   }
 }

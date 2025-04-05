@@ -72,6 +72,7 @@ export class DocumentsTableComponent {
 
   documentsForIndicator = input.required<DocumentSearchByType | undefined>();
   availableSearches = input.required<SearchConfig[]>();
+  selectedIndicator = input<string>();
   selectedSearches = signal<string[]>([]);
 
   availableSearchesOptions = computed(() =>

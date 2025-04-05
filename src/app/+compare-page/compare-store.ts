@@ -85,9 +85,15 @@ export const CompareStore = signalStore(
             if (!document) {
               return;
             }
+
             const documentsForIndicator =
               map.get(indicator) ??
-              new Map<DocumentTypeEnum, DocumentBySearch>();
+              new Map<DocumentTypeEnum, DocumentBySearch>(
+                Object.values(DocumentTypeEnum).map((type) => [
+                  type,
+                  new Map<string, DocumentItem[]>(),
+                ]),
+              );
 
             const documentBySearch =
               documentsForIndicator.get(document.type) ??
