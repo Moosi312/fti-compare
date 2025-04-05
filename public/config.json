@@ -5,46 +5,57 @@
     "labels": "/data/labels.json"
   },
   "documentsFolder": "/docs/",
+  "baseUrl": "http://localhost:4200",
+  "ftiMonitor": "http://localhost:4200",
+  "ftiMonitorWithSearch": "http://localhost:4200",
   "searches": [
     {
       "searchName": "Text Search",
       "description": "kjfaaklsdajfsdajökfdsldslafkdsaöfl\nkldsafjlkfdslakjkl",
-      "fileLocation": "/search-test/docs-by-indicator.json"
+      "path": "/search-test/",
+      "fileName": "docs-by-indicator.json"
     },
     {
       "searchName": "LLM Search",
       "description": "",
-      "fileLocation": "/llm-search/docs-by-indicator.json"
+      "path": "/llm-search/",
+      "fileName": "docs-by-indicator.json"
     },
     {
       "searchName": "Third Search",
       "description": "",
-      "fileLocation": "/search-test/docs-by-indicator.json"
+      "path": "/search-test/",
+      "fileName": "docs-by-indicator.json"
     },
     {
       "searchName": "Forth Search",
       "description": "",
-      "fileLocation": "/search-test/docs-by-indicator.json"
+      "path": "/search-test/",
+      "fileName": "docs-by-indicator.json"
     },
     {
       "searchName": "Fifth Search",
       "description": "",
-      "fileLocation": "/search-test/docs-by-indicator.json"
+      "path": "/search-test/",
+      "fileName": "docs-by-indicator.json"
     },
     {
       "searchName": "Sixth Search",
       "description": "",
-      "fileLocation": "/search-test/docs-by-indicator.json"
+      "path": "/search-test/",
+      "fileName": "docs-by-indicator.json"
     },
     {
       "searchName": "Seventh Search",
       "description": "",
-      "fileLocation": "/search-test/docs-by-indicator.json"
+      "path": "/search-test/",
+      "fileName": "docs-by-indicator.json"
     },
     {
       "searchName": "Eight Search",
       "description": "",
-      "fileLocation": "/search-test/docs-by-indicator.json"
+      "path": "/search-test/",
+      "fileName": "docs-by-indicator.json"
     }
   ]
 }

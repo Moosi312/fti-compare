@@ -1,0 +1,10 @@
+<p-menubar [model]="menuItems()">
+  <ng-template #start>
+    <a [href]="baseUrl()">
+      <app-logo height="40px" width="40px"></app-logo>
+    </a>
+  </ng-template>
+  <ng-template #end>
+    <p-button [icon]="isDarkMode() ? 'pi pi-sun' : 'pi pi-moon'" (onClick)="toggleDarkMode()"></p-button>
+  </ng-template>
+</p-menubar>

@@ -158,7 +158,7 @@ export const CompareStore = signalStore(
         forkJoin(
           config.searches.map((search) =>
             backendService
-              .get<DocumentLink>(search.fileLocation)
+              .get<DocumentLink>(search.path + search.fileName)
               .pipe(map((links) => ({ config: search, links }))),
           ),
         )

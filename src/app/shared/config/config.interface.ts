@@ -6,10 +6,14 @@ export interface Config {
   };
   documentsFolder: string;
   searches: SearchConfig[];
+  baseUrl: string;
+  ftiMonitor: string;
+  ftiMonitorWithSearch: string;
 }
 
 export interface SearchConfig {
   searchName: string;
   description: string;
-  fileLocation: string;
+  path: string;
+  fileName: string;
 }

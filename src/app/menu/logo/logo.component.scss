@@ -1,0 +1,19 @@
+.logo {
+  background-color: var(--p-surface-100);
+  border-radius: 50%;
+
+  .st0 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 2.5;
+    stroke-miterlimit: 10;
+  }
+}
+
+.app-dark-mode {
+  .logo {
+    .st0 {
+      stroke: #fff;
+    }
+  }
+}
