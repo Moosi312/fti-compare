@@ -4,8 +4,9 @@ import {
   inject,
   input,
 } from '@angular/core';
-import { DocumentItem, DocumentTypeEnum } from '../../../shared/config';
-import { DataStore } from '../../../shared/data.store';
+import { DocumentItem } from '../../../shared/config';
+import { ConfigStore } from '../../../shared/config.store';
+import { ImageRepositoryStore } from '../../../shared/image-repository.store';
 
 @Component({
   selector: 'app-document-view',
@@ -16,6 +17,12 @@ import { DataStore } from '../../../shared/data.store';
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class DocumentViewComponent {
+  config = inject(ConfigStore).config;
+  imageRepository = inject(ImageRepositoryStore);
+
   document = input.required<DocumentItem>();
-  config = inject(DataStore).config;
+
+  getImage(pdfName: string) {
+    return this.imageRepository.getImage(pdfName);
+  }
 }

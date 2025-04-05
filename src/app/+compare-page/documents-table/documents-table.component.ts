@@ -26,11 +26,11 @@ import {
   DocumentTypeEnum,
   SearchConfig,
 } from '../../shared/config';
-import { DataStore } from '../../shared/data.store';
 import { tap } from 'rxjs';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { ActivatedRouteService } from '../../shared/activated-route.service';
 import { InfoPopupComponent } from '../../shared/info-popup/info-popup.component';
+import { ConfigStore } from '../../shared/config.store';
 
 type ExpandedRowType = { [key in DocumentTypeEnum]?: boolean };
 
@@ -57,7 +57,7 @@ type ExpandedRowType = { [key in DocumentTypeEnum]?: boolean };
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class DocumentsTableComponent {
-  dataStore = inject(DataStore);
+  config = inject(ConfigStore).config;
   activateRouteService = inject(ActivatedRouteService);
   destroyRef = inject(DestroyRef);
 
@@ -73,8 +73,6 @@ export class DocumentsTableComponent {
   documentsForIndicator = input.required<DocumentSearchByType | undefined>();
   availableSearches = input.required<SearchConfig[]>();
   selectedSearches = signal<string[]>([]);
-
-  config = this.dataStore.config;
 
   availableSearchesOptions = computed(() =>
     this.availableSearches().map((search) => search.searchName),
@@ -93,7 +91,6 @@ export class DocumentsTableComponent {
   constructor() {
     this.initSelectedSearches();
     this.initExpandedRows();
-    this.initPrefetchImages();
   }
 
   expandAll() {
@@ -188,20 +185,5 @@ export class DocumentsTableComponent {
         takeUntilDestroyed(this.destroyRef),
       )
       .subscribe();
-  }
-
-  private initPrefetchImages() {
-    effect(() => {
-      const documents = this.documentsForIndicator();
-      const documentsFolder = this.config()?.documentsFolder;
-      documents?.forEach((search) =>
-        search.forEach((docs) =>
-          docs.forEach((doc) => {
-            const img = new Image();
-            img.src = documentsFolder + 'img/' + doc.file + '.png';
-          }),
-        ),
-      );
-    });
   }
 }

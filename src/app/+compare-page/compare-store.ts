@@ -7,7 +7,6 @@ import {
   withState,
 } from '@ngrx/signals';
 import {
-  Config,
   DocumentBySearch,
   DocumentItem,
   DocumentLink,
@@ -17,23 +16,22 @@ import {
   Labels,
   SearchItem,
   TopicConfig,
-} from './config';
+} from '../shared/config';
 import { computed, DestroyRef, effect, inject } from '@angular/core';
-import { BackendService } from './backend.service';
+import { BackendService } from '../shared/backend.service';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { forkJoin, map, tap } from 'rxjs';
+import { ConfigStore } from '../shared/config.store';
 
 interface DataStoreState {
-  config: Config | undefined;
   docs: DocumentItem[] | undefined;
   labels: Labels | undefined;
   topicConfig: TopicConfig | undefined;
   searches: SearchItem[] | undefined;
 }
 
-export const DataStore = signalStore(
+export const CompareStore = signalStore(
   withState<DataStoreState>({
-    config: undefined,
     docs: undefined,
     labels: undefined,
     topicConfig: undefined,
@@ -130,17 +128,10 @@ export const DataStore = signalStore(
     onInit: (store) => {
       const backendService = inject(BackendService);
       const destroyRef = inject(DestroyRef);
-
-      inject(BackendService)
-        .getConfig()
-        .pipe(
-          tap((config) => patchState(store, { config })),
-          takeUntilDestroyed(destroyRef),
-        )
-        .subscribe();
+      const configStore = inject(ConfigStore);
 
       effect(() => {
-        const config = store.config();
+        const config = configStore.config();
         if (!config) {
           return;
         }

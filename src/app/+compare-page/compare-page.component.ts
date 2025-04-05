@@ -7,8 +7,8 @@ import {
   inject,
   signal,
 } from '@angular/core';
-import { DataStore } from '../shared/data.store';
-import { DocumentSearchByType, DocumentTypeEnum } from '../shared/config';
+import { CompareStore } from './compare-store';
+import { DocumentSearchByType } from '../shared/config';
 import { DocumentsTableComponent } from './documents-table/documents-table.component';
 import { IndicatorSelectComponent } from './indicator-select/indicator-select.component';
 import { tap } from 'rxjs';
@@ -20,12 +20,11 @@ import { ActivatedRouteService } from '../shared/activated-route.service';
   imports: [DocumentsTableComponent, IndicatorSelectComponent],
   templateUrl: './compare-page.component.html',
   styleUrl: './compare-page.component.scss',
-  providers: [DataStore],
   standalone: true,
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class ComparePageComponent {
-  dataStore = inject(DataStore);
+  dataStore = inject(CompareStore);
   destroyRef = inject(DestroyRef);
   activateRouteService = inject(ActivatedRouteService);
 

@@ -1,6 +1,6 @@
 <div>
   <a [href]="config()?.documentsFolder + 'pdf/' + document().file" target="_blank" class="document">
-    <img [src]="config()?.documentsFolder + 'img/' + document().file + '.png'" alt="PDF"/>
+    <img [src]="getImage(document().file)" alt="PDF"/>
     <div class="document__content">
       <span class="document__content__title">{{document().name}}</span>
       <span>{{document().year}}</span>

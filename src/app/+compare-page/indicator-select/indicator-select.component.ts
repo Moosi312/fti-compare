@@ -7,7 +7,7 @@ import {
 } from '@angular/core';
 import { Select } from 'primeng/select';
 import { FormsModule } from '@angular/forms';
-import { DataStore } from '../../shared/data.store';
+import { CompareStore } from '../compare-store';
 import { SelectItemGroup } from 'primeng/api';
 import { FloatLabel } from 'primeng/floatlabel';
 import { Card } from 'primeng/card';
@@ -21,7 +21,7 @@ import { Card } from 'primeng/card';
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class IndicatorSelectComponent {
-  dataStore = inject(DataStore);
+  dataStore = inject(CompareStore);
 
   selectedIndicator = model<string | undefined>();
   availableIndicators = computed<SelectItemGroup<string>[]>(() =>
